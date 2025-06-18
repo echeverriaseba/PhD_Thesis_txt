@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: PhD_Thesis_txt.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+The style file: elsarticle-harv.bst
+Reallocating 'name_of_file' (item size: 1) to 26 items.
+A level-1 auxiliary file: Chapters/Introduction.aux
+Reallocating 'name_of_file' (item size: 1) to 28 items.
+A level-1 auxiliary file: Chapters/Paper_1_2ndrev.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+A level-1 auxiliary file: Chapters/Paper_2.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+Reallocating 'field_info' (item size: 4) to 10365 items.
+Database file #1: PhD_Thesis_bib.bib
+Repeated entry---line 3985 of file PhD_Thesis_bib.bib
+ : @article{IPCC2007
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4866 of file PhD_Thesis_bib.bib
+ : @article{lenth2019emmeans
+ :                          ,
+I'm skipping whatever remains of this entry
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Warning--empty pages in nicholls1998
+Warning--can't use both author and editor fields in Swift1996-qx
+You've used 185 entries,
+            2990 wiz_defined-function locations,
+            1808 strings with 55403 characters,
+and the built_in function-call counts, 150660 in all, are:
+= -- 10619
+> -- 8328
+< -- 65
++ -- 3199
+- -- 2980
+* -- 18331
+:= -- 22120
+add.period$ -- 690
+call.type$ -- 185
+change.case$ -- 1909
+chr.to.int$ -- 177
+cite$ -- 187
+duplicate$ -- 10209
+empty$ -- 9600
+format.name$ -- 3506
+if$ -- 27169
+int.to.chr$ -- 9
+int.to.str$ -- 1
+missing$ -- 2252
+newline$ -- 1075
+num.names$ -- 750
+pop$ -- 3553
+preamble$ -- 1
+purify$ -- 1723
+quote$ -- 0
+skip$ -- 2707
+stack$ -- 0
+substring$ -- 5420
+swap$ -- 8543
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1635
+warning$ -- 2
+while$ -- 829
+width$ -- 0
+write$ -- 2874
+(There were 2 error messages)

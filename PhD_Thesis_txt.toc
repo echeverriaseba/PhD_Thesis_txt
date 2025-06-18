@@ -1,4 +1,37 @@
-\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax
 \contentsline {chapter}{Declaration of Authorship}{iii}{section*.1}%
 \contentsline {chapter}{Abstract}{vii}{section*.2}%
 \contentsline {chapter}{Acknowledgements}{ix}{section*.3}%
+\contentsline {chapter}{Introduction}{1}{chapter*.9}%
+\contentsline {chapter}{\numberline {1}Water-saving irrigation can mitigate climate change but entails negative side effects on biodiversity in rice paddy fields}{3}{chapter.16}%
+\contentsline {section}{\numberline {1.1}Introduction}{4}{section.18}%
+\contentsline {section}{\numberline {1.2}Materials and methods}{6}{section.19}%
+\contentsline {subsection}{\numberline {1.2.1}Study area}{6}{subsection.20}%
+\contentsline {subsection}{\numberline {1.2.2}Experimental layout}{7}{subsection.21}%
+\contentsline {subsection}{\numberline {1.2.3}Greenhouse gas flux measurement}{8}{subsection.24}%
+\contentsline {subsection}{\numberline {1.2.4}Biodiversity assessment}{9}{subsection.25}%
+\contentsline {subsection}{\numberline {1.2.5}Crop yield}{10}{subsection.26}%
+\contentsline {subsection}{\numberline {1.2.6}Data analysis}{10}{subsection.27}%
+\contentsline {section}{\numberline {1.3}Results}{11}{section.28}%
+\contentsline {subsection}{\numberline {1.3.1}Climate change mitigation}{11}{subsection.29}%
+\contentsline {subsection}{\numberline {1.3.2}Biodiversity conservation}{12}{subsection.31}%
+\contentsline {subsection}{\numberline {1.3.3}Crop yield}{14}{subsection.35}%
+\contentsline {section}{\numberline {1.4}Discussion}{15}{section.37}%
+\contentsline {section}{\numberline {1.5}Conclusions}{18}{section.38}%
+\contentsline {section}{\numberline {1.6}Appendix to Chapter 1}{21}{section.41}%
+\contentsline {chapter}{Appendix to Chapter 1}{21}{section.41}%
+\contentsline {chapter}{\numberline {2}Climate change mitigation through irrigation strategies during rice growing season is off-set in fallow season}{29}{chapter.53}%
+\contentsline {section}{\numberline {2.1}Introduction}{30}{section.55}%
+\contentsline {section}{\numberline {2.2}Materials and methods}{32}{section.56}%
+\contentsline {subsection}{\numberline {2.2.1}Study site}{32}{subsection.57}%
+\contentsline {subsection}{\numberline {2.2.2}Experimental layout}{32}{subsection.58}%
+\contentsline {subsection}{\numberline {2.2.3}Greenhouse gas flux measurement}{34}{subsection.61}%
+\contentsline {subsection}{\numberline {2.2.4}Microbial biodiversity assessment}{35}{subsection.62}%
+\contentsline {subsection}{\numberline {2.2.5}Data analysis}{35}{subsection.63}%
+\contentsline {section}{\numberline {2.3}Results}{37}{section.67}%
+\contentsline {subsection}{\numberline {2.3.1}GHG emissions}{37}{subsection.68}%
+\contentsline {subsection}{\numberline {2.3.2}Microbial biodiversity}{38}{subsection.71}%
+\contentsline {section}{\numberline {2.4}Discussion}{40}{section.74}%
+\contentsline {section}{\numberline {2.5}Conclusions}{45}{section.75}%
+\contentsline {section}{\numberline {2.6}Appendix to Chapter 2}{46}{section.78}%
+\contentsline {chapter}{Appendix to Chapter 2}{46}{section.78}%

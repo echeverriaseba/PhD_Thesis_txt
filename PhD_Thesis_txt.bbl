@@ -1,0 +1,2021 @@
+\begin{thebibliography}{185}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{{Adviento-Borbe} et~al.(2013){Adviento-Borbe}, Pittelkow, Anders,
+  {van Kessel}, Hill, McClung, Six and Linquist}]{adviento-borbe2013}
+\bibinfo{author}{{Adviento-Borbe}, M.A.}, \bibinfo{author}{Pittelkow, C.M.},
+  \bibinfo{author}{Anders, M.}, \bibinfo{author}{{van Kessel}, C.},
+  \bibinfo{author}{Hill, J.E.}, \bibinfo{author}{McClung, A.M.},
+  \bibinfo{author}{Six, J.}, \bibinfo{author}{Linquist, B.A.},
+  \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Optimal {{Fertilizer Nitrogen Rates}} and
+  {{Yield-Scaled Global Warming Potential}} in {{Drill Seeded Rice}}}.
+\newblock \bibinfo{journal}{Journal of Environmental Quality}
+  \bibinfo{volume}{42}, \bibinfo{pages}{1623--1634}.
+\newblock \DOIprefix\doi{10.2134/jeq2013.05.0167}.
+%Type = Article
+\bibitem[{Alexandratos and Bruinsma(2012)}]{alexandratos2012world}
+\bibinfo{author}{Alexandratos, N.}, \bibinfo{author}{Bruinsma, J.},
+  \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{World agriculture towards 2030/2050: The 2012
+  revision}.
+\newblock \bibinfo{journal}{FAO} \DOIprefix\doi{10.4324/9781315083858}.
+%Type = Article
+\bibitem[{Arneth et~al.(2020)Arneth, Shin, Leadley, Rondinini, Bukvareva, Kolb,
+  Midgley, Oberdorff, Palomo and Saito}]{arneth2020}
+\bibinfo{author}{Arneth, A.}, \bibinfo{author}{Shin, Y.J.},
+  \bibinfo{author}{Leadley, P.}, \bibinfo{author}{Rondinini, C.},
+  \bibinfo{author}{Bukvareva, E.}, \bibinfo{author}{Kolb, M.},
+  \bibinfo{author}{Midgley, G.F.}, \bibinfo{author}{Oberdorff, T.},
+  \bibinfo{author}{Palomo, I.}, \bibinfo{author}{Saito, O.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Post-2020 biodiversity targets need to embrace
+  climate change}.
+\newblock \bibinfo{journal}{Proceedings of the National Academy of Sciences of
+  the United States of America} \bibinfo{volume}{117},
+  \bibinfo{pages}{30882--30891}.
+\newblock \DOIprefix\doi{10.1073/pnas.2009584117}.
+%Type = Article
+\bibitem[{Balaine et~al.(2019)Balaine, Carrijo, Adviento-Borbe and
+  Linquist}]{balaine2019}
+\bibinfo{author}{Balaine, N.}, \bibinfo{author}{Carrijo, D.R.},
+  \bibinfo{author}{Adviento-Borbe, M.A.}, \bibinfo{author}{Linquist, B.},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Greenhouse {{Gases}} from {{Irrigated Rice Systems}}
+  under {{Varying Severity}} of {{Alternate}}-{{Wetting}} and {{Drying
+  Irrigation}}}.
+\newblock \bibinfo{journal}{Soil Science Society of America Journal}
+  \bibinfo{volume}{83}, \bibinfo{pages}{1533--1541}.
+\newblock \DOIprefix\doi{10.2136/sssaj2019.04.0113}.
+%Type = Article
+\bibitem[{Balogh(2020)}]{balogh2020}
+\bibinfo{author}{Balogh, J.M.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{{{THE ROLE OF AGRICULTURE IN CLIMATE CHANGE}}: {{A
+  GLOBAL PERSPECTIVE}}}.
+\newblock \bibinfo{journal}{International Journal of Energy Economics and
+  Policy} \bibinfo{volume}{10}, \bibinfo{pages}{401--408}.
+\newblock \DOIprefix\doi{10.32479/ijeep.8859}.
+%Type = Article
+\bibitem[{Banerjee et~al.(2016)Banerjee, Helgason, Wang, Winsley, Ferrari and
+  Siciliano}]{banerjee2016}
+\bibinfo{author}{Banerjee, S.}, \bibinfo{author}{Helgason, B.},
+  \bibinfo{author}{Wang, L.}, \bibinfo{author}{Winsley, T.},
+  \bibinfo{author}{Ferrari, B.C.}, \bibinfo{author}{Siciliano, S.D.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Legacy effects of soil moisture on microbial
+  community structure and {{N2O}} emissions}.
+\newblock \bibinfo{journal}{Soil Biology and Biochemistry}
+  \bibinfo{volume}{95}, \bibinfo{pages}{40--50}.
+\newblock \DOIprefix\doi{10.1016/j.soilbio.2015.12.004}.
+%Type = Article
+\bibitem[{Batzer and Wissinger(1996)}]{batzer1996}
+\bibinfo{author}{Batzer, D.P.}, \bibinfo{author}{Wissinger, S.A.},
+  \bibinfo{year}{1996}.
+\newblock \bibinfo{title}{Ecology of insect communities in nontidal wetlands}.
+\newblock \bibinfo{journal}{Annual Review of Entomology} \bibinfo{volume}{41},
+  \bibinfo{pages}{75--100}.
+\newblock \DOIprefix\doi{10.1146/annurev.en.41.010196.000451}.
+%Type = Article
+\bibitem[{Berg and Sheffield(2018)}]{berg2018}
+\bibinfo{author}{Berg, A.}, \bibinfo{author}{Sheffield, J.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Climate {{Change}} and {{Drought}}: The {{Soil
+  Moisture Perspective}}}.
+\newblock \bibinfo{journal}{Current Climate Change Reports}
+  \bibinfo{volume}{4}, \bibinfo{pages}{180--191}.
+\newblock \DOIprefix\doi{10.1007/s40641-018-0095-0}.
+%Type = Article
+\bibitem[{Biggs et~al.(1994)Biggs, Corfield, Walker, Whitfield and
+  Williams}]{biggs1994}
+\bibinfo{author}{Biggs, J.}, \bibinfo{author}{Corfield, A.},
+  \bibinfo{author}{Walker, D.}, \bibinfo{author}{Whitfield, M.},
+  \bibinfo{author}{Williams, P.}, \bibinfo{year}{1994}.
+\newblock \bibinfo{title}{New approaches to the management of ponds}.
+\newblock \bibinfo{journal}{British Wildlife} \bibinfo{volume}{5},
+  \bibinfo{pages}{273--287}.
+%Type = Book
+\bibitem[{Boix(2016)}]{boix2016}
+\bibinfo{author}{Boix, D.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Invertebrates in Freshwater Wetlands: {{An}}
+  International Perspective on Their Ecology}.
+\newblock \DOIprefix\doi{10.1007/978-3-319-24978-0}.
+%Type = Incollection
+\bibitem[{Boix et~al.(2010)Boix, Gasc{\'o}n, Sala, Badosa, Brucet,
+  {L{\'o}pez-Flores}, Martinoy, Gifre and Quintana}]{boix2010}
+\bibinfo{author}{Boix, D.}, \bibinfo{author}{Gasc{\'o}n, S.},
+  \bibinfo{author}{Sala, J.}, \bibinfo{author}{Badosa, A.},
+  \bibinfo{author}{Brucet, S.}, \bibinfo{author}{{L{\'o}pez-Flores}, R.},
+  \bibinfo{author}{Martinoy, M.}, \bibinfo{author}{Gifre, J.},
+  \bibinfo{author}{Quintana, X.D.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Patterns of composition and species richness of
+  crustaceans and aquatic insects along environmental gradients in
+  {{Mediterranean}} water bodies}, in: \bibinfo{editor}{Oertli, B.},
+  \bibinfo{editor}{C{\'e}r{\'e}ghino, R.}, \bibinfo{editor}{Biggs, J.},
+  \bibinfo{editor}{Declerck, S.}, \bibinfo{editor}{Hull, A.},
+  \bibinfo{editor}{Miracle, M.R.} (Eds.), \bibinfo{booktitle}{Pond
+  {{Conservation}} in {{Europe}}}. \bibinfo{publisher}{Springer Netherlands},
+  \bibinfo{address}{Dordrecht}, pp. \bibinfo{pages}{53--69}.
+\newblock \DOIprefix\doi{10.1007/978-90-481-9088-1_6}.
+%Type = Article
+\bibitem[{Bolker(2019)}]{bolker2019getting}
+\bibinfo{author}{Bolker, B.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Getting started with the {{glmmTMB}} package}.
+\newblock \bibinfo{journal}{Cran. R-project vignette} \bibinfo{volume}{9}.
+\newblock \DOIprefix\doi{10.7717/peerj.12450/supp-1}.
+%Type = Incollection
+\bibitem[{Bouman et~al.(2007a)Bouman, Humphreys, Tuong and Barker}]{bouman2007}
+\bibinfo{author}{Bouman, B.}, \bibinfo{author}{Humphreys, E.},
+  \bibinfo{author}{Tuong, T.}, \bibinfo{author}{Barker, R.},
+  \bibinfo{year}{2007}a.
+\newblock \bibinfo{title}{Rice and {{Water}}}, in: \bibinfo{booktitle}{Advances
+  in {{Agronomy}}}. \bibinfo{publisher}{Elsevier}. volume~\bibinfo{volume}{92},
+  pp. \bibinfo{pages}{187--237}.
+\newblock \DOIprefix\doi{10.1016/S0065-2113(04)92004-4}.
+%Type = Book
+\bibitem[{Bouman et~al.(2007b)Bouman, Lampayan and Tuong}]{bouman2007a}
+\bibinfo{author}{Bouman, B.}, \bibinfo{author}{Lampayan, R.M.},
+  \bibinfo{author}{Tuong, T.P.}, \bibinfo{year}{2007}b.
+\newblock \bibinfo{title}{Water {{Management}} in {{Irrigated Rice}}:
+  {{Coping}} with {{Water Scarcity}}}.
+\newblock \bibinfo{number}{January}.
+%Type = Article
+\bibitem[{Bouman et~al.(2007c)Bouman, Humphreys, Tuong and
+  Barker}]{bouman2007rice}
+\bibinfo{author}{Bouman, B.A.}, \bibinfo{author}{Humphreys, E.},
+  \bibinfo{author}{Tuong, T.P.}, \bibinfo{author}{Barker, R.},
+  \bibinfo{year}{2007}c.
+\newblock \bibinfo{title}{Rice and water}.
+\newblock \bibinfo{journal}{Advances in agronomy} \bibinfo{volume}{92},
+  \bibinfo{pages}{187--237}.
+\newblock \DOIprefix\doi{10.4172/2375-4338.1000121}.
+%Type = Article
+\bibitem[{Breidenbach and Conrad(2014)}]{breidenbach2014}
+\bibinfo{author}{Breidenbach, B.}, \bibinfo{author}{Conrad, R.},
+  \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Seasonal dynamics of bacterial and archaeal
+  methanogenic communities in flooded rice fields and effect of drainage}.
+\newblock \bibinfo{journal}{Frontiers in Microbiology} \bibinfo{volume}{5},
+  \bibinfo{pages}{1--16}.
+\newblock \DOIprefix\doi{10.3389/fmicb.2014.00752}.
+%Type = Article
+\bibitem[{Brooks et~al.(2017)Brooks, Kristensen, {van Benthem}, Magnusson,
+  Berg, Nielsen, Skaug, M{\"a}chler and Bolker}]{brooks2017}
+\bibinfo{author}{Brooks, M.E.}, \bibinfo{author}{Kristensen, K.},
+  \bibinfo{author}{{van Benthem}, K.J.}, \bibinfo{author}{Magnusson, A.},
+  \bibinfo{author}{Berg, C.W.}, \bibinfo{author}{Nielsen, A.},
+  \bibinfo{author}{Skaug, H.J.}, \bibinfo{author}{M{\"a}chler, M.},
+  \bibinfo{author}{Bolker, B.M.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{{{glmmTMB}} balances speed and flexibility among
+  packages for zero-inflated generalized linear mixed modeling}.
+\newblock \bibinfo{journal}{R Journal} \bibinfo{volume}{9},
+  \bibinfo{pages}{378--400}.
+\newblock \DOIprefix\doi{10.32614/rj-2017-066}.
+%Type = Article
+\bibitem[{Brucet~Balma{\~n}a et~al.(2012)Brucet~Balma{\~n}a, Boix~Masafret,
+  Nathansen, Quintana~Pou, Jensen, Balayla, Meerhoff and
+  Jeppesen}]{brucetbalmana2012}
+\bibinfo{author}{Brucet~Balma{\~n}a, S.}, \bibinfo{author}{Boix~Masafret, D.},
+  \bibinfo{author}{Nathansen, L.W.}, \bibinfo{author}{Quintana~Pou, X.},
+  \bibinfo{author}{Jensen, E.}, \bibinfo{author}{Balayla, D.},
+  \bibinfo{author}{Meerhoff, M.}, \bibinfo{author}{Jeppesen, E.},
+  \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{Effects of {{Temperature}}, {{Salinity}} and {{Fish}}
+  in {{Structuring}} the {{Macroinvertebrate Community}} in {{Shallow Lakes}}:
+  {{Implications}} for {{Effects}} of {{Climate Change}}}.
+\newblock \bibinfo{journal}{PLoS ONE}
+  \DOIprefix\doi{10.1371/journal.pone.0030877}.
+%Type = Incollection
+\bibitem[{Burke and Lashof(1990)}]{burke1990}
+\bibinfo{author}{Burke, L.M.}, \bibinfo{author}{Lashof, D.A.},
+  \bibinfo{year}{1990}.
+\newblock \bibinfo{title}{Greenhouse {{Gas Emissions Related}} to
+  {{Agriculture}} and {{Land-Use Practices}}}, in: \bibinfo{booktitle}{Impact
+  of {{Carbon Dioxide}}, {{Trace Gases}}, and {{Climate Change}} on {{Global
+  Agriculture}}}. \bibinfo{publisher}{John Wiley \& Sons, Ltd}.
+  chapter~\bibinfo{chapter}{3}, pp. \bibinfo{pages}{27--43}.
+\newblock \DOIprefix\doi{10.2134/asaspecpub53.c3}.
+%Type = Article
+\bibitem[{Cai et~al.(2003)Cai, Tsuruta, Gao, Xu and Wei}]{cai2003}
+\bibinfo{author}{Cai, Z.}, \bibinfo{author}{Tsuruta, H.}, \bibinfo{author}{Gao,
+  M.}, \bibinfo{author}{Xu, H.}, \bibinfo{author}{Wei, C.},
+  \bibinfo{year}{2003}.
+\newblock \bibinfo{title}{Options for mitigating methane emission from a
+  permanently flooded rice field}.
+\newblock \bibinfo{journal}{Global Change Biology} \bibinfo{volume}{9},
+  \bibinfo{pages}{37--45}.
+\newblock \DOIprefix\doi{10.1046/j.1365-2486.2003.00562.x}.
+%Type = Article
+\bibitem[{Cai et~al.(1997)Cai, Xing, Yan, Xu, Tsuruta, Yagi and
+  Minami}]{cai1997methane}
+\bibinfo{author}{Cai, Z.}, \bibinfo{author}{Xing, G.}, \bibinfo{author}{Yan,
+  X.}, \bibinfo{author}{Xu, H.}, \bibinfo{author}{Tsuruta, H.},
+  \bibinfo{author}{Yagi, K.}, \bibinfo{author}{Minami, K.},
+  \bibinfo{year}{1997}.
+\newblock \bibinfo{title}{Methane and nitrous oxide emissions from rice paddy
+  fields as affected by nitrogen fertilisers and water management}.
+\newblock \bibinfo{journal}{Plant and soil} \bibinfo{volume}{196},
+  \bibinfo{pages}{7--14}.
+\newblock \DOIprefix\doi{10.3390/w11102169}.
+%Type = Article
+\bibitem[{Cai et~al.(2000)Cai, Tsuruta and Minami}]{cai2000}
+\bibinfo{author}{Cai, Z.C.}, \bibinfo{author}{Tsuruta, H.},
+  \bibinfo{author}{Minami, K.}, \bibinfo{year}{2000}.
+\newblock \bibinfo{title}{Methane emission from rice fields in {{China}}:
+  {{Measurements}} and influencing factors}.
+\newblock \bibinfo{journal}{Journal of Geophysical Research: Atmospheres}
+  \bibinfo{volume}{105}, \bibinfo{pages}{17231--17242}.
+\newblock \DOIprefix\doi{10.1029/2000JD900014}.
+%Type = Article
+\bibitem[{Callahan et~al.()Callahan, McMurdie, Rosen, Han, Johnson and
+  Dada}]{callahan10high}
+\bibinfo{author}{Callahan, {\relax BJ}.}, \bibinfo{author}{McMurdie, {\relax
+  PJ}.}, \bibinfo{author}{Rosen, {\relax MJ}.}, \bibinfo{author}{Han, {\relax
+  AW}.}, \bibinfo{author}{Johnson, {\relax AJA}.}, \bibinfo{author}{Dada,
+  S.H.}, .
+\newblock \bibinfo{title}{High-resolution sample inference from {{Illumina}}
+  amplicon data., 2016, 13}.
+\newblock \bibinfo{journal}{DOI: https://doi. org/10.1038/nmeth}
+  \bibinfo{volume}{3869}, \bibinfo{pages}{581--583}.
+\newblock \DOIprefix\doi{https://doi. org/10.1038/nmeth}.
+%Type = Article
+\bibitem[{Capooci et~al.(2019)Capooci, Barba, Seyfferth and
+  Vargas}]{capooci2019experimental}
+\bibinfo{author}{Capooci, M.}, \bibinfo{author}{Barba, J.},
+  \bibinfo{author}{Seyfferth, A.L.}, \bibinfo{author}{Vargas, R.},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Experimental influence of storm-surge salinity on
+  soil greenhouse gas emissions from a tidal salt marsh}.
+\newblock \bibinfo{journal}{Science of the Total Environment}
+  \bibinfo{volume}{686}, \bibinfo{pages}{1164--1172}.
+\newblock \DOIprefix\doi{10.1016/j.scitotenv.2019.06.032}.
+%Type = Article
+\bibitem[{{Carreras-Sempere} et~al.(2024){Carreras-Sempere}, Guivernau,
+  Caceres, Biel, Noguerol and Vi{\~n}as}]{carreras-sempere2024}
+\bibinfo{author}{{Carreras-Sempere}, M.}, \bibinfo{author}{Guivernau, M.},
+  \bibinfo{author}{Caceres, R.}, \bibinfo{author}{Biel, C.},
+  \bibinfo{author}{Noguerol, J.}, \bibinfo{author}{Vi{\~n}as, M.},
+  \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Effect of {{Fertigation}} with {{Struvite}} and
+  {{Ammonium Nitrate}} on {{Substrate Microbiota}} and {{N2O Emissions}} in a
+  {{Tomato Crop}} on {{Soilless Culture System}}}.
+\newblock \bibinfo{journal}{Agronomy} \bibinfo{volume}{14}.
+\newblock \DOIprefix\doi{10.3390/agronomy14010119}.
+%Type = Article
+\bibitem[{Carrijo et~al.(2018)Carrijo, Akbar, Reis, Li, Gaudin, Parikh, Green
+  and Linquist}]{carrijo2018}
+\bibinfo{author}{Carrijo, D.R.}, \bibinfo{author}{Akbar, N.},
+  \bibinfo{author}{Reis, A.F.}, \bibinfo{author}{Li, C.},
+  \bibinfo{author}{Gaudin, A.C.}, \bibinfo{author}{Parikh, S.J.},
+  \bibinfo{author}{Green, P.G.}, \bibinfo{author}{Linquist, B.A.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Impacts of variable soil drying in alternate wetting
+  and drying rice systems on yields, grain arsenic concentration and soil
+  moisture dynamics}.
+\newblock \bibinfo{journal}{Field Crops Research} \bibinfo{volume}{222},
+  \bibinfo{pages}{101--110}.
+\newblock \DOIprefix\doi{10.1016/j.fcr.2018.02.026}.
+%Type = Article
+\bibitem[{Carrijo et~al.(2017)Carrijo, Lundy and Linquist}]{carrijo2017}
+\bibinfo{author}{Carrijo, D.R.}, \bibinfo{author}{Lundy, M.E.},
+  \bibinfo{author}{Linquist, B.A.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Rice yields and water use under alternate wetting and
+  drying irrigation: {{A}} meta-analysis}.
+\newblock \bibinfo{journal}{Field Crops Research} \bibinfo{volume}{203},
+  \bibinfo{pages}{173--180}.
+\newblock \DOIprefix\doi{10.1016/j.fcr.2016.12.002}.
+%Type = Article
+\bibitem[{Chao et~al.(2014a)Chao, Chiu and Jost}]{chao2014a}
+\bibinfo{author}{Chao, A.}, \bibinfo{author}{Chiu, C.H.},
+  \bibinfo{author}{Jost, L.}, \bibinfo{year}{2014}a.
+\newblock \bibinfo{title}{Unifying {{Species Diversity}}, {{Phylogenetic
+  Diversity}}, {{Functional Diversity}}, and {{Related Similarity}} and
+  {{Differentiation Measures Through Hill Numbers}}}.
+\newblock \bibinfo{journal}{Annual Review of Ecology, Evolution, and
+  Systematics} \bibinfo{volume}{45}, \bibinfo{pages}{297--324}.
+\newblock \DOIprefix\doi{10.1146/annurev-ecolsys-120213-091540}.
+%Type = Article
+\bibitem[{Chao et~al.(2014b)Chao, Gotelli, Hsieh, Sander, Ma, Colwell and
+  Ellison}]{chao2014}
+\bibinfo{author}{Chao, A.}, \bibinfo{author}{Gotelli, N.J.},
+  \bibinfo{author}{Hsieh, T.C.}, \bibinfo{author}{Sander, E.L.},
+  \bibinfo{author}{Ma, K.H.}, \bibinfo{author}{Colwell, R.K.},
+  \bibinfo{author}{Ellison, A.M.}, \bibinfo{year}{2014}b.
+\newblock \bibinfo{title}{Rarefaction and extrapolation with {{Hill}} numbers:
+  {{A}} framework for sampling and estimation in species diversity studies}.
+\newblock \bibinfo{journal}{Ecological Monographs} \bibinfo{volume}{84},
+  \bibinfo{pages}{45--67}.
+\newblock \DOIprefix\doi{10.1890/13-0133.1}.
+%Type = Article
+\bibitem[{Chataut et~al.(2023)Chataut, Bhatta, Joshi, Subedi and
+  Kafle}]{chataut2023}
+\bibinfo{author}{Chataut, G.}, \bibinfo{author}{Bhatta, B.},
+  \bibinfo{author}{Joshi, D.}, \bibinfo{author}{Subedi, K.},
+  \bibinfo{author}{Kafle, K.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Greenhouse gases emission from agricultural soil:
+  {{A}} review}.
+\newblock \bibinfo{journal}{Journal of Agriculture and Food Research}
+  \bibinfo{volume}{11}, \bibinfo{pages}{100533}.
+\newblock \DOIprefix\doi{10.1016/j.jafr.2023.100533}.
+%Type = Article
+\bibitem[{Chen et~al.(2023)Chen, Niu, An, Wu, Zhou, Qi, Yin, Dong, Li, Gao,
+  Liu, Zheng and Hou}]{chen2023}
+\bibinfo{author}{Chen, F.}, \bibinfo{author}{Niu, Y.}, \bibinfo{author}{An,
+  Z.}, \bibinfo{author}{Wu, L.}, \bibinfo{author}{Zhou, J.},
+  \bibinfo{author}{Qi, L.}, \bibinfo{author}{Yin, G.}, \bibinfo{author}{Dong,
+  H.}, \bibinfo{author}{Li, X.}, \bibinfo{author}{Gao, D.},
+  \bibinfo{author}{Liu, M.}, \bibinfo{author}{Zheng, Y.}, \bibinfo{author}{Hou,
+  L.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Effects of periodic drying-wetting on microbial
+  dynamics and activity of nitrite/nitrate-dependent anaerobic methane
+  oxidizers in intertidal wetland sediments}.
+\newblock \bibinfo{journal}{Water Research} \bibinfo{volume}{229}.
+\newblock \DOIprefix\doi{10.1016/j.watres.2022.119436}.
+%Type = Article
+\bibitem[{Cohen et~al.(2021)Cohen, Cowie, Babiker, Leip and Smith}]{cohen2021}
+\bibinfo{author}{Cohen, B.}, \bibinfo{author}{Cowie, A.},
+  \bibinfo{author}{Babiker, M.}, \bibinfo{author}{Leip, A.},
+  \bibinfo{author}{Smith, P.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Co-benefits and trade-offs of climate change
+  mitigation actions and the {{Sustainable Development Goals}}}.
+\newblock \bibinfo{journal}{Sustainable Production and Consumption}
+  \bibinfo{volume}{26}, \bibinfo{pages}{805--813}.
+\newblock \DOIprefix\doi{10.1016/j.spc.2020.12.034}.
+%Type = Article
+\bibitem[{Conrad(2007)}]{conrad2007microbial}
+\bibinfo{author}{Conrad, R.}, \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{Microbial ecology of methanogens and methanotrophs}.
+\newblock \bibinfo{journal}{Advances in agronomy} \bibinfo{volume}{96},
+  \bibinfo{pages}{1--63}.
+\newblock \DOIprefix\doi{10.1016/s0065-2113(07)96005-8}.
+%Type = Article
+\bibitem[{Conrad(2009)}]{conrad2009global}
+\bibinfo{author}{Conrad, R.}, \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{The global methane cycle: Recent advances in
+  understanding the microbial processes involved}.
+\newblock \bibinfo{journal}{Environmental microbiology reports}
+  \bibinfo{volume}{1}, \bibinfo{pages}{285--292}.
+\newblock \DOIprefix\doi{10.1111/j.1758-2229.2009.00038.x}.
+%Type = Article
+\bibitem[{Conrad(2020)}]{conrad2020}
+\bibinfo{author}{Conrad, R.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Methane production in soil environments--- anaerobic
+  biogeochemistry and microbial life between flooding and desiccation}.
+\newblock \bibinfo{journal}{Microorganisms} \bibinfo{volume}{8},
+  \bibinfo{pages}{1--12}.
+\newblock \DOIprefix\doi{10.3390/microorganisms8060881}.
+%Type = Article
+\bibitem[{Conrad(2023)}]{conrad2023}
+\bibinfo{author}{Conrad, R.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Complexity of temperature dependence in methanogenic
+  microbial environments}.
+\newblock \bibinfo{journal}{Frontiers in Microbiology} \bibinfo{volume}{14},
+  \bibinfo{pages}{1--13}.
+\newblock \DOIprefix\doi{10.3389/fmicb.2023.1232946}.
+%Type = Book
+\bibitem[{Council et~al.(2001)Council, {for the Ecosystems Panel} and
+  Panel}]{national2001global}
+\bibinfo{author}{Council, N.R.}, \bibinfo{author}{{for the Ecosystems Panel},
+  O.G.}, \bibinfo{author}{Panel, E.}, \bibinfo{year}{2001}.
+\newblock \bibinfo{title}{Global Change Ecosystems Research}.
+\newblock \bibinfo{publisher}{National Academies Press}.
+%Type = Article
+\bibitem[{Croijmans et~al.(2021)Croijmans, De~Jong and Prins}]{croijmans2021}
+\bibinfo{author}{Croijmans, L.}, \bibinfo{author}{De~Jong, J.F.},
+  \bibinfo{author}{Prins, H.H.T.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Oxygen is a better predictor of macroinvertebrate
+  richness than temperature---a systematic review}.
+\newblock \bibinfo{journal}{Environmental Research Letters}
+  \bibinfo{volume}{16}, \bibinfo{pages}{023002}.
+\newblock \DOIprefix\doi{10.1088/1748-9326/ab9b42}.
+%Type = Article
+\bibitem[{Day et~al.(2006)Day, Maltby and Ib{\'a}{\~n}ez}]{day2006}
+\bibinfo{author}{Day, J.W.}, \bibinfo{author}{Maltby, E.},
+  \bibinfo{author}{Ib{\'a}{\~n}ez, C.}, \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{River basin management and delta sustainability:
+  {{A}} commentary on the {{Ebro Delta}} and the {{Spanish National
+  Hydrological Plan}}}.
+\newblock \bibinfo{journal}{Ecological Engineering} \bibinfo{volume}{26},
+  \bibinfo{pages}{85--99}.
+\newblock \DOIprefix\doi{10.1016/j.ecoleng.2005.01.005}.
+%Type = Article
+\bibitem[{Dial and Roughgarden(1998)}]{dial1998}
+\bibinfo{author}{Dial, R.}, \bibinfo{author}{Roughgarden, J.},
+  \bibinfo{year}{1998}.
+\newblock \bibinfo{title}{Theory of marine communities: {{The}} intermediate
+  disturbance hypothesis}.
+\newblock \bibinfo{journal}{Ecology} \bibinfo{volume}{79},
+  \bibinfo{pages}{1412--1424}.
+\newblock \DOIprefix\doi{10.1890/0012-9658(1998)079[1412:TOMCTI]2.0.CO;2}.
+%Type = Article
+\bibitem[{Donald et~al.(2006)Donald, Sanderson, Burfield and
+  Van~Bommel}]{donald2006further}
+\bibinfo{author}{Donald, P.F.}, \bibinfo{author}{Sanderson, F.J.},
+  \bibinfo{author}{Burfield, I.J.}, \bibinfo{author}{Van~Bommel, F.P.},
+  \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{Further evidence of continent-wide impacts of
+  agricultural intensification on {{European}} farmland birds, 1990--2000}.
+\newblock \bibinfo{journal}{Agriculture, Ecosystems \& Environment}
+  \bibinfo{volume}{116}, \bibinfo{pages}{189--196}.
+%Type = Article
+\bibitem[{Donato et~al.(2020)Donato, Johnson, Steven and
+  Lawrence}]{donato2020nitrogen}
+\bibinfo{author}{Donato, M.}, \bibinfo{author}{Johnson, O.},
+  \bibinfo{author}{Steven, B.}, \bibinfo{author}{Lawrence, B.A.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Nitrogen enrichment stimulates wetland plant
+  responses whereas salt amendments alter sediment microbial communities and
+  biogeochemical responses}.
+\newblock \bibinfo{journal}{Plos one} \bibinfo{volume}{15},
+  \bibinfo{pages}{e0235225}.
+\newblock \DOIprefix\doi{10.1371/journal.pone.0235225}.
+%Type = Article
+\bibitem[{Elphick and Taft(2010)}]{elphick2010}
+\bibinfo{author}{Elphick, C.S.}, \bibinfo{author}{Taft, O.},
+  \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Management of {{Rice Fields}} for {{Birds}} during
+  the {{Non-Growing Season}}}.
+\newblock \bibinfo{journal}{Waterbirds} \bibinfo{volume}{33},
+  \bibinfo{pages}{181}.
+\newblock \DOIprefix\doi{10.1675/063.033.s114}.
+%Type = Misc
+\bibitem[{{FAO}(2011)}]{fao2011climate}
+\bibinfo{author}{{FAO}}, \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{Climate-smart agriculture: {{Managing}} ecosystems
+  for sustainable livelihoods}.
+%Type = Article
+\bibitem[{FAO(2022)}]{fao2022b}
+\bibinfo{author}{FAO}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{{{FAO Strategy}} on {{Climate Change}} 2022--2031}.
+\newblock \bibinfo{journal}{Rome} .
+%Type = Misc
+\bibitem[{{FAO}(2022)}]{Faostat2022}
+\bibinfo{author}{{FAO}}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{{{FAOSTAT}} statistical database. {{Crops}} and
+  livestock products. p. 221}.
+%Type = Book
+\bibitem[{FAO(2022)}]{fao2022}
+\bibinfo{author}{FAO}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{The {{State}} of {{Food Security}} and {{Nutrition}}
+  in the {{World}} 2022}.
+\newblock \bibinfo{publisher}{FAO}.
+\newblock \DOIprefix\doi{10.4060/cc0639en}.
+%Type = Book
+\bibitem[{{FAO}(2022)}]{fao2022a}
+\bibinfo{author}{{FAO}}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Thinking about the Future of Food Safety}.
+\newblock \DOIprefix\doi{10.4060/cb8667en}.
+%Type = Book
+\bibitem[{FAO(2023)}]{fao2023}
+\bibinfo{author}{FAO}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Crop {{Prospects}} and {{Food Situation}} \#1,
+  {{March}} 2023}.
+\newblock \bibinfo{publisher}{FAO}.
+%Type = Misc
+\bibitem[{{FAO}(2023)}]{fao2023a}
+\bibinfo{author}{{FAO}}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{{{FAOSTAT Statistical Database}}. {{Food}} and
+  {{Agriculture Organization}} of the {{United Nations}}}.
+%Type = Article
+\bibitem[{Felton et~al.(2016)Felton, Gustafsson, Roberge, Ranius,
+  Hj{\"a}lt{\'e}n, Rudolphi, Lindbladh, Weslien, Rist, Brunet and
+  Felton}]{felton2016}
+\bibinfo{author}{Felton, A.}, \bibinfo{author}{Gustafsson, L.},
+  \bibinfo{author}{Roberge, J.M.}, \bibinfo{author}{Ranius, T.},
+  \bibinfo{author}{Hj{\"a}lt{\'e}n, J.}, \bibinfo{author}{Rudolphi, J.},
+  \bibinfo{author}{Lindbladh, M.}, \bibinfo{author}{Weslien, J.},
+  \bibinfo{author}{Rist, L.}, \bibinfo{author}{Brunet, J.},
+  \bibinfo{author}{Felton, A.M.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{How climate change adaptation and mitigation
+  strategies can threaten or enhance the biodiversity of production forests:
+  {{Insights}} from {{Sweden}}}.
+\newblock \bibinfo{journal}{Biological Conservation} \bibinfo{volume}{194},
+  \bibinfo{pages}{11--20}.
+\newblock \DOIprefix\doi{10.1016/j.biocon.2015.11.030}.
+%Type = Article
+\bibitem[{Feng et~al.(2023)Feng, Hao, Zhang, Zhang and Hao}]{feng2023}
+\bibinfo{author}{Feng, S.}, \bibinfo{author}{Hao, Z.}, \bibinfo{author}{Zhang,
+  Y.}, \bibinfo{author}{Zhang, X.}, \bibinfo{author}{Hao, F.},
+  \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Amplified future risk of compound droughts and hot
+  events from a hydrological perspective}.
+\newblock \bibinfo{journal}{Journal of Hydrology} \bibinfo{volume}{617},
+  \bibinfo{pages}{129143}.
+\newblock \DOIprefix\doi{10.1016/j.jhydrol.2023.129143}.
+%Type = Article
+\bibitem[{{Fertitta-Roberts} et~al.(2019){Fertitta-Roberts}, Oikawa and
+  Darrel~Jenerette}]{fertitta-roberts2019}
+\bibinfo{author}{{Fertitta-Roberts}, C.}, \bibinfo{author}{Oikawa, P.Y.},
+  \bibinfo{author}{Darrel~Jenerette, G.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Evaluating the {{GHG}} mitigation-potential of
+  alternate wetting and drying in rice through life cycle assessment}.
+\newblock \bibinfo{journal}{Science of the Total Environment}
+  \bibinfo{volume}{653}, \bibinfo{pages}{1343--1353}.
+\newblock \DOIprefix\doi{10.1016/j.scitotenv.2018.10.327}.
+%Type = Article
+\bibitem[{Fitzgerald et~al.(2000)Fitzgerald, Scow and Hill}]{fitzgerald2000}
+\bibinfo{author}{Fitzgerald, G.J.}, \bibinfo{author}{Scow, K.M.},
+  \bibinfo{author}{Hill, J.E.}, \bibinfo{year}{2000}.
+\newblock \bibinfo{title}{Fallow season straw and water management effects on
+  methane emissions in {{California}} rice}.
+\newblock \bibinfo{journal}{Global Biogeochemical Cycles} \bibinfo{volume}{14},
+  \bibinfo{pages}{767--776}.
+\newblock \DOIprefix\doi{10.1029/2000GB001259}.
+%Type = Article
+\bibitem[{Fujimori et~al.(2019)Fujimori, Hasegawa, Krey, Riahi, Bertram,
+  Bodirsky, Bosetti, Callen, Despr{\'e}s, Doelman, Drouet, Emmerling, Frank,
+  Fricko, Havlik, Humpen{\"o}der, Koopman, {van Meijl}, Ochi, Popp, Schmitz,
+  Takahashi and {van Vuuren}}]{fujimori2019}
+\bibinfo{author}{Fujimori, S.}, \bibinfo{author}{Hasegawa, T.},
+  \bibinfo{author}{Krey, V.}, \bibinfo{author}{Riahi, K.},
+  \bibinfo{author}{Bertram, C.}, \bibinfo{author}{Bodirsky, B.L.},
+  \bibinfo{author}{Bosetti, V.}, \bibinfo{author}{Callen, J.},
+  \bibinfo{author}{Despr{\'e}s, J.}, \bibinfo{author}{Doelman, J.},
+  \bibinfo{author}{Drouet, L.}, \bibinfo{author}{Emmerling, J.},
+  \bibinfo{author}{Frank, S.}, \bibinfo{author}{Fricko, O.},
+  \bibinfo{author}{Havlik, P.}, \bibinfo{author}{Humpen{\"o}der, F.},
+  \bibinfo{author}{Koopman, J.F.L.}, \bibinfo{author}{{van Meijl}, H.},
+  \bibinfo{author}{Ochi, Y.}, \bibinfo{author}{Popp, A.},
+  \bibinfo{author}{Schmitz, A.}, \bibinfo{author}{Takahashi, K.},
+  \bibinfo{author}{{van Vuuren}, D.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{A multi-model assessment of food security
+  implications of climate change mitigation}.
+\newblock \bibinfo{journal}{Nature Sustainability} \bibinfo{volume}{2},
+  \bibinfo{pages}{386--396}.
+\newblock \DOIprefix\doi{10.1038/s41893-019-0286-2}.
+%Type = Article
+\bibitem[{{Genua-Olmedo} et~al.(2016){Genua-Olmedo}, Alcaraz, Caiola and
+  Ib{\'a}{\~n}ez}]{genua-olmedo2016}
+\bibinfo{author}{{Genua-Olmedo}, A.}, \bibinfo{author}{Alcaraz, C.},
+  \bibinfo{author}{Caiola, N.}, \bibinfo{author}{Ib{\'a}{\~n}ez, C.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Sea level rise impacts on rice production: {{The Ebro
+  Delta}} as an example}.
+\newblock \bibinfo{journal}{Science of The Total Environment}
+  \bibinfo{volume}{571}, \bibinfo{pages}{1200--1210}.
+\newblock \DOIprefix\doi{10.1016/j.scitotenv.2016.07.136}.
+%Type = Article
+\bibitem[{G{\"o}pel et~al.(2020)G{\"o}pel, Sch{\"u}ngel, Stuch and
+  Schaldach}]{gopel2020}
+\bibinfo{author}{G{\"o}pel, J.}, \bibinfo{author}{Sch{\"u}ngel, J.},
+  \bibinfo{author}{Stuch, B.}, \bibinfo{author}{Schaldach, R.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Assessing the effects of agricultural intensification
+  on natural habitats and biodiversity in {{Southern Amazonia}}}.
+\newblock \bibinfo{journal}{PLOS ONE} \bibinfo{volume}{15},
+  \bibinfo{pages}{e0225914}.
+\newblock \DOIprefix\doi{10.1371/journal.pone.0225914}.
+%Type = Article
+\bibitem[{Gra{\c c}a et~al.(2004)Gra{\c c}a, Pinto, Cortes, Coimbra, Oliveira,
+  Morais, Carvalho and Malo}]{graca2004}
+\bibinfo{author}{Gra{\c c}a, M.A.}, \bibinfo{author}{Pinto, P.},
+  \bibinfo{author}{Cortes, R.}, \bibinfo{author}{Coimbra, N.},
+  \bibinfo{author}{Oliveira, S.}, \bibinfo{author}{Morais, M.},
+  \bibinfo{author}{Carvalho, M.J.}, \bibinfo{author}{Malo, J.},
+  \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{Factors affecting macroinvertebrate richness and
+  diversity in portuguese streams: {{A}} two-scale analysis}.
+\newblock \bibinfo{journal}{International Review of Hydrobiology}
+  \bibinfo{volume}{89}, \bibinfo{pages}{151--164}.
+\newblock \DOIprefix\doi{10.1002/iroh.200310705}.
+%Type = Article
+\bibitem[{Hartig(2018)}]{hartig2018dharma}
+\bibinfo{author}{Hartig, F.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{{{DHARMa}}: Residual diagnostics for hierarchical
+  (multi-level/mixed) regression models.}
+\newblock \bibinfo{journal}{R Packag version 020} .
+%Type = Article
+\bibitem[{Hartig(2020)}]{dharm2020residual}
+\bibinfo{author}{Hartig, F.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{{{DHARMa}}: Residual diagnostics for hierarchical
+  (multi-level/mixed) regression models}.
+\newblock \bibinfo{journal}{R package version} \bibinfo{volume}{320}.
+\newblock \DOIprefix\doi{10.32614/cran.package.dharma}.
+%Type = Article
+\bibitem[{Hatala et~al.(2012)Hatala, Detto, Sonnentag, Deverel, Verfaillie and
+  Baldocchi}]{hatala2012}
+\bibinfo{author}{Hatala, J.A.}, \bibinfo{author}{Detto, M.},
+  \bibinfo{author}{Sonnentag, O.}, \bibinfo{author}{Deverel, S.J.},
+  \bibinfo{author}{Verfaillie, J.}, \bibinfo{author}{Baldocchi, D.D.},
+  \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{Greenhouse gas ({{CO}} 2, {{CH}} 4, {{H 2O}}) fluxes
+  from drained and flooded agricultural peatlands in the {{Sacramento-San
+  Joaquin Delta}}}.
+\newblock \bibinfo{journal}{Agriculture, Ecosystems and Environment}
+  \bibinfo{volume}{150}, \bibinfo{pages}{1--18}.
+\newblock \DOIprefix\doi{10.1016/j.agee.2012.01.009}.
+%Type = Article
+\bibitem[{Herring et~al.(2021)Herring, Robinson, Zander and
+  Garnett}]{herring2021}
+\bibinfo{author}{Herring, M.W.}, \bibinfo{author}{Robinson, W.A.},
+  \bibinfo{author}{Zander, K.K.}, \bibinfo{author}{Garnett, S.T.},
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Increasing water-use efficiency in rice fields
+  threatens an endangered waterbird}.
+\newblock \bibinfo{journal}{Agriculture, Ecosystems \& Environment}
+  \bibinfo{volume}{322}, \bibinfo{pages}{107638}.
+\newblock \DOIprefix\doi{10.1016/j.agee.2021.107638}.
+%Type = Article
+\bibitem[{Hester et~al.(2022)Hester, Vaksmaa, Val{\`e}, Monaco, Jetten and
+  L{\"u}ke}]{hester2022}
+\bibinfo{author}{Hester, E.R.}, \bibinfo{author}{Vaksmaa, A.},
+  \bibinfo{author}{Val{\`e}, G.}, \bibinfo{author}{Monaco, S.},
+  \bibinfo{author}{Jetten, M.S.}, \bibinfo{author}{L{\"u}ke, C.},
+  \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Effect of water management on microbial diversity and
+  composition in an {{Italian}} rice field system}.
+\newblock \bibinfo{journal}{FEMS Microbiology Ecology} \bibinfo{volume}{98},
+  \bibinfo{pages}{1--11}.
+\newblock \DOIprefix\doi{10.1093/femsec/fiac018}.
+%Type = Article
+\bibitem[{Hof et~al.(2018)Hof, Voskamp, Biber, {B{\"o}hning-Gaese}, Engelhardt,
+  Niamir, Willis and Hickler}]{hof2018}
+\bibinfo{author}{Hof, C.}, \bibinfo{author}{Voskamp, A.},
+  \bibinfo{author}{Biber, M.F.}, \bibinfo{author}{{B{\"o}hning-Gaese}, K.},
+  \bibinfo{author}{Engelhardt, E.K.}, \bibinfo{author}{Niamir, A.},
+  \bibinfo{author}{Willis, S.G.}, \bibinfo{author}{Hickler, T.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Bioenergy cropland expansion may offset positive
+  effects of climate change mitigation for global vertebrate diversity}.
+\newblock \bibinfo{journal}{Proceedings of the National Academy of Sciences of
+  the United States of America} \bibinfo{volume}{115},
+  \bibinfo{pages}{13294--13299}.
+\newblock \DOIprefix\doi{10.1073/pnas.1807745115}.
+%Type = Article
+\bibitem[{Hsieh et~al.(2016)Hsieh, Ma and Chao}]{hsieh2016}
+\bibinfo{author}{Hsieh, T.}, \bibinfo{author}{Ma, K.}, \bibinfo{author}{Chao,
+  A.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{A {{Quick Introduction}} to {{iNEXT}} via
+  {{Examples}}}.
+\newblock \bibinfo{journal}{Cran} \bibinfo{volume}{0}, \bibinfo{pages}{11}.
+%Type = Article
+\bibitem[{Hussain et~al.(2020)Hussain, Huang, Huang, Ahmad, Nanda, Anwar,
+  Shakoor, Zhu, Zhu, Cao et~al.}]{hussain2020rice}
+\bibinfo{author}{Hussain, S.}, \bibinfo{author}{Huang, J.},
+  \bibinfo{author}{Huang, J.}, \bibinfo{author}{Ahmad, S.},
+  \bibinfo{author}{Nanda, S.}, \bibinfo{author}{Anwar, S.},
+  \bibinfo{author}{Shakoor, A.}, \bibinfo{author}{Zhu, C.},
+  \bibinfo{author}{Zhu, L.}, \bibinfo{author}{Cao, X.}, et~al.,
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Rice production under climate change: Adaptations and
+  mitigating strategies}.
+\newblock \bibinfo{journal}{Environment, climate, plant and vegetation growth}
+  , \bibinfo{pages}{659--686}\DOIprefix\doi{10.1007/978-3-030-49732-3_26}.
+%Type = Book
+\bibitem[{{IPCC}(2007)}]{IPCC2007}
+\bibinfo{author}{{IPCC}}, \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{Climate Change, 2007}. volume \bibinfo{volume}{181}.
+\newblock \DOIprefix\doi{10.1007/s11270-007-9372-6}.
+%Type = Article
+\bibitem[{{IPCC}(2021)}]{IPCC2021}
+\bibinfo{author}{{IPCC}}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{In: {{Climate}} change 2021: {{The}} physical science
+  basis. {{Contribution}} of working group one to the sixth assessment report
+  of the intergovernmental panel on climate change}.
+\newblock \bibinfo{journal}{The Earth's Energy Budget, Climate Feedbacks, and
+  Climate Sensitivity [P. Forster, T. Storelvmo, K. Armour, W. Collins, J-L.
+  Dufresne, D. Frame, D. Lunt, T. Mauritsen, M. Palmer, M. Watanabe, M. Wild
+  and H. Zhang]} ,
+  \bibinfo{pages}{923--1054.}\DOIprefix\doi{10.1017/9781009157896.009}.
+%Type = Article
+\bibitem[{{IPCC}(2023)}]{IPCC2023}
+\bibinfo{author}{{IPCC}}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Summary for {{Policymakers}}: {{Synthesis Report}}.}
+\newblock \bibinfo{journal}{Climate Change 2023: Synthesis Report. Contribution
+  of Working Groups I, II and III to the Sixth Assessment Report of the
+  Intergovernmental Panel on Climate Change} , \bibinfo{pages}{1--34}.
+%Type = Article
+\bibitem[{Islam et~al.(2022)Islam, Gaihre, Islam, Ahmed, Akter, Singh and
+  Sander}]{islam2022}
+\bibinfo{author}{Islam, S.M.}, \bibinfo{author}{Gaihre, Y.K.},
+  \bibinfo{author}{Islam, M.R.}, \bibinfo{author}{Ahmed, M.N.},
+  \bibinfo{author}{Akter, M.}, \bibinfo{author}{Singh, U.},
+  \bibinfo{author}{Sander, B.O.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Mitigating greenhouse gas emissions from irrigated
+  rice cultivation through improved fertilizer and water management}.
+\newblock \bibinfo{journal}{Journal of Environmental Management}
+  \bibinfo{volume}{307}, \bibinfo{pages}{114520}.
+\newblock \DOIprefix\doi{10.1016/j.jenvman.2022.114520}.
+%Type = Article
+\bibitem[{{IUCN}(2020)}]{noauthor_2020-su}
+\bibinfo{author}{{IUCN}}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Global {{Standard}} for {{Nature-based Solutions}}.
+  {{A}} user-friendly framework for the verification, design and scaling up of
+  {{NbS}}}.
+\newblock \bibinfo{journal}{First edition. Gland, Switzerland: IUCN}
+  \DOIprefix\doi{10.2305/IUCN.CH.2020.08.en}.
+%Type = Book
+\bibitem[{{IUCN}(2023)}]{amphibians}
+\bibinfo{author}{{IUCN}}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{State of the World's Amphibians: {{The}} Second
+  Global Amphibian Assessment}.
+\newblock \bibinfo{publisher}{Re:wild, Synchronicity Earth, IUCN SSC Amphibian
+  Specialist Group}, \bibinfo{address}{Texas, USA}.
+%Type = Article
+\bibitem[{Jangid et~al.(2011)Jangid, Williams, Franzluebbers, Schmidt, Coleman
+  and Whitman}]{jangid2011}
+\bibinfo{author}{Jangid, K.}, \bibinfo{author}{Williams, M.A.},
+  \bibinfo{author}{Franzluebbers, A.J.}, \bibinfo{author}{Schmidt, T.M.},
+  \bibinfo{author}{Coleman, D.C.}, \bibinfo{author}{Whitman, W.B.},
+  \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{Land-use history has a stronger impact on soil
+  microbial community composition than aboveground vegetation and soil
+  properties}.
+\newblock \bibinfo{journal}{Soil Biology and Biochemistry}
+  \bibinfo{volume}{43}, \bibinfo{pages}{2184--2193}.
+\newblock \DOIprefix\doi{10.1016/j.soilbio.2011.06.022}.
+%Type = Article
+\bibitem[{Jeliazkov et~al.(2016)Jeliazkov, Mimet, Charg{\'e}, Jiguet, Devictor
+  and Chiron}]{jeliazkov2016}
+\bibinfo{author}{Jeliazkov, A.}, \bibinfo{author}{Mimet, A.},
+  \bibinfo{author}{Charg{\'e}, R.}, \bibinfo{author}{Jiguet, F.},
+  \bibinfo{author}{Devictor, V.}, \bibinfo{author}{Chiron, F.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Impacts of agricultural intensification on bird
+  communities: {{New}} insights from a multi-level and multi-facet approach of
+  biodiversity}.
+\newblock \bibinfo{journal}{Agriculture, Ecosystems \& Environment}
+  \bibinfo{volume}{216}, \bibinfo{pages}{9--22}.
+\newblock \DOIprefix\doi{10.1016/j.agee.2015.09.017}.
+%Type = Article
+\bibitem[{Jiang et~al.(2019a)Jiang, Carrijo, Huang, Chen, Balaine, Zhang, {van
+  Groenigen} and Linquist}]{jiang2019}
+\bibinfo{author}{Jiang, Y.}, \bibinfo{author}{Carrijo, D.},
+  \bibinfo{author}{Huang, S.}, \bibinfo{author}{Chen, J.},
+  \bibinfo{author}{Balaine, N.}, \bibinfo{author}{Zhang, W.},
+  \bibinfo{author}{{van Groenigen}, K.J.}, \bibinfo{author}{Linquist, B.},
+  \bibinfo{year}{2019}a.
+\newblock \bibinfo{title}{Water management to mitigate the global warming
+  potential of rice systems: {{A}} global meta-analysis}.
+\newblock \bibinfo{journal}{Field Crops Research} \bibinfo{volume}{234},
+  \bibinfo{pages}{47--54}.
+\newblock \DOIprefix\doi{10.1016/j.fcr.2019.02.010}.
+%Type = Article
+\bibitem[{Jiang et~al.(2019b)Jiang, Carrijo, Huang, Chen, Balaine, Zhang, {van
+  Groenigen} and Linquist}]{jiang2019water}
+\bibinfo{author}{Jiang, Y.}, \bibinfo{author}{Carrijo, D.},
+  \bibinfo{author}{Huang, S.}, \bibinfo{author}{Chen, {\relax JI}.},
+  \bibinfo{author}{Balaine, N.}, \bibinfo{author}{Zhang, W.},
+  \bibinfo{author}{{van Groenigen}, K.J.}, \bibinfo{author}{Linquist, B.},
+  \bibinfo{year}{2019}b.
+\newblock \bibinfo{title}{Water management to mitigate the global warming
+  potential of rice systems: {{A}} global meta-analysis}.
+\newblock \bibinfo{journal}{Field Crops Research} \bibinfo{volume}{234},
+  \bibinfo{pages}{47--54}.
+\newblock \DOIprefix\doi{10.5040/9781350923171}.
+%Type = Article
+\bibitem[{Jiao et~al.(2006)Jiao, Hou, Shi, Huang, Wang and Chen}]{jiao2006}
+\bibinfo{author}{Jiao, Z.}, \bibinfo{author}{Hou, A.}, \bibinfo{author}{Shi,
+  Y.}, \bibinfo{author}{Huang, G.}, \bibinfo{author}{Wang, Y.},
+  \bibinfo{author}{Chen, X.}, \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{Water management influencing methane and nitrous
+  oxide emissions from rice field in relation to soil redox and microbial
+  community}.
+\newblock \bibinfo{journal}{Communications in Soil Science and Plant Analysis}
+  \bibinfo{volume}{37}, \bibinfo{pages}{1889--1903}.
+\newblock \DOIprefix\doi{10.1080/00103620600767124}.
+%Type = Article
+\bibitem[{Katayama et~al.(2019)Katayama, Osada, Mashiko, Baba, Tanaka,
+  Kusumoto, Okubo, Ikeda and Natuhara}]{katayama2019}
+\bibinfo{author}{Katayama, N.}, \bibinfo{author}{Osada, Y.},
+  \bibinfo{author}{Mashiko, M.}, \bibinfo{author}{Baba, Y.G.},
+  \bibinfo{author}{Tanaka, K.}, \bibinfo{author}{Kusumoto, Y.},
+  \bibinfo{author}{Okubo, S.}, \bibinfo{author}{Ikeda, H.},
+  \bibinfo{author}{Natuhara, Y.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Organic farming and associated management practices
+  benefit multiple wildlife taxa: {{A}} large-scale field study in rice paddy
+  landscapes}.
+\newblock \bibinfo{journal}{Journal of Applied Ecology} \bibinfo{volume}{56},
+  \bibinfo{pages}{1970--1981}.
+\newblock \DOIprefix\doi{10.1111/1365-2664.13446}.
+%Type = Incollection
+\bibitem[{Knowles(1993)}]{knowles1993}
+\bibinfo{author}{Knowles, R.}, \bibinfo{year}{1993}.
+\newblock \bibinfo{title}{Methane: {{Processes}} of {{Production}} and
+  {{Consumption}}}, in: \bibinfo{editor}{Harper, L.A.},
+  \bibinfo{editor}{Mosier, A.R.}, \bibinfo{editor}{Duxbury, J.M.},
+  \bibinfo{editor}{Rolston, D.E.} (Eds.), \bibinfo{booktitle}{{{ASA Special
+  Publications}}}. \bibinfo{publisher}{{American Society of Agronomy, Crop
+  Science Society of America, and Soil Science Society of America}},
+  \bibinfo{address}{Madison, WI, USA}, pp. \bibinfo{pages}{145--156}.
+\newblock \DOIprefix\doi{10.2134/asaspecpub55.c10}.
+%Type = Article
+\bibitem[{Kumar and Rajitha(2019)}]{kumar2019alternate}
+\bibinfo{author}{Kumar, K.A.}, \bibinfo{author}{Rajitha, G.},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Alternate wetting and drying ({{AWD}}) irrigation-a
+  smart water saving technology for rice: A review}.
+\newblock \bibinfo{journal}{International Journal of Current Microbiology and
+  Applied Sciences} \bibinfo{volume}{8}, \bibinfo{pages}{2561--2571}.
+\newblock \DOIprefix\doi{10.20546/ijcmas.2019.803.304}.
+%Type = Article
+\bibitem[{Lagomarsino et~al.(2016a)Lagomarsino, Agnelli, Linquist,
+  {Adviento-Borbe}, Agnelli, Gavina, Ravaglia and Ferrara}]{lagomarsino2016a}
+\bibinfo{author}{Lagomarsino, A.}, \bibinfo{author}{Agnelli, A.E.},
+  \bibinfo{author}{Linquist, B.}, \bibinfo{author}{{Adviento-Borbe}, M.A.},
+  \bibinfo{author}{Agnelli, A.}, \bibinfo{author}{Gavina, G.},
+  \bibinfo{author}{Ravaglia, S.}, \bibinfo{author}{Ferrara, R.M.},
+  \bibinfo{year}{2016}a.
+\newblock \bibinfo{title}{Alternate {{Wetting}} and {{Drying}} of {{Rice
+  Reduced CH4 Emissions}} but {{Triggered N2O Peaks}} in a {{Clayey Soil}} of
+  {{Central Italy}}}.
+\newblock \bibinfo{journal}{Pedosphere} \bibinfo{volume}{26},
+  \bibinfo{pages}{533--548}.
+\newblock \DOIprefix\doi{10.1016/S1002-0160(15)60063-7}.
+%Type = Article
+\bibitem[{Lagomarsino et~al.(2016b)Lagomarsino, Agnelli, Pastorelli, Pallara,
+  Rasse and Silvennoinen}]{lagomarsino2016}
+\bibinfo{author}{Lagomarsino, A.}, \bibinfo{author}{Agnelli, A.E.},
+  \bibinfo{author}{Pastorelli, R.}, \bibinfo{author}{Pallara, G.},
+  \bibinfo{author}{Rasse, D.P.}, \bibinfo{author}{Silvennoinen, H.},
+  \bibinfo{year}{2016}b.
+\newblock \bibinfo{title}{Past water management affected {{GHG}} production and
+  microbial community pattern in {{Italian}} rice paddy soils}.
+\newblock \bibinfo{journal}{Soil Biology and Biochemistry}
+  \bibinfo{volume}{93}, \bibinfo{pages}{17--27}.
+\newblock \DOIprefix\doi{10.1016/j.soilbio.2015.10.016}.
+%Type = Article
+\bibitem[{LaHue et~al.(2016)LaHue, Chaney, {Adviento-Borbe} and
+  Linquist}]{lahue2016}
+\bibinfo{author}{LaHue, G.T.}, \bibinfo{author}{Chaney, R.L.},
+  \bibinfo{author}{{Adviento-Borbe}, M.A.}, \bibinfo{author}{Linquist, B.A.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Alternate wetting and drying in high yielding
+  direct-seeded rice systems accomplishes multiple environmental and agronomic
+  objectives}.
+\newblock \bibinfo{journal}{Agriculture, Ecosystems and Environment}
+  \bibinfo{volume}{229}, \bibinfo{pages}{30--39}.
+\newblock \DOIprefix\doi{10.1016/j.agee.2016.05.020}.
+%Type = Article
+\bibitem[{Lampayan et~al.(2015)Lampayan, Rejesus, Singleton and
+  Bouman}]{lampayan2015}
+\bibinfo{author}{Lampayan, R.M.}, \bibinfo{author}{Rejesus, R.M.},
+  \bibinfo{author}{Singleton, G.R.}, \bibinfo{author}{Bouman, B.A.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Adoption and economics of alternate wetting and
+  drying water management for irrigated lowland rice}.
+\newblock \bibinfo{journal}{Field Crops Research} \bibinfo{volume}{170},
+  \bibinfo{pages}{95--108}.
+\newblock \DOIprefix\doi{10.1016/j.fcr.2014.10.013}.
+%Type = Article
+\bibitem[{Lawler(2001)}]{lawler2001}
+\bibinfo{author}{Lawler, S.P.}, \bibinfo{year}{2001}.
+\newblock \bibinfo{title}{Rice fields as temporary wetlands: {{A}} review}.
+\newblock \bibinfo{journal}{Israel Journal of Zoology} \bibinfo{volume}{47},
+  \bibinfo{pages}{513--528}.
+\newblock \DOIprefix\doi{10.1560/X7K3-9JG8-MH2J-XGX1}.
+%Type = Incollection
+\bibitem[{Lenka et~al.(2015)Lenka, Lenka, Sejian and Mohanty}]{lenka2015}
+\bibinfo{author}{Lenka, S.}, \bibinfo{author}{Lenka, N.K.},
+  \bibinfo{author}{Sejian, V.}, \bibinfo{author}{Mohanty, M.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Contribution of {{Agriculture Sector}} to {{Climate
+  Change}}}, in: \bibinfo{editor}{Sejian, V.}, \bibinfo{editor}{Gaughan, J.},
+  \bibinfo{editor}{Baumgard, L.}, \bibinfo{editor}{Prasad, C.} (Eds.),
+  \bibinfo{booktitle}{Climate {{Change Impact}} on {{Livestock}}:
+  {{Adaptation}} and {{Mitigation}}}. \bibinfo{publisher}{Springer India},
+  \bibinfo{address}{New Delhi}, pp. \bibinfo{pages}{37--48}.
+\newblock \DOIprefix\doi{10.1007/978-81-322-2265-1_3}.
+%Type = Article
+\bibitem[{Lenth et~al.(2019)Lenth, Singmann, Love, Buerkner and
+  Herve}]{lenth2019emmeans}
+\bibinfo{author}{Lenth, R.}, \bibinfo{author}{Singmann, H.},
+  \bibinfo{author}{Love, J.}, \bibinfo{author}{Buerkner, P.},
+  \bibinfo{author}{Herve, M.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Emmeans: Estimated marginal means, aka least-squares
+  means ({{Version}} 1.3. 4)}.
+\newblock \bibinfo{journal}{Emmeans Estim. Marg. Means Aka Least-Sq. Means
+  https://CRAN. R-project. org/package= emmeans}
+  \DOIprefix\doi{10.32614/cran.package.emmeans}.
+%Type = Misc
+\bibitem[{Lenth(2017)}]{lenth2017}
+\bibinfo{author}{Lenth, R.V.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Emmeans: {{Estimated Marginal Means}}, aka
+  {{Least-Squares Means}}}.
+\newblock \DOIprefix\doi{10.32614/CRAN.package.emmeans}.
+%Type = Article
+\bibitem[{Li et~al.(2006)Li, Salas, DeAngelo and Rose}]{li2006}
+\bibinfo{author}{Li, C.}, \bibinfo{author}{Salas, W.},
+  \bibinfo{author}{DeAngelo, B.}, \bibinfo{author}{Rose, S.},
+  \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{Assessing {{Alternatives}} for {{Mitigating Net
+  Greenhouse Gas Emissions}} and {{Increasing Yields}} from {{Rice Production}}
+  in {{China Over}} the {{Next Twenty Years}}}.
+\newblock \bibinfo{journal}{Journal of Environmental Quality}
+  \bibinfo{volume}{35}, \bibinfo{pages}{1554--1565}.
+\newblock \DOIprefix\doi{10.2134/jeq2005.0208}.
+%Type = Article
+\bibitem[{Li et~al.(2014)Li, Ma, Yao, Liang, Zhang, Xu and Yagi}]{li2014}
+\bibinfo{author}{Li, X.}, \bibinfo{author}{Ma, J.}, \bibinfo{author}{Yao, Y.},
+  \bibinfo{author}{Liang, S.}, \bibinfo{author}{Zhang, G.},
+  \bibinfo{author}{Xu, H.}, \bibinfo{author}{Yagi, K.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Methane and nitrous oxide emissions from irrigated
+  lowland rice paddies after wheat straw application and midseason aeration}.
+\newblock \bibinfo{journal}{Nutrient Cycling in Agroecosystems}
+  \bibinfo{volume}{100}, \bibinfo{pages}{65--76}.
+\newblock \DOIprefix\doi{10.1007/s10705-014-9627-8}.
+%Type = Article
+\bibitem[{Li and Barker(2004)}]{li2004}
+\bibinfo{author}{Li, Y.}, \bibinfo{author}{Barker, R.}, \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{Increasing water productivity for paddy irrigation in
+  {{China}}}.
+\newblock \bibinfo{journal}{Paddy and Water Environment} \bibinfo{volume}{2},
+  \bibinfo{pages}{187--193}.
+\newblock \DOIprefix\doi{10.1007/s10333-004-0064-1}.
+%Type = Article
+\bibitem[{Linquist et~al.(2015)Linquist, Anders, {Adviento-Borbe}, Chaney,
+  Nalley, {da Rosa} and {van Kessel}}]{linquist2015}
+\bibinfo{author}{Linquist, B.A.}, \bibinfo{author}{Anders, M.M.},
+  \bibinfo{author}{{Adviento-Borbe}, M.A.A.}, \bibinfo{author}{Chaney, R.L.},
+  \bibinfo{author}{Nalley, L.L.}, \bibinfo{author}{{da Rosa}, E.F.},
+  \bibinfo{author}{{van Kessel}, C.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Reducing greenhouse gas emissions, water use, and
+  grain arsenic levels in rice systems}.
+\newblock \bibinfo{journal}{Global Change Biology} \bibinfo{volume}{21},
+  \bibinfo{pages}{407--417}.
+\newblock \DOIprefix\doi{10.1111/gcb.12701}.
+%Type = Article
+\bibitem[{Linquist et~al.(2018)Linquist, Marcos, Adviento-Borbe, Anders,
+  Harrell, Linscombe, Reba, Runkle, Tarpley and Thomson}]{linquist2018}
+\bibinfo{author}{Linquist, B.A.}, \bibinfo{author}{Marcos, M.},
+  \bibinfo{author}{Adviento-Borbe, M.A.}, \bibinfo{author}{Anders, M.},
+  \bibinfo{author}{Harrell, D.}, \bibinfo{author}{Linscombe, S.},
+  \bibinfo{author}{Reba, M.L.}, \bibinfo{author}{Runkle, B.R.K.},
+  \bibinfo{author}{Tarpley, L.}, \bibinfo{author}{Thomson, A.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Greenhouse {{Gas Emissions}} and {{Management
+  Practices}} that {{Affect Emissions}} in {{US Rice Systems}}}.
+\newblock \bibinfo{journal}{Journal of Environmental Quality}
+  \bibinfo{volume}{47}, \bibinfo{pages}{395--409}.
+\newblock \DOIprefix\doi{10.2134/jeq2017.11.0445}.
+%Type = Article
+\bibitem[{Liu et~al.(2021)Liu, Cui, Li and Yao}]{liu2021microeco}
+\bibinfo{author}{Liu, C.}, \bibinfo{author}{Cui, Y.}, \bibinfo{author}{Li, X.},
+  \bibinfo{author}{Yao, M.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Microeco: An {{R}} package for data mining in
+  microbial community ecology}.
+\newblock \bibinfo{journal}{FEMS microbiology ecology} \bibinfo{volume}{97},
+  \bibinfo{pages}{fiaa255}.
+\newblock \DOIprefix\doi{10.1093/femsec/fiaa255}.
+%Type = Article
+\bibitem[{Livsey et~al.(2019)Livsey, K{\"a}tterer, Vico, Lyon, Lindborg,
+  Scaini, Da and Manzoni}]{livsey2019}
+\bibinfo{author}{Livsey, J.}, \bibinfo{author}{K{\"a}tterer, T.},
+  \bibinfo{author}{Vico, G.}, \bibinfo{author}{Lyon, S.W.},
+  \bibinfo{author}{Lindborg, R.}, \bibinfo{author}{Scaini, A.},
+  \bibinfo{author}{Da, C.T.}, \bibinfo{author}{Manzoni, S.},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Do alternative irrigation strategies for rice
+  cultivation decrease water footprints at the cost of long-term soil health?}
+\newblock \bibinfo{journal}{Environmental Research Letters}
+  \bibinfo{volume}{14}, \bibinfo{pages}{074011}.
+\newblock \DOIprefix\doi{10.1088/1748-9326/ab2108}.
+%Type = Article
+\bibitem[{Louca et~al.(2016)Louca, Parfrey and Doebeli}]{louca2016decoupling}
+\bibinfo{author}{Louca, S.}, \bibinfo{author}{Parfrey, L.W.},
+  \bibinfo{author}{Doebeli, M.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Decoupling function and taxonomy in the global ocean
+  microbiome}.
+\newblock \bibinfo{journal}{Science} \bibinfo{volume}{353},
+  \bibinfo{pages}{1272--1277}.
+\newblock \DOIprefix\doi{10.1126/science.aaf4507}.
+%Type = Article
+\bibitem[{L{\"u}decke et~al.(2021a)L{\"u}decke, {Ben-Shachar}, Patil, Waggoner
+  and Makowski}]{ludecke2021performance}
+\bibinfo{author}{L{\"u}decke, D.}, \bibinfo{author}{{Ben-Shachar}, M.S.},
+  \bibinfo{author}{Patil, I.}, \bibinfo{author}{Waggoner, P.},
+  \bibinfo{author}{Makowski, D.}, \bibinfo{year}{2021}a.
+\newblock \bibinfo{title}{Performance: {{An R}} package for assessment,
+  comparison and testing of statistical models}.
+\newblock \bibinfo{journal}{Journal of Open Source Software}
+  \bibinfo{volume}{6}.
+\newblock \DOIprefix\doi{10.31234/osf.io/vtq8f}.
+%Type = Article
+\bibitem[{L{\"u}decke et~al.(2021b)L{\"u}decke, Shachar, Patil and
+  Waggoner}]{ludecke2021}
+\bibinfo{author}{L{\"u}decke, D.}, \bibinfo{author}{Shachar, M.S.B.},
+  \bibinfo{author}{Patil, I.}, \bibinfo{author}{Waggoner, P.},
+  \bibinfo{year}{2021}b.
+\newblock \bibinfo{title}{Performance: {{An R Package}} for {{Assessment}},
+  {{Comparison}} and {{Testing}} of {{Statistical Models}}}.
+\newblock \bibinfo{journal}{The Journal of Open Source Software}
+  \bibinfo{volume}{6}.
+\newblock \DOIprefix\doi{10.21105/joss.03139}.
+%Type = Article
+\bibitem[{Luo et~al.(2019)Luo, Mei, Yu, Xia, Chen, Liu, Zhang, Xu, Wei, Liu,
+  Wang, Liu, Ma, Lou, Feng, Zhou, Chen, Yan, Liu, Bi, Li and Li}]{luo2019}
+\bibinfo{author}{Luo, L.}, \bibinfo{author}{Mei, H.}, \bibinfo{author}{Yu, X.},
+  \bibinfo{author}{Xia, H.}, \bibinfo{author}{Chen, L.}, \bibinfo{author}{Liu,
+  H.}, \bibinfo{author}{Zhang, A.}, \bibinfo{author}{Xu, K.},
+  \bibinfo{author}{Wei, H.}, \bibinfo{author}{Liu, G.}, \bibinfo{author}{Wang,
+  F.}, \bibinfo{author}{Liu, Y.}, \bibinfo{author}{Ma, X.},
+  \bibinfo{author}{Lou, Q.}, \bibinfo{author}{Feng, F.}, \bibinfo{author}{Zhou,
+  L.}, \bibinfo{author}{Chen, S.}, \bibinfo{author}{Yan, M.},
+  \bibinfo{author}{Liu, Z.}, \bibinfo{author}{Bi, J.}, \bibinfo{author}{Li,
+  T.}, \bibinfo{author}{Li, M.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Water-saving and drought-resistance rice: From the
+  concept topractice and theory}.
+\newblock \bibinfo{journal}{Molecular Breeding} \bibinfo{volume}{39},
+  \bibinfo{pages}{145}.
+\newblock \DOIprefix\doi{10.1007/s11032-019-1057-5}.
+%Type = Article
+\bibitem[{Lupi et~al.(2013)Lupi, Rocco and Rossaro}]{lupi2013}
+\bibinfo{author}{Lupi, D.}, \bibinfo{author}{Rocco, A.},
+  \bibinfo{author}{Rossaro, B.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Benthic macroinvertebrates in {{Italian}} rice
+  fields}.
+\newblock \bibinfo{journal}{Journal of Limnology} \bibinfo{volume}{72},
+  \bibinfo{pages}{15}.
+\newblock \DOIprefix\doi{10.4081/jlimnol.2013.e15}.
+%Type = Article
+\bibitem[{Ma et~al.(2013)Ma, Conrad and Lu}]{ma2013}
+\bibinfo{author}{Ma, K.}, \bibinfo{author}{Conrad, R.}, \bibinfo{author}{Lu,
+  Y.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Dry/wet cycles change the activity and population
+  dynamics of methanotrophs in rice field soil}.
+\newblock \bibinfo{journal}{Applied and Environmental Microbiology}
+  \bibinfo{volume}{79}, \bibinfo{pages}{4932--4939}.
+\newblock \DOIprefix\doi{10.1128/AEM.00850-13}.
+%Type = Article
+\bibitem[{{Mart{\'{\i}}nez-Eixarch} et~al.(2021){Mart{\'{\i}}nez-Eixarch},
+  Alcaraz, Gu{\`a}rdia, {Catal{\`a}-Forner}, Bertomeu, Monaco, Cochrane,
+  Oliver, Teh, Courtois et~al.}]{martinez-eixarch2021}
+\bibinfo{author}{{Mart{\'{\i}}nez-Eixarch}, M.}, \bibinfo{author}{Alcaraz, C.},
+  \bibinfo{author}{Gu{\`a}rdia, M.}, \bibinfo{author}{{Catal{\`a}-Forner}, M.},
+  \bibinfo{author}{Bertomeu, A.}, \bibinfo{author}{Monaco, S.},
+  \bibinfo{author}{Cochrane, N.}, \bibinfo{author}{Oliver, V.},
+  \bibinfo{author}{Teh, Y.A.}, \bibinfo{author}{Courtois, B.}, et~al.,
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Multiple environmental benefits of alternate wetting
+  and drying irrigation system with limited yield impact on {{European}} rice
+  cultivation: {{The Ebre Delta}} case}.
+\newblock \bibinfo{journal}{Agricultural Water Management}
+  \bibinfo{volume}{258}, \bibinfo{pages}{107164}.
+\newblock \DOIprefix\doi{10.1016/j.agwat.2021.107164}.
+%Type = Article
+\bibitem[{{Mart{\'i}nez-Eixarch} et~al.(2021){Mart{\'i}nez-Eixarch}, Alcaraz,
+  Vi{\~n}as, Noguerol, Aranda, {Prenafeta-Bold{\'u}}, {Catal{\`a}-Forner},
+  Fennessy and Ib{\'a}{\~n}ez}]{martinez-eixarch2021a}
+\bibinfo{author}{{Mart{\'i}nez-Eixarch}, M.}, \bibinfo{author}{Alcaraz, C.},
+  \bibinfo{author}{Vi{\~n}as, M.}, \bibinfo{author}{Noguerol, J.},
+  \bibinfo{author}{Aranda, X.}, \bibinfo{author}{{Prenafeta-Bold{\'u}}, F.X.},
+  \bibinfo{author}{{Catal{\`a}-Forner}, M.}, \bibinfo{author}{Fennessy, M.S.},
+  \bibinfo{author}{Ib{\'a}{\~n}ez, C.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{The main drivers of methane emissions differ in the
+  growing and flooded fallow seasons in {{Mediterranean}} rice fields}.
+\newblock \bibinfo{journal}{Plant and Soil} \bibinfo{volume}{460},
+  \bibinfo{pages}{211--227}.
+\newblock \DOIprefix\doi{10.1007/s11104-020-04809-5}.
+%Type = Article
+\bibitem[{{Mart{\'{\i}}nez-Eixarch} et~al.(2018){Mart{\'{\i}}nez-Eixarch},
+  Alcaraz, Vi{\~n}as, Noguerol, Aranda, {Prenafeta-Bold{\'u}}, {Salda{\~n}a-De
+  la Vega}, Catal{\`a} and Ib{\'a}{\~n}ez}]{martinez2018neglecting}
+\bibinfo{author}{{Mart{\'{\i}}nez-Eixarch}, M.}, \bibinfo{author}{Alcaraz, C.},
+  \bibinfo{author}{Vi{\~n}as, M.}, \bibinfo{author}{Noguerol, J.},
+  \bibinfo{author}{Aranda, X.}, \bibinfo{author}{{Prenafeta-Bold{\'u}}, F.X.},
+  \bibinfo{author}{{Salda{\~n}a-De la Vega}, J.A.},
+  \bibinfo{author}{Catal{\`a}, M.d.M.}, \bibinfo{author}{Ib{\'a}{\~n}ez, C.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Neglecting the fallow season can significantly
+  underestimate annual methane emissions in {{Mediterranean}} rice fields}.
+\newblock \bibinfo{journal}{PLoS One} \bibinfo{volume}{13},
+  \bibinfo{pages}{e0198081}.
+\newblock \DOIprefix\doi{10.1371/journal.pone.0202159}.
+%Type = Article
+\bibitem[{{Mart{\'i}nez-Eixarch} et~al.(2018){Mart{\'i}nez-Eixarch}, Alcaraz,
+  Vi{\~n}as, Noguerol, Aranda, {Prenafeta-Boldu}, {Salda{\~n}a-De la Vega},
+  {del Mar Catala} and Ib{\'a}{\~n}ez}]{martinez-eixarch2018}
+\bibinfo{author}{{Mart{\'i}nez-Eixarch}, M.}, \bibinfo{author}{Alcaraz, C.},
+  \bibinfo{author}{Vi{\~n}as, M.}, \bibinfo{author}{Noguerol, J.},
+  \bibinfo{author}{Aranda, X.}, \bibinfo{author}{{Prenafeta-Boldu}, F.X.},
+  \bibinfo{author}{{Salda{\~n}a-De la Vega}, J.A.}, \bibinfo{author}{{del Mar
+  Catala}, M.}, \bibinfo{author}{Ib{\'a}{\~n}ez, C.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Neglecting the fallow season can significantly
+  underestimate annual methane emissions in {{Mediterranean}} rice fields}.
+\newblock \bibinfo{journal}{PLoS ONE} \bibinfo{volume}{13}.
+\newblock \DOIprefix\doi{10.1371/journal.pone.0198081}.
+%Type = Article
+\bibitem[{{Mart{\'i}nez-Eixarch} et~al.(2022){Mart{\'i}nez-Eixarch},
+  {Beltr{\'a}n-Miralles}, Gu{\'e}ry and Alcaraz}]{martinez-eixarch2022}
+\bibinfo{author}{{Mart{\'i}nez-Eixarch}, M.},
+  \bibinfo{author}{{Beltr{\'a}n-Miralles}, M.}, \bibinfo{author}{Gu{\'e}ry,
+  S.}, \bibinfo{author}{Alcaraz, C.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Extended methane mitigation capacity of a mid-season
+  drainage beyond the rice growing season: A case in {{Spain}}}.
+\newblock \bibinfo{journal}{Environmental Monitoring and Assessment}
+  \bibinfo{volume}{194}.
+\newblock \DOIprefix\doi{10.1007/s10661-022-10334-y}.
+%Type = Article
+\bibitem[{{Masson-Delmotte} et~al.(2021){Masson-Delmotte}, Zhai, Pirani,
+  Connors, P{\'e}an, Berger, Caud, Chen, Goldfarb and
+  Scheel~Monteiro}]{masson2021ipcc}
+\bibinfo{author}{{Masson-Delmotte}, {\relax VP}.}, \bibinfo{author}{Zhai, P.},
+  \bibinfo{author}{Pirani, {\relax SL}.}, \bibinfo{author}{Connors, C.},
+  \bibinfo{author}{P{\'e}an, S.}, \bibinfo{author}{Berger, N.},
+  \bibinfo{author}{Caud, Y.}, \bibinfo{author}{Chen, L.},
+  \bibinfo{author}{Goldfarb, {\relax MI}.}, \bibinfo{author}{Scheel~Monteiro,
+  P.M.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{{{IPCC}}, 2021: {{Summary}} for policymakers.}
+\newblock \bibinfo{journal}{Climate change 2021: The physical science basis.
+  contribution of working group i to the sixth assessment report of the
+  intergovernmental panel on climate change}
+  \DOIprefix\doi{10.1017/9781009157896.001}.
+%Type = Article
+\bibitem[{Matson et~al.(1997)Matson, Parton, Power and Swift}]{matson1997}
+\bibinfo{author}{Matson, P.A.}, \bibinfo{author}{Parton, W.J.},
+  \bibinfo{author}{Power, A.G.}, \bibinfo{author}{Swift, M.J.},
+  \bibinfo{year}{1997}.
+\newblock \bibinfo{title}{Agricultural {{Intensification}} and {{Ecosystem
+  Properties}}}.
+\newblock \bibinfo{journal}{Science} \bibinfo{volume}{277},
+  \bibinfo{pages}{504--509}.
+\newblock \DOIprefix\doi{10.1126/science.277.5325.504}.
+%Type = Article
+\bibitem[{Mazzoni et~al.(2023)Mazzoni, Lanzer, Pires, Sch{\"a}fer, Maltchik and
+  Stenert}]{mazzoni2023}
+\bibinfo{author}{Mazzoni, A.C.}, \bibinfo{author}{Lanzer, R.},
+  \bibinfo{author}{Pires, M.M.}, \bibinfo{author}{Sch{\"a}fer, A.},
+  \bibinfo{author}{Maltchik, L.}, \bibinfo{author}{Stenert, C.},
+  \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Environmental factors are the major drivers of
+  macroinvertebrate assemblage structure in southern {{Brazilian}} coastal
+  lakes}.
+\newblock \bibinfo{journal}{Lakes \& Reservoirs: Science, Policy and Management
+  for Sustainable Use} \bibinfo{volume}{28}, \bibinfo{pages}{e12442}.
+\newblock \DOIprefix\doi{10.1111/lre.12442}.
+%Type = Article
+\bibitem[{Meijide et~al.(2017)Meijide, Gruening, Goded, Seufert and
+  Cescatti}]{meijide2017}
+\bibinfo{author}{Meijide, A.}, \bibinfo{author}{Gruening, C.},
+  \bibinfo{author}{Goded, I.}, \bibinfo{author}{Seufert, G.},
+  \bibinfo{author}{Cescatti, A.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Water management reduces greenhouse gas emissions in
+  a {{Mediterranean}} rice paddy field}.
+\newblock \bibinfo{journal}{Agriculture, Ecosystems and Environment}
+  \bibinfo{volume}{238}, \bibinfo{pages}{168--178}.
+\newblock \DOIprefix\doi{10.1016/j.agee.2016.08.017}.
+%Type = Misc
+\bibitem[{{METEOCAT}(2024)}]{MeteoCat2024}
+\bibinfo{author}{{METEOCAT}}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{The year 2023, the second warmest, and one of the
+  driest}.
+%Type = Article
+\bibitem[{Mitsch et~al.(2013)Mitsch, Bernal, Nahlik, Mander, Zhang, Anderson,
+  J{\o}rgensen and Brix}]{mitsch2013}
+\bibinfo{author}{Mitsch, W.J.}, \bibinfo{author}{Bernal, B.},
+  \bibinfo{author}{Nahlik, A.M.}, \bibinfo{author}{Mander, {\"U}.},
+  \bibinfo{author}{Zhang, L.}, \bibinfo{author}{Anderson, C.J.},
+  \bibinfo{author}{J{\o}rgensen, S.E.}, \bibinfo{author}{Brix, H.},
+  \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Wetlands, carbon, and climate change}.
+\newblock \bibinfo{journal}{Landscape Ecology} \bibinfo{volume}{28},
+  \bibinfo{pages}{583--597}.
+\newblock \DOIprefix\doi{10.1007/s10980-012-9758-8}.
+%Type = Article
+\bibitem[{Mitsch and Mander(2018)}]{mitsch2018}
+\bibinfo{author}{Mitsch, W.J.}, \bibinfo{author}{Mander, {\"U}.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Wetlands and carbon revisited}.
+\newblock \bibinfo{journal}{Ecological Engineering} \bibinfo{volume}{114},
+  \bibinfo{pages}{1--6}.
+\newblock \DOIprefix\doi{10.1016/j.ecoleng.2017.12.027}.
+%Type = Article
+\bibitem[{Mogi(1993)}]{mogi1993}
+\bibinfo{author}{Mogi, M.}, \bibinfo{year}{1993}.
+\newblock \bibinfo{title}{Effect of intermittent irrigation on mosquitoes
+  ({{Diptera}}: {{Culicidae}}) and larvivorous predators in rice fields.}
+\newblock \bibinfo{journal}{Journal of medical entomology}
+  \bibinfo{volume}{30}, \bibinfo{pages}{309--319}.
+\newblock \DOIprefix\doi{10.1093/jmedent/30.2.309}.
+%Type = Article
+\bibitem[{Monaco et~al.(2021)Monaco, Volante, Orasen, Cochrane, Oliver, Price,
+  Teh, {Mart{\'{\i}}nez-Eixarch}, Thomas, Courtois et~al.}]{monaco2021}
+\bibinfo{author}{Monaco, S.}, \bibinfo{author}{Volante, A.},
+  \bibinfo{author}{Orasen, G.}, \bibinfo{author}{Cochrane, N.},
+  \bibinfo{author}{Oliver, V.}, \bibinfo{author}{Price, A.H.},
+  \bibinfo{author}{Teh, Y.A.}, \bibinfo{author}{{Mart{\'{\i}}nez-Eixarch}, M.},
+  \bibinfo{author}{Thomas, C.}, \bibinfo{author}{Courtois, B.}, et~al.,
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Effects of the application of a moderate alternate
+  wetting and drying technique on the performance of different {{European}}
+  varieties in {{Northern Italy}} rice system}.
+\newblock \bibinfo{journal}{Field Crops Research} \bibinfo{volume}{270},
+  \bibinfo{pages}{108220}.
+\newblock \DOIprefix\doi{10.1016/j.fcr.2021.108220}.
+%Type = Article
+\bibitem[{Monger et~al.(2015)Monger, Sala, Duniway, Goldfus, Meir, Poch, Throop
+  and Vivoni}]{monger2015legacy}
+\bibinfo{author}{Monger, C.}, \bibinfo{author}{Sala, O.E.},
+  \bibinfo{author}{Duniway, M.C.}, \bibinfo{author}{Goldfus, H.},
+  \bibinfo{author}{Meir, I.A.}, \bibinfo{author}{Poch, R.M.},
+  \bibinfo{author}{Throop, H.L.}, \bibinfo{author}{Vivoni, E.R.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Legacy effects in linked ecological--soil--geomorphic
+  systems of drylands}.
+\newblock \bibinfo{journal}{Frontiers in Ecology and the Environment}
+  \bibinfo{volume}{13}, \bibinfo{pages}{13--19}.
+\newblock \DOIprefix\doi{10.1890/140269}.
+%Type = Incollection
+\bibitem[{Nabuurs et~al.(2022)Nabuurs, Mrabet, Hatab, Bustamante, Clark,
+  Havl{\'{\i}}k, House, Mbow, Ninan, Popp, Roe, Sohngen and
+  Towprayoon}]{nabuurs2022agriculture}
+\bibinfo{author}{Nabuurs, G.J.}, \bibinfo{author}{Mrabet, R.},
+  \bibinfo{author}{Hatab, A.A.}, \bibinfo{author}{Bustamante, M.},
+  \bibinfo{author}{Clark, H.}, \bibinfo{author}{Havl{\'{\i}}k, P.},
+  \bibinfo{author}{House, J.I.}, \bibinfo{author}{Mbow, C.},
+  \bibinfo{author}{Ninan, K.N.}, \bibinfo{author}{Popp, A.},
+  \bibinfo{author}{Roe, S.}, \bibinfo{author}{Sohngen, B.},
+  \bibinfo{author}{Towprayoon, S.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Agriculture, forestry and other land uses
+  ({{AFOLU}})}, in: \bibinfo{booktitle}{Climate Change 2022: {{Mitigation}} of
+  Climate Change}. \bibinfo{publisher}{Cambridge University Press}, pp.
+  \bibinfo{pages}{747--860}.
+\newblock \DOIprefix\doi{10.1017/9781009157926.009}.
+%Type = Article
+\bibitem[{Negri et~al.(2020)Negri, Chiaradia, Rienzner, Mayer, Gandolfi, Romani
+  and Facchi}]{negri2020}
+\bibinfo{author}{Negri, C.}, \bibinfo{author}{Chiaradia, E.},
+  \bibinfo{author}{Rienzner, M.}, \bibinfo{author}{Mayer, A.},
+  \bibinfo{author}{Gandolfi, C.}, \bibinfo{author}{Romani, M.},
+  \bibinfo{author}{Facchi, A.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{On the effects of winter flooding on the hydrological
+  balance of rice areas in northern {{Italy}}}.
+\newblock \bibinfo{journal}{Journal of Hydrology} \bibinfo{volume}{590},
+  \bibinfo{pages}{125401}.
+\newblock \DOIprefix\doi{10.1016/j.jhydrol.2020.125401}.
+%Type = Incollection
+\bibitem[{Nicholls and Altieri(1998)}]{nicholls1998}
+\bibinfo{author}{Nicholls, C.}, \bibinfo{author}{Altieri, M.},
+  \bibinfo{year}{1998}.
+\newblock \bibinfo{title}{Biodiversity, {{Ecosystem Function}}, and {{Insect
+  Pest Management}} in {{Agricultural Systems}}}, in: \bibinfo{editor}{Qualset,
+  C.}, \bibinfo{editor}{Collins, W.} (Eds.), \bibinfo{booktitle}{Biodiversity
+  in {{Agroecosystems}}}. \bibinfo{publisher}{CRC Press}. volume
+  \bibinfo{volume}{19985353}.
+\newblock \DOIprefix\doi{10.1201/9781420049244.ch5}.
+%Type = Article
+\bibitem[{Noguerol~Arias et~al.(2025)Noguerol~Arias, Bonmat{\'{\i}},
+  {Prenafeta-Bold{\'u}} and Cerrillo}]{arias2025determination}
+\bibinfo{author}{Noguerol~Arias, J.}, \bibinfo{author}{Bonmat{\'{\i}}, A.},
+  \bibinfo{author}{{Prenafeta-Bold{\'u}}, F.X.}, \bibinfo{author}{Cerrillo,
+  M.}, \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{Determination of carbon dioxide by gas chromatography
+  using an electron capture detector for the analysis of greenhouse gases: A
+  comparison and validation with the standard method}.
+\newblock \bibinfo{journal}{Journal of Chromatography A}
+  \bibinfo{volume}{1745}, \bibinfo{pages}{465750}.
+\newblock \DOIprefix\doi{10.1016/j.chroma.2025.465750}.
+%Type = Article
+\bibitem[{Oliver et~al.(2019)Oliver, Cochrane, Magnusson, Brachi, Monaco,
+  Volante, Courtois, Vale, Price and Teh}]{oliver2019}
+\bibinfo{author}{Oliver, V.}, \bibinfo{author}{Cochrane, N.},
+  \bibinfo{author}{Magnusson, J.}, \bibinfo{author}{Brachi, E.},
+  \bibinfo{author}{Monaco, S.}, \bibinfo{author}{Volante, A.},
+  \bibinfo{author}{Courtois, B.}, \bibinfo{author}{Vale, G.},
+  \bibinfo{author}{Price, A.}, \bibinfo{author}{Teh, Y.A.},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Effects of water management and cultivar on carbon
+  dynamics, plant productivity and biomass allocation in {{European}} rice
+  systems}.
+\newblock \bibinfo{journal}{Science of the Total Environment}
+  \bibinfo{volume}{685}, \bibinfo{pages}{1139--1151}.
+\newblock \DOIprefix\doi{10.1016/j.scitotenv.2019.06.110}.
+%Type = Article
+\bibitem[{Pandey et~al.(2014)Pandey, Mai, Vu, Bui, Mai, Jensen and
+  De~Neergaard}]{pandey2014}
+\bibinfo{author}{Pandey, A.}, \bibinfo{author}{Mai, V.T.}, \bibinfo{author}{Vu,
+  D.Q.}, \bibinfo{author}{Bui, T.P.L.}, \bibinfo{author}{Mai, T.L.A.},
+  \bibinfo{author}{Jensen, L.S.}, \bibinfo{author}{De~Neergaard, A.},
+  \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Organic matter and water management strategies to
+  reduce methane and nitrous oxide emissions from rice paddies in {{Vietnam}}}.
+\newblock \bibinfo{journal}{Agriculture, Ecosystems \& Environment}
+  \bibinfo{volume}{196}, \bibinfo{pages}{137--146}.
+\newblock \DOIprefix\doi{10.1016/j.agee.2014.06.010}.
+%Type = Article
+\bibitem[{{P{\'e}rez-M{\'e}ndez} et~al.(2022){P{\'e}rez-M{\'e}ndez}, Alcaraz,
+  Bertolero, {Catal{\`a}-Forner}, Garibaldi, {Gonz{\'a}lez-Varo}, Rivaes and
+  {Mart{\'{\i}}nez-Eixarch}}]{perez-mendez2022}
+\bibinfo{author}{{P{\'e}rez-M{\'e}ndez}, N.}, \bibinfo{author}{Alcaraz, C.},
+  \bibinfo{author}{Bertolero, A.}, \bibinfo{author}{{Catal{\`a}-Forner}, M.},
+  \bibinfo{author}{Garibaldi, L.A.}, \bibinfo{author}{{Gonz{\'a}lez-Varo},
+  J.P.}, \bibinfo{author}{Rivaes, S.},
+  \bibinfo{author}{{Mart{\'{\i}}nez-Eixarch}, M.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Agricultural policies against invasive species
+  generate contrasting outcomes for climate change mitigation and biodiversity
+  conservation}.
+\newblock \bibinfo{journal}{Proceedings of the Royal Society B}
+  \bibinfo{volume}{289}, \bibinfo{pages}{20221081}.
+\newblock \DOIprefix\doi{10.1098/rspb.2022.1081}.
+%Type = Article
+\bibitem[{{P{\'e}rez-M{\'e}ndez} et~al.(2023){P{\'e}rez-M{\'e}ndez},
+  {Mart{\'{\i}}nez-Eixarch}, Llevat, Mateu, Marrero, Cid and
+  {Catala-Forner}}]{perez2023enhanced}
+\bibinfo{author}{{P{\'e}rez-M{\'e}ndez}, N.},
+  \bibinfo{author}{{Mart{\'{\i}}nez-Eixarch}, M.}, \bibinfo{author}{Llevat,
+  R.}, \bibinfo{author}{Mateu, D.}, \bibinfo{author}{Marrero, H.J.},
+  \bibinfo{author}{Cid, N.}, \bibinfo{author}{{Catala-Forner}, M.},
+  \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Enhanced diversity of aquatic macroinvertebrate
+  predators and biological pest control but reduced crop establishment in
+  organic rice farming}.
+\newblock \bibinfo{journal}{Agriculture, Ecosystems \& Environment}
+  \bibinfo{volume}{357}, \bibinfo{pages}{108691}.
+\newblock \DOIprefix\doi{10.1016/j.agee.2023.108691}.
+%Type = Article
+\bibitem[{Pernollet et~al.(2015)Pernollet, Guelmami, Green, Curc{\'o}~Masip,
+  Dies, Bogliani, Tesio, Brogi, {Gauthier-Clerc} and
+  Guillemain}]{pernollet2015}
+\bibinfo{author}{Pernollet, C.A.}, \bibinfo{author}{Guelmami, A.},
+  \bibinfo{author}{Green, A.J.}, \bibinfo{author}{Curc{\'o}~Masip, A.},
+  \bibinfo{author}{Dies, B.}, \bibinfo{author}{Bogliani, G.},
+  \bibinfo{author}{Tesio, F.}, \bibinfo{author}{Brogi, A.},
+  \bibinfo{author}{{Gauthier-Clerc}, M.}, \bibinfo{author}{Guillemain, M.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{A comparison of wintering duck numbers among
+  {{European}} rice production areas with contrasting flooding regimes}.
+\newblock \bibinfo{journal}{Biological Conservation} \bibinfo{volume}{186},
+  \bibinfo{pages}{214--224}.
+\newblock \DOIprefix\doi{10.1016/j.biocon.2015.03.019}.
+%Type = Article
+\bibitem[{Perry et~al.(2022)Perry, Carrijo and Linquist}]{perry2022}
+\bibinfo{author}{Perry, H.}, \bibinfo{author}{Carrijo, D.},
+  \bibinfo{author}{Linquist, B.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Single midseason drainage events decrease global
+  warming potential without sacrificing grain yield in flooded rice systems}.
+\newblock \bibinfo{journal}{Field Crops Research} \bibinfo{volume}{276},
+  \bibinfo{pages}{108312}.
+\newblock \DOIprefix\doi{10.1016/j.fcr.2021.108312}.
+%Type = Article
+\bibitem[{Perry et~al.(2024)Perry, Carrijo, Duncan, Fendorf and
+  Linquist}]{perry2024}
+\bibinfo{author}{Perry, H.}, \bibinfo{author}{Carrijo, D.R.},
+  \bibinfo{author}{Duncan, A.H.}, \bibinfo{author}{Fendorf, S.},
+  \bibinfo{author}{Linquist, B.A.}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Mid-season drain severity impacts on rice yields,
+  greenhouse gas emissions and heavy metal uptake in grain: Evidence from
+  on-farm studies}.
+\newblock \bibinfo{journal}{Field Crops Research} \bibinfo{volume}{307},
+  \bibinfo{pages}{109248}.
+\newblock \DOIprefix\doi{10.1016/j.fcr.2024.109248}.
+%Type = Article
+\bibitem[{Peyron et~al.(2016)Peyron, Bertora, Pelissetti, {Said-Pullicino},
+  Celi, Miniotti, Romani and Sacco}]{peyron2016}
+\bibinfo{author}{Peyron, M.}, \bibinfo{author}{Bertora, C.},
+  \bibinfo{author}{Pelissetti, S.}, \bibinfo{author}{{Said-Pullicino}, D.},
+  \bibinfo{author}{Celi, L.}, \bibinfo{author}{Miniotti, E.},
+  \bibinfo{author}{Romani, M.}, \bibinfo{author}{Sacco, D.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Greenhouse gas emissions as affected by different
+  water management practices in temperate rice paddies}.
+\newblock \bibinfo{journal}{Agriculture, Ecosystems \& Environment}
+  \bibinfo{volume}{232}, \bibinfo{pages}{17--28}.
+\newblock \DOIprefix\doi{10.1016/j.agee.2016.07.021}.
+%Type = Article
+\bibitem[{Prather et~al.(2013)Prather, Pelini, Laws, Rivest, Woltz, Bloch,
+  Del~Toro, Ho, Kominoski, Newbold, Parsons and Joern}]{prather2013}
+\bibinfo{author}{Prather, C.M.}, \bibinfo{author}{Pelini, S.L.},
+  \bibinfo{author}{Laws, A.}, \bibinfo{author}{Rivest, E.},
+  \bibinfo{author}{Woltz, M.}, \bibinfo{author}{Bloch, C.P.},
+  \bibinfo{author}{Del~Toro, I.}, \bibinfo{author}{Ho, C.K.},
+  \bibinfo{author}{Kominoski, J.}, \bibinfo{author}{Newbold, T.A.S.},
+  \bibinfo{author}{Parsons, S.}, \bibinfo{author}{Joern, A.},
+  \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Invertebrates, ecosystem services and climate
+  change}.
+\newblock \bibinfo{journal}{Biological Reviews} \bibinfo{volume}{88},
+  \bibinfo{pages}{327--348}.
+\newblock \DOIprefix\doi{10.1111/brv.12002}.
+%Type = Article
+\bibitem[{Qian et~al.(2023)Qian, Zhu, Huang, Linquist, Kuzyakov, Wassmann,
+  Minamikawa, {Martinez-Eixarch}, Yan, Zhou, Sander, Zhang, Shang, Zou, Zheng,
+  Li, Liu, Wang, Ding, {van Groenigen} and Jiang}]{qian2023}
+\bibinfo{author}{Qian, H.}, \bibinfo{author}{Zhu, X.}, \bibinfo{author}{Huang,
+  S.}, \bibinfo{author}{Linquist, B.}, \bibinfo{author}{Kuzyakov, Y.},
+  \bibinfo{author}{Wassmann, R.}, \bibinfo{author}{Minamikawa, K.},
+  \bibinfo{author}{{Martinez-Eixarch}, M.}, \bibinfo{author}{Yan, X.},
+  \bibinfo{author}{Zhou, F.}, \bibinfo{author}{Sander, B.O.},
+  \bibinfo{author}{Zhang, W.}, \bibinfo{author}{Shang, Z.},
+  \bibinfo{author}{Zou, J.}, \bibinfo{author}{Zheng, X.}, \bibinfo{author}{Li,
+  G.}, \bibinfo{author}{Liu, Z.}, \bibinfo{author}{Wang, S.},
+  \bibinfo{author}{Ding, Y.}, \bibinfo{author}{{van Groenigen}, K.J.},
+  \bibinfo{author}{Jiang, Y.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Greenhouse gas emissions and mitigation in rice
+  agriculture}.
+\newblock \bibinfo{journal}{Nature Reviews Earth and Environment}
+  \bibinfo{volume}{4}, \bibinfo{pages}{716--732}.
+\newblock \DOIprefix\doi{10.1038/s43017-023-00482-1}.
+%Type = Article
+\bibitem[{Reba et~al.(2019)Reba, Fong and Rijal}]{reba2019}
+\bibinfo{author}{Reba, M.L.}, \bibinfo{author}{Fong, B.N.},
+  \bibinfo{author}{Rijal, I.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Fallow season {{CO2}} and {{CH4}} fluxes from {{US}}
+  mid-south rice-waterfowl habitats}.
+\newblock \bibinfo{journal}{Agricultural and Forest Meteorology}
+  \bibinfo{volume}{279}, \bibinfo{pages}{107709}.
+\newblock \DOIprefix\doi{10.1016/j.agrformet.2019.107709}.
+%Type = Article
+\bibitem[{Richards(2001)}]{richards2001}
+\bibinfo{author}{Richards, A.}, \bibinfo{year}{2001}.
+\newblock \bibinfo{title}{Does {{Low Biodiversity Resulting}} from {{Modern
+  Agricultural Practice Affect Crop Pollination}} and {{Yield}}?}
+\newblock \bibinfo{journal}{Annals of Botany} \bibinfo{volume}{88},
+  \bibinfo{pages}{165--172}.
+\newblock \DOIprefix\doi{10.1006/anbo.2001.1463}.
+%Type = Article
+\bibitem[{{Rodr{\'i}guez-Santalla} and Navarro(2021)}]{rodriguez-santalla2021}
+\bibinfo{author}{{Rodr{\'i}guez-Santalla}, I.}, \bibinfo{author}{Navarro, N.},
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Main {{Threats}} in {{Mediterranean Coastal
+  Wetlands}}. {{The Ebro Delta Case}}}.
+\newblock \bibinfo{journal}{Journal of Marine Science and Engineering}
+  \bibinfo{volume}{9}, \bibinfo{pages}{1190}.
+\newblock \DOIprefix\doi{10.3390/jmse9111190}.
+%Type = Article
+\bibitem[{Rogelj et~al.(2018)Rogelj, Popp, Calvin, Luderer, Emmerling, Gernaat,
+  Fujimori, Strefler, Hasegawa, Marangoni et~al.}]{rogelj2018scenarios}
+\bibinfo{author}{Rogelj, J.}, \bibinfo{author}{Popp, A.},
+  \bibinfo{author}{Calvin, K.V.}, \bibinfo{author}{Luderer, G.},
+  \bibinfo{author}{Emmerling, J.}, \bibinfo{author}{Gernaat, D.},
+  \bibinfo{author}{Fujimori, S.}, \bibinfo{author}{Strefler, J.},
+  \bibinfo{author}{Hasegawa, T.}, \bibinfo{author}{Marangoni, G.}, et~al.,
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Scenarios towards limiting global mean temperature
+  increase below 1.5 {{C}}}.
+\newblock \bibinfo{journal}{Nature climate change} \bibinfo{volume}{8},
+  \bibinfo{pages}{325--332}.
+\newblock \DOIprefix\doi{10.1038/s41558-018-0091-3}.
+%Type = Article
+\bibitem[{Romagosa et~al.(2013)Romagosa, Chelleri, Mart{\'{\i}}nez and
+  Breton}]{romagosa2013sustainability}
+\bibinfo{author}{Romagosa, F.}, \bibinfo{author}{Chelleri, L.},
+  \bibinfo{author}{Mart{\'{\i}}nez, A.J.T.}, \bibinfo{author}{Breton, F.},
+  \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Sustainability and social-ecological resilience in
+  the {{Ebro}} delta}.
+\newblock \bibinfo{journal}{Documents d'Analisi Geografica}
+  \bibinfo{volume}{59}, \bibinfo{pages}{239--263}.
+\newblock \DOIprefix\doi{10.5565/rev/dag.13}.
+%Type = Article
+\bibitem[{RStudio(2020)}]{team2020integrated}
+\bibinfo{author}{RStudio, T.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Integrated development for {{R}}}.
+\newblock \bibinfo{journal}{RStudio, Pbc} .
+%Type = Article
+\bibitem[{Rusch et~al.(2022)Rusch, Bartlett, Kyrkjeeide, Lein, Nord{\'e}n,
+  Sandvik and Stokland}]{rusch2022}
+\bibinfo{author}{Rusch, G.M.}, \bibinfo{author}{Bartlett, J.},
+  \bibinfo{author}{Kyrkjeeide, M.O.}, \bibinfo{author}{Lein, U.},
+  \bibinfo{author}{Nord{\'e}n, J.}, \bibinfo{author}{Sandvik, H.},
+  \bibinfo{author}{Stokland, H.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{A joint climate and nature cure: {{A}} transformative
+  change perspective}.
+\newblock \bibinfo{journal}{Ambio} \bibinfo{volume}{51},
+  \bibinfo{pages}{1459--1473}.
+\newblock \DOIprefix\doi{10.1007/s13280-021-01679-8}.
+%Type = Article
+\bibitem[{Sass et~al.(1992)Sass, Fisher, Wang, Turner and Jund}]{sass1992}
+\bibinfo{author}{Sass, R.L.}, \bibinfo{author}{Fisher, F.M.},
+  \bibinfo{author}{Wang, Y.B.}, \bibinfo{author}{Turner, F.T.},
+  \bibinfo{author}{Jund, M.F.}, \bibinfo{year}{1992}.
+\newblock \bibinfo{title}{Methane emission from rice fields: {{The}} effect of
+  floodwater management}.
+\newblock \bibinfo{journal}{Global Biogeochemical Cycles} \bibinfo{volume}{6},
+  \bibinfo{pages}{249--262}.
+\newblock \DOIprefix\doi{10.1029/92GB01674}.
+%Type = Article
+\bibitem[{Schaefer et~al.(2016)Schaefer, Fletcher, Veidt, Lassey, Brailsford,
+  Bromley, Dlugokencky, Michel, Miller, Levin, Lowe, Martin, Vaughn and
+  White}]{schaefer2016}
+\bibinfo{author}{Schaefer, H.}, \bibinfo{author}{Fletcher, S.E.M.},
+  \bibinfo{author}{Veidt, C.}, \bibinfo{author}{Lassey, K.R.},
+  \bibinfo{author}{Brailsford, G.W.}, \bibinfo{author}{Bromley, T.M.},
+  \bibinfo{author}{Dlugokencky, E.J.}, \bibinfo{author}{Michel, S.E.},
+  \bibinfo{author}{Miller, J.B.}, \bibinfo{author}{Levin, I.},
+  \bibinfo{author}{Lowe, D.C.}, \bibinfo{author}{Martin, R.J.},
+  \bibinfo{author}{Vaughn, B.H.}, \bibinfo{author}{White, J.W.C.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{A 21st-century shift from fossil-fuel to biogenic
+  methane emissions indicated by{\textsuperscript{13}}
+  {{CH}}{\textsubscript{4}}}.
+\newblock \bibinfo{journal}{Science} \bibinfo{volume}{352},
+  \bibinfo{pages}{80--84}.
+\newblock \DOIprefix\doi{10.1126/science.aad2705}.
+%Type = Article
+\bibitem[{Schneider and Frost(1996)}]{schneider1996}
+\bibinfo{author}{Schneider, D.W.}, \bibinfo{author}{Frost, T.M.},
+  \bibinfo{year}{1996}.
+\newblock \bibinfo{title}{Habitat duration and community structure in temporary
+  ponds}.
+\newblock \bibinfo{journal}{Journal of the North American Benthological
+  Society} \bibinfo{volume}{15}, \bibinfo{pages}{64--86}.
+\newblock \DOIprefix\doi{10.2307/1467433}.
+%Type = Article
+\bibitem[{Schorn et~al.(2024)Schorn, Graf, Littmann, Hach, Lavik, Speth,
+  Schubert, Kuypers and Milucka}]{schorn2024}
+\bibinfo{author}{Schorn, S.}, \bibinfo{author}{Graf, J.S.},
+  \bibinfo{author}{Littmann, S.}, \bibinfo{author}{Hach, P.F.},
+  \bibinfo{author}{Lavik, G.}, \bibinfo{author}{Speth, D.R.},
+  \bibinfo{author}{Schubert, C.J.}, \bibinfo{author}{Kuypers, M.M.},
+  \bibinfo{author}{Milucka, J.}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Persistent activity of aerobic methane-oxidizing
+  bacteria in anoxic lake waters due to metabolic versatility}.
+\newblock \bibinfo{journal}{Nature Communications} \bibinfo{volume}{15}.
+\newblock \DOIprefix\doi{10.1038/s41467-024-49602-5}.
+%Type = Article
+\bibitem[{Schultz et~al.(2023)Schultz, Janousek, Brophy, Schmitt and
+  Bridgham}]{schultz2023}
+\bibinfo{author}{Schultz, M.A.}, \bibinfo{author}{Janousek, C.N.},
+  \bibinfo{author}{Brophy, L.S.}, \bibinfo{author}{Schmitt, J.},
+  \bibinfo{author}{Bridgham, S.D.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{How management interacts with environmental drivers
+  to control greenhouse gas fluxes from {{Pacific Northwest}} coastal
+  wetlands}.
+\newblock \bibinfo{journal}{Biogeochemistry}
+  \DOIprefix\doi{10.1007/s10533-023-01071-6}.
+%Type = Article
+\bibitem[{Seck et~al.(2012)Seck, Diagne, Mohanty and Wopereis}]{seck2012crops}
+\bibinfo{author}{Seck, P.A.}, \bibinfo{author}{Diagne, A.},
+  \bibinfo{author}{Mohanty, S.}, \bibinfo{author}{Wopereis, M.C.},
+  \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{Crops that feed the world 7: {{Rice}}}.
+\newblock \bibinfo{journal}{Food security} \bibinfo{volume}{4},
+  \bibinfo{pages}{7--24}.
+\newblock \DOIprefix\doi{10.1007/s12571-012-0168-1}.
+%Type = Article
+\bibitem[{Seddon et~al.(2019)Seddon, Turner, Berry, Chausson and
+  Girardin}]{seddon2019}
+\bibinfo{author}{Seddon, N.}, \bibinfo{author}{Turner, B.},
+  \bibinfo{author}{Berry, P.}, \bibinfo{author}{Chausson, A.},
+  \bibinfo{author}{Girardin, C.A.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Grounding nature-based climate solutions in sound
+  biodiversity science}.
+\newblock \bibinfo{journal}{Nature Climate Change} \bibinfo{volume}{9},
+  \bibinfo{pages}{84--87}.
+\newblock \DOIprefix\doi{10.1038/s41558-019-0405-0}.
+%Type = Article
+\bibitem[{Shankar and Subhashini(2021)}]{shankar2021}
+\bibinfo{author}{Shankar, A.}, \bibinfo{author}{Subhashini, S.},
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Production of rice in water deficient regions}.
+\newblock \bibinfo{journal}{International Journal of Modern Agriculture}
+  \bibinfo{volume}{1}, \bibinfo{pages}{2883--2890}.
+%Type = Article
+\bibitem[{Shao et~al.(2017)Shao, Xu, Li, Dai, Liu, Yuan, Wang and
+  Yang}]{shao2017}
+\bibinfo{author}{Shao, R.}, \bibinfo{author}{Xu, M.}, \bibinfo{author}{Li, R.},
+  \bibinfo{author}{Dai, X.}, \bibinfo{author}{Liu, L.}, \bibinfo{author}{Yuan,
+  Y.}, \bibinfo{author}{Wang, H.}, \bibinfo{author}{Yang, F.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Land use legacies and nitrogen fertilization affect
+  methane emissions in the early years of rice field development}.
+\newblock \bibinfo{journal}{Nutrient Cycling in Agroecosystems}
+  \bibinfo{volume}{107}, \bibinfo{pages}{369--380}.
+\newblock \DOIprefix\doi{10.1007/s10705-017-9838-x}.
+%Type = Article
+\bibitem[{Singh et~al.(2017)Singh, Reddy, Redo{\~n}a and
+  Walker}]{singh2017developing}
+\bibinfo{author}{Singh, B.}, \bibinfo{author}{Reddy, K.R.},
+  \bibinfo{author}{Redo{\~n}a, E.D.}, \bibinfo{author}{Walker, T.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Developing a screening tool for osmotic stress
+  tolerance classification of rice cultivars based on in vitro seed
+  germination}.
+\newblock \bibinfo{journal}{Crop Science} \bibinfo{volume}{57},
+  \bibinfo{pages}{387--394}.
+\newblock \DOIprefix\doi{10.2135/cropsci2016.03.0196}.
+%Type = Article
+\bibitem[{Smith et~al.(2022)Smith, Arneth, Barnes, Ichii, Marquet, Popp,
+  P{\"o}rtner, Rogers, Scholes, Strassburg, Wu and Ngo}]{smith2022}
+\bibinfo{author}{Smith, P.}, \bibinfo{author}{Arneth, A.},
+  \bibinfo{author}{Barnes, D.K.}, \bibinfo{author}{Ichii, K.},
+  \bibinfo{author}{Marquet, P.A.}, \bibinfo{author}{Popp, A.},
+  \bibinfo{author}{P{\"o}rtner, H.O.}, \bibinfo{author}{Rogers, A.D.},
+  \bibinfo{author}{Scholes, R.J.}, \bibinfo{author}{Strassburg, B.},
+  \bibinfo{author}{Wu, J.}, \bibinfo{author}{Ngo, H.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{How do we best synergize climate mitigation actions
+  to co-benefit biodiversity?}
+\newblock \bibinfo{journal}{Global Change Biology} \bibinfo{volume}{28},
+  \bibinfo{pages}{2555--2577}.
+\newblock \DOIprefix\doi{10.1111/gcb.16056}.
+%Type = Article
+\bibitem[{Smith et~al.(2007)Smith, Martino, Cai, Gwary, Janzen, Kumar, McCarl,
+  Ogle, O'Mara, Rice, Scholes and Sirotenko}]{Smith2007}
+\bibinfo{author}{Smith, P.}, \bibinfo{author}{Martino, D.},
+  \bibinfo{author}{Cai, Z.}, \bibinfo{author}{Gwary, D.},
+  \bibinfo{author}{Janzen, H.}, \bibinfo{author}{Kumar, P.},
+  \bibinfo{author}{McCarl, B.}, \bibinfo{author}{Ogle, S.},
+  \bibinfo{author}{O'Mara, F.}, \bibinfo{author}{Rice, C.},
+  \bibinfo{author}{Scholes, B.}, \bibinfo{author}{Sirotenko, O.},
+  \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{Agriculture}.
+\newblock \bibinfo{journal}{In Climate Change 2007: Mitigation. Contribution of
+  Working Group III to the Fourth Assessment Report of the Intergovernmental
+  Panel on Climate Change [B. Metz, O.R. Davidson, P.R. Bosch, R. Dave, L.A.
+  Meyer (eds)], Cambridge University Press, Cambridge, United Kingdom and New
+  York, NY, USA} .
+%Type = Article
+\bibitem[{Sotres et~al.(2015)Sotres, {D{\'{\i}}az-Marcos}, Guivernau, Illa,
+  Magr{\'{\i}}, {Prenafeta-Bold{\'u}}, Bonmat{\'{\i}} and
+  Vi{\~n}as}]{sotres2015}
+\bibinfo{author}{Sotres, A.}, \bibinfo{author}{{D{\'{\i}}az-Marcos}, J.},
+  \bibinfo{author}{Guivernau, M.}, \bibinfo{author}{Illa, J.},
+  \bibinfo{author}{Magr{\'{\i}}, A.}, \bibinfo{author}{{Prenafeta-Bold{\'u}},
+  F.X.}, \bibinfo{author}{Bonmat{\'{\i}}, A.}, \bibinfo{author}{Vi{\~n}as, M.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Microbial community dynamics in two-chambered
+  microbial fuel cells: Effect of different ion exchange membranes}.
+\newblock \bibinfo{journal}{Journal of Chemical Technology \& Biotechnology}
+  \bibinfo{volume}{90}, \bibinfo{pages}{1497--1506}.
+\newblock \DOIprefix\doi{10.1002/jctb.4465}.
+%Type = Article
+\bibitem[{Souza et~al.(2021)Souza, Yin and Calabrese}]{souza2021}
+\bibinfo{author}{Souza, R.}, \bibinfo{author}{Yin, J.},
+  \bibinfo{author}{Calabrese, S.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Optimal drainage timing for mitigating methane
+  emissions from rice paddy fields}.
+\newblock \bibinfo{journal}{Geoderma} \bibinfo{volume}{394},
+  \bibinfo{pages}{114986}.
+\newblock \DOIprefix\doi{10.1016/j.geoderma.2021.114986}.
+%Type = Article
+\bibitem[{Strassburg et~al.(2020)Strassburg, Iribarrem, Beyer, Cordeiro,
+  Crouzeilles, Jakovac, Braga~Junqueira, Lacerda, Latawiec, Balmford, Brooks,
+  Butchart, Chazdon, Erb, Brancalion, Buchanan, Cooper, D{\'i}az, Donald,
+  Kapos, Lecl{\`e}re, Miles, Obersteiner, Plutzar, De~M.~Scaramuzza, Scarano
+  and Visconti}]{strassburg2020}
+\bibinfo{author}{Strassburg, B.B.N.}, \bibinfo{author}{Iribarrem, A.},
+  \bibinfo{author}{Beyer, H.L.}, \bibinfo{author}{Cordeiro, C.L.},
+  \bibinfo{author}{Crouzeilles, R.}, \bibinfo{author}{Jakovac, C.C.},
+  \bibinfo{author}{Braga~Junqueira, A.}, \bibinfo{author}{Lacerda, E.},
+  \bibinfo{author}{Latawiec, A.E.}, \bibinfo{author}{Balmford, A.},
+  \bibinfo{author}{Brooks, T.M.}, \bibinfo{author}{Butchart, S.H.M.},
+  \bibinfo{author}{Chazdon, R.L.}, \bibinfo{author}{Erb, K.H.},
+  \bibinfo{author}{Brancalion, P.}, \bibinfo{author}{Buchanan, G.},
+  \bibinfo{author}{Cooper, D.}, \bibinfo{author}{D{\'i}az, S.},
+  \bibinfo{author}{Donald, P.F.}, \bibinfo{author}{Kapos, V.},
+  \bibinfo{author}{Lecl{\`e}re, D.}, \bibinfo{author}{Miles, L.},
+  \bibinfo{author}{Obersteiner, M.}, \bibinfo{author}{Plutzar, C.},
+  \bibinfo{author}{De~M.~Scaramuzza, C.A.}, \bibinfo{author}{Scarano, F.R.},
+  \bibinfo{author}{Visconti, P.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Global priority areas for ecosystem restoration}.
+\newblock \bibinfo{journal}{Nature} \bibinfo{volume}{586},
+  \bibinfo{pages}{724--729}.
+\newblock \DOIprefix\doi{10.1038/s41586-020-2784-9}.
+%Type = Book
+\bibitem[{Swift et~al.(1996)Swift, Vandermeer, Ramakrishnan, Anderson, Ong and
+  Hawkins}]{Swift1996-qx}
+\bibinfo{author}{Swift, M.S.}, \bibinfo{author}{Vandermeer, J.},
+  \bibinfo{author}{Ramakrishnan, P.S.}, \bibinfo{author}{Anderson, J.M.},
+  \bibinfo{author}{Ong, C.K.}, \bibinfo{author}{Hawkins, B.A.},
+  \bibinfo{year}{1996}.
+\newblock \bibinfo{title}{Biodiversity and Agroecosystem Function, in
+  Functional Roles of Biodiversity: A Global Perspective}.
+\newblock \bibinfo{publisher}{John Wiley \& Sons}, \bibinfo{address}{New York}.
+%Type = Article
+\bibitem[{Tabbal et~al.(2002)Tabbal, Bouman, Bhuiyan, Sibayan and
+  Sattar}]{tabbal2002}
+\bibinfo{author}{Tabbal, D.}, \bibinfo{author}{Bouman, B.},
+  \bibinfo{author}{Bhuiyan, S.}, \bibinfo{author}{Sibayan, E.},
+  \bibinfo{author}{Sattar, M.}, \bibinfo{year}{2002}.
+\newblock \bibinfo{title}{On-farm strategies for reducing water input in
+  irrigated rice; case studies in the {{Philippines}}}.
+\newblock \bibinfo{journal}{Agricultural Water Management}
+  \bibinfo{volume}{56}, \bibinfo{pages}{93--112}.
+\newblock \DOIprefix\doi{10.1016/S0378-3774(02)00007-0}.
+%Type = Article
+\bibitem[{Tajiri and Ohkawara(2013)}]{tajiri2013effects}
+\bibinfo{author}{Tajiri, H.}, \bibinfo{author}{Ohkawara, K.},
+  \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{The effects of flooding and plowing on foraging site
+  selection by wintering dabbling ducks in rice fields}.
+\newblock \bibinfo{journal}{Ornithological Science} \bibinfo{volume}{12},
+  \bibinfo{pages}{127--136}.
+\newblock \DOIprefix\doi{10.2326/osj.12.127}.
+%Type = Article
+\bibitem[{Temperton et~al.(2019)Temperton, Buchmann, Buisson, Durigan,
+  Kazmierczak, Perring, {de S{\'a} Dechoum}, Veldman and
+  Overbeck}]{temperton2019}
+\bibinfo{author}{Temperton, V.M.}, \bibinfo{author}{Buchmann, N.},
+  \bibinfo{author}{Buisson, E.}, \bibinfo{author}{Durigan, G.},
+  \bibinfo{author}{Kazmierczak, {\L}.}, \bibinfo{author}{Perring, M.P.},
+  \bibinfo{author}{{de S{\'a} Dechoum}, M.}, \bibinfo{author}{Veldman, J.W.},
+  \bibinfo{author}{Overbeck, G.E.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Step back from the forest and step up to the {{Bonn
+  Challenge}}: How a broad ecological perspective can promote successful
+  landscape restoration}.
+\newblock \bibinfo{journal}{Restoration Ecology} \bibinfo{volume}{27},
+  \bibinfo{pages}{705--719}.
+\newblock \DOIprefix\doi{10.1111/rec.12989}.
+%Type = Article
+\bibitem[{Tian et~al.(2022)Tian, Qiu, Wang, Zhou and Li}]{tian2022}
+\bibinfo{author}{Tian, G.}, \bibinfo{author}{Qiu, H.}, \bibinfo{author}{Wang,
+  Y.}, \bibinfo{author}{Zhou, X.}, \bibinfo{author}{Li, D.},
+  \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Short-term legacy effects of rice season irrigation
+  and fertilization on the soil bacterial community of the subsequent wheat
+  season in a rice-wheat rotation system}.
+\newblock \bibinfo{journal}{Agricultural Water Management}
+  \bibinfo{volume}{263}, \bibinfo{pages}{107446}.
+\newblock \DOIprefix\doi{10.1016/j.agwat.2021.107446}.
+%Type = Article
+\bibitem[{Tomich et~al.(2011)Tomich, Brodt, Ferris, Galt, Horwath, Kebreab,
+  Leveau, Liptzin, Lubell, Merel, Michelmore, Rosenstock, Scow, Six, Williams
+  and Yang}]{tomich2011}
+\bibinfo{author}{Tomich, T.P.}, \bibinfo{author}{Brodt, S.},
+  \bibinfo{author}{Ferris, H.}, \bibinfo{author}{Galt, R.},
+  \bibinfo{author}{Horwath, W.R.}, \bibinfo{author}{Kebreab, E.},
+  \bibinfo{author}{Leveau, J.H.}, \bibinfo{author}{Liptzin, D.},
+  \bibinfo{author}{Lubell, M.}, \bibinfo{author}{Merel, P.},
+  \bibinfo{author}{Michelmore, R.}, \bibinfo{author}{Rosenstock, T.},
+  \bibinfo{author}{Scow, K.}, \bibinfo{author}{Six, J.},
+  \bibinfo{author}{Williams, N.}, \bibinfo{author}{Yang, L.},
+  \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{Agroecology: {{A Review}} from a {{Global-Change
+  Perspective}}}.
+\newblock \bibinfo{journal}{Annual Review of Environment and Resources}
+  \bibinfo{volume}{36}, \bibinfo{pages}{193--222}.
+\newblock \DOIprefix\doi{10.1146/annurev-environ-012110-121302}.
+%Type = Article
+\bibitem[{Tripathi et~al.(2022)Tripathi, Kunin, Smith, Sallu, Maurice, Machera,
+  Davies, Florence, Eze, Yamdeu and Sait}]{tripathi2022}
+\bibinfo{author}{Tripathi, H.G.}, \bibinfo{author}{Kunin, W.E.},
+  \bibinfo{author}{Smith, H.E.}, \bibinfo{author}{Sallu, S.M.},
+  \bibinfo{author}{Maurice, S.}, \bibinfo{author}{Machera, S.D.},
+  \bibinfo{author}{Davies, R.}, \bibinfo{author}{Florence, M.},
+  \bibinfo{author}{Eze, S.}, \bibinfo{author}{Yamdeu, J.H.},
+  \bibinfo{author}{Sait, S.M.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Climate-{{Smart Agriculture}} and {{Trade-Offs With
+  Biodiversity}} and {{Crop Yield}}}.
+\newblock \bibinfo{journal}{Frontiers in Sustainable Food Systems}
+  \bibinfo{volume}{6}, \bibinfo{pages}{1--12}.
+\newblock \DOIprefix\doi{10.3389/fsufs.2022.868870}.
+%Type = Article
+\bibitem[{Tuong and Bouman(2003a)}]{tuong2003rice}
+\bibinfo{author}{Tuong, T.P.}, \bibinfo{author}{Bouman, B.A.},
+  \bibinfo{year}{2003}a.
+\newblock \bibinfo{title}{Water productivity in agriculture: {{Limits}} and
+  opportunities for improvement - chapter 4: {{Rice}} production in
+  water-scarce environments.}
+\newblock \bibinfo{journal}{International Rice Research Institute, Manila,
+  Philippines} \DOIprefix\doi{10.1079/9780851996691.0053}.
+%Type = Incollection
+\bibitem[{Tuong and Bouman(2003b)}]{tuong2003}
+\bibinfo{author}{Tuong, T.P.}, \bibinfo{author}{Bouman, B.A.M.},
+  \bibinfo{year}{2003}b.
+\newblock \bibinfo{title}{Rice production in water-scarce environments.}, in:
+  \bibinfo{editor}{Kijne, J.W.}, \bibinfo{editor}{Barker, R.},
+  \bibinfo{editor}{Molden, D.} (Eds.), \bibinfo{booktitle}{Water Productivity
+  in Agriculture: Limits and Opportunities for Improvement}.
+  \bibinfo{edition}{1} ed.. \bibinfo{publisher}{CABI Publishing},
+  \bibinfo{address}{UK}, pp. \bibinfo{pages}{53--67}.
+\newblock \DOIprefix\doi{10.1079/9780851996691.0053}.
+%Type = Inproceedings
+\bibitem[{{United Nations}(2015a)}]{agreement2015paris}
+\bibinfo{author}{{United Nations}}, \bibinfo{year}{2015}a.
+\newblock \bibinfo{title}{Paris agreement}, in: \bibinfo{booktitle}{Report of
+  the Conference of the Parties to the {{United Nations}} Framework Convention
+  on Climate Change (21st Session, 2015: {{Paris}}). {{Retrived December}}},
+  \bibinfo{publisher}{HeinOnline}. p.~\bibinfo{pages}{2}.
+%Type = Article
+\bibitem[{{United Nations}(2015b)}]{un2015transforming}
+\bibinfo{author}{{United Nations}}, \bibinfo{year}{2015}b.
+\newblock \bibinfo{title}{Transforming our world: {{The}} 2030 agenda for
+  sustainable development}.
+\newblock \bibinfo{journal}{Division for Sustainable Development Goals. New
+  York: World Health Organization} .
+%Type = Article
+\bibitem[{{United Nations}(2024)}]{UN2024}
+\bibinfo{author}{{United Nations}}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{United nations - world population prospects 2024:
+  {{Summary}} of results.}
+\newblock \bibinfo{journal}{United Nations Department of Economic and Social
+  Affairs, Population Division. UN DESA/POP/2024/TR/NO. 9} .
+%Type = Article
+\bibitem[{Veldman et~al.(2015)Veldman, Overbeck, Negreiros, Mahy, Le~Stradic,
+  Fernandes, Durigan, Buisson, Putz and Bond}]{veldman2015}
+\bibinfo{author}{Veldman, J.W.}, \bibinfo{author}{Overbeck, G.E.},
+  \bibinfo{author}{Negreiros, D.}, \bibinfo{author}{Mahy, G.},
+  \bibinfo{author}{Le~Stradic, S.}, \bibinfo{author}{Fernandes, G.W.},
+  \bibinfo{author}{Durigan, G.}, \bibinfo{author}{Buisson, E.},
+  \bibinfo{author}{Putz, F.E.}, \bibinfo{author}{Bond, W.J.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Where {{Tree Planting}} and {{Forest Expansion}} are
+  {{Bad}} for {{Biodiversity}} and {{Ecosystem Services}}}.
+\newblock \bibinfo{journal}{BioScience} \bibinfo{volume}{65},
+  \bibinfo{pages}{1011--1018}.
+\newblock \DOIprefix\doi{10.1093/biosci/biv118}.
+%Type = Article
+\bibitem[{Vilonen et~al.(2023)Vilonen, Hoosein, Smith and
+  Trivedi}]{vilonen2023}
+\bibinfo{author}{Vilonen, L.L.}, \bibinfo{author}{Hoosein, S.},
+  \bibinfo{author}{Smith, M.D.}, \bibinfo{author}{Trivedi, P.},
+  \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Legacy effects of intensified drought on the soil
+  microbiome in a mesic grassland}.
+\newblock \bibinfo{journal}{Ecosphere} \bibinfo{volume}{14},
+  \bibinfo{pages}{1--15}.
+\newblock \DOIprefix\doi{10.1002/ecs2.4545}.
+%Type = Article
+\bibitem[{Vitousek(1994)}]{vitousek1994}
+\bibinfo{author}{Vitousek, P.M.}, \bibinfo{year}{1994}.
+\newblock \bibinfo{title}{Beyond {{Global Warming}}: {{Ecology}} and {{Global
+  Change}}}.
+\newblock \bibinfo{journal}{Ecology} \bibinfo{volume}{75},
+  \bibinfo{pages}{1861--1876}.
+\newblock \DOIprefix\doi{10.2307/1941591}.
+%Type = Article
+\bibitem[{Wallace and Webster(1996)}]{wallace1996}
+\bibinfo{author}{Wallace, J.B.}, \bibinfo{author}{Webster, J.R.},
+  \bibinfo{year}{1996}.
+\newblock \bibinfo{title}{The role of macroinvertebrates in stream ecosystem
+  function}.
+\newblock \bibinfo{journal}{Annual Review of Entomology} \bibinfo{volume}{41},
+  \bibinfo{pages}{115--139}.
+\newblock \DOIprefix\doi{10.1146/annurev.en.41.010196.000555}.
+%Type = Article
+\bibitem[{Wang et~al.(2023)Wang, Ciais, Smith, Yan, Kuzyakov, Liu, Li and
+  Zou}]{wang2023}
+\bibinfo{author}{Wang, J.}, \bibinfo{author}{Ciais, P.},
+  \bibinfo{author}{Smith, P.}, \bibinfo{author}{Yan, X.},
+  \bibinfo{author}{Kuzyakov, Y.}, \bibinfo{author}{Liu, S.},
+  \bibinfo{author}{Li, T.}, \bibinfo{author}{Zou, J.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{The role of rice cultivation in changes in
+  atmospheric methane concentration and the {{Global Methane Pledge}}}.
+\newblock \bibinfo{journal}{Global Change Biology} ,
+  \bibinfo{pages}{0--3}\DOIprefix\doi{10.1111/gcb.16631}.
+%Type = Article
+\bibitem[{Wang et~al.(2007)Wang, Garrity, Tiedje and Cole}]{wang2007}
+\bibinfo{author}{Wang, Q.}, \bibinfo{author}{Garrity, G.M.},
+  \bibinfo{author}{Tiedje, J.M.}, \bibinfo{author}{Cole, J.R.},
+  \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{Naive {{Bayesian}} classifier for rapid assignment of
+  {{rRNA}} sequences into the new bacterial taxonomy}.
+\newblock \bibinfo{journal}{Applied and environmental microbiology}
+  \bibinfo{volume}{73}, \bibinfo{pages}{5261--5267}.
+\newblock \DOIprefix\doi{10.1128/AEM.00062-07}.
+%Type = Article
+\bibitem[{Wassmann et~al.(2009)Wassmann, Jagadish, Sumfleth, Pathak, Howell,
+  Ismail, Serraj, Redona, Singh and Heuer}]{wassmann2009regional}
+\bibinfo{author}{Wassmann, R.}, \bibinfo{author}{Jagadish, {\relax SVK}.},
+  \bibinfo{author}{Sumfleth, K.}, \bibinfo{author}{Pathak, H.},
+  \bibinfo{author}{Howell, G.}, \bibinfo{author}{Ismail, A.},
+  \bibinfo{author}{Serraj, R.}, \bibinfo{author}{Redona, E.},
+  \bibinfo{author}{Singh, {\relax RK}.}, \bibinfo{author}{Heuer, S.},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{Regional vulnerability of climate change impacts on
+  {{Asian}} rice production and scope for adaptation}.
+\newblock \bibinfo{journal}{Advances in agronomy} \bibinfo{volume}{102},
+  \bibinfo{pages}{91--133}.
+\newblock \DOIprefix\doi{10.1016/S0065-2113(09)01003-7}.
+%Type = Article
+\bibitem[{Wassmann et~al.(1993)Wassmann, Papen and
+  Rennenberg}]{wassmann1993methane}
+\bibinfo{author}{Wassmann, R.}, \bibinfo{author}{Papen, H.},
+  \bibinfo{author}{Rennenberg, H.}, \bibinfo{year}{1993}.
+\newblock \bibinfo{title}{Methane emission from rice paddies and possible
+  mitigation strategies}.
+\newblock \bibinfo{journal}{Chemosphere} \bibinfo{volume}{26},
+  \bibinfo{pages}{201--217}.
+\newblock \DOIprefix\doi{10.1016/0045-6535(93)90422-2}.
+%Type = Article
+\bibitem[{Watanabe et~al.(2013)Watanabe, Koji, Hidaka and
+  Nakamura}]{watanabe2013}
+\bibinfo{author}{Watanabe, K.}, \bibinfo{author}{Koji, S.},
+  \bibinfo{author}{Hidaka, K.}, \bibinfo{author}{Nakamura, K.},
+  \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Abundance, diversity, and seasonal population
+  dynamics of aquatic coleoptera and heteroptera in rice fields: {{Effects}} of
+  direct seeding management}.
+\newblock \bibinfo{journal}{Environmental Entomology} \bibinfo{volume}{42},
+  \bibinfo{pages}{841--850}.
+\newblock \DOIprefix\doi{10.1603/EN13109}.
+%Type = Article
+\bibitem[{Waterkeyn et~al.(2008)Waterkeyn, Grillas, Vanschoenwinkel and
+  Brendonck}]{waterkeyn2008}
+\bibinfo{author}{Waterkeyn, A.}, \bibinfo{author}{Grillas, P.},
+  \bibinfo{author}{Vanschoenwinkel, B.}, \bibinfo{author}{Brendonck, L.},
+  \bibinfo{year}{2008}.
+\newblock \bibinfo{title}{Invertebrate community patterns in {{Mediterranean}}
+  temporary wetlands along hydroperiod and salinity gradients}.
+\newblock \bibinfo{journal}{Freshwater Biology} \bibinfo{volume}{53},
+  \bibinfo{pages}{1808--1822}.
+\newblock \DOIprefix\doi{10.1111/j.1365-2427.2008.02005.x}.
+%Type = Article
+\bibitem[{Williams(1996)}]{williams1996}
+\bibinfo{author}{Williams, D.D.}, \bibinfo{year}{1996}.
+\newblock \bibinfo{title}{Environmental constraints in temporary fresh waters
+  and their consequences for the insect fauna}.
+\newblock \bibinfo{journal}{Journal of the North American Benthological
+  Society} \bibinfo{volume}{15}, \bibinfo{pages}{634--650}.
+\newblock \DOIprefix\doi{10.2307/1467813}.
+%Type = Article
+\bibitem[{Williams(2000)}]{williams2000}
+\bibinfo{author}{Williams, W.D.}, \bibinfo{year}{2000}.
+\newblock \bibinfo{title}{Biodiversity in temporary wetlands of dryland
+  regions}.
+\newblock \bibinfo{journal}{SIL Proceedings, 1922-2010} \bibinfo{volume}{27},
+  \bibinfo{pages}{141--144}.
+\newblock \DOIprefix\doi{10.1080/03680770.1998.11901214}.
+%Type = Book
+\bibitem[{{World Economic Forum.} et~al.(2023){World Economic Forum.},
+  Ratcheva, Zahidi, Pal, Piaget and Baller}]{worldeconomicforum.2023}
+\bibinfo{author}{{World Economic Forum.}}, \bibinfo{author}{Ratcheva, {\relax
+  Vesselina}.}, \bibinfo{author}{Zahidi, {\relax Saadia}.},
+  \bibinfo{author}{Pal, K.K.}, \bibinfo{author}{Piaget, {\relax Kim}.},
+  \bibinfo{author}{Baller, {\relax Silja}.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Global Risk Report 2023}.
+%Type = Article
+\bibitem[{{W{\"u}st-Galley} et~al.(2023){W{\"u}st-Galley}, Heller, Ammann,
+  Paul, Doetterl and Leifeld}]{wust-galley2023}
+\bibinfo{author}{{W{\"u}st-Galley}, C.}, \bibinfo{author}{Heller, S.},
+  \bibinfo{author}{Ammann, C.}, \bibinfo{author}{Paul, S.},
+  \bibinfo{author}{Doetterl, S.}, \bibinfo{author}{Leifeld, J.},
+  \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Methane and nitrous oxide emissions from rice grown
+  on organic soils in the temperate zone}.
+\newblock \bibinfo{journal}{Agriculture, Ecosystems \& Environment}
+  \bibinfo{volume}{356}, \bibinfo{pages}{108641}.
+\newblock \DOIprefix\doi{10.1016/j.agee.2023.108641}.
+%Type = Article
+\bibitem[{Yagi et~al.(1997)Yagi, Tsuruta and Minami}]{yagi1997}
+\bibinfo{author}{Yagi, K.}, \bibinfo{author}{Tsuruta, H.},
+  \bibinfo{author}{Minami, K.}, \bibinfo{year}{1997}.
+\newblock \bibinfo{title}{Possible options for mitigating methane emission from
+  rice cultivation}.
+\newblock \bibinfo{journal}{Nutrient Cycling in Agroecosystems}
+  \bibinfo{volume}{49}, \bibinfo{pages}{213--220}.
+\newblock \DOIprefix\doi{10.1023/a:1009743909716}.
+%Type = Article
+\bibitem[{Yan et~al.(2005)Yan, Yagi, Akiyama and Akimoto}]{yan2005}
+\bibinfo{author}{Yan, X.}, \bibinfo{author}{Yagi, K.},
+  \bibinfo{author}{Akiyama, H.}, \bibinfo{author}{Akimoto, H.},
+  \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{Statistical analysis of the major variables
+  controlling methane emission from rice fields}.
+\newblock \bibinfo{journal}{Global Change Biology} \bibinfo{volume}{11},
+  \bibinfo{pages}{1131--1141}.
+\newblock \DOIprefix\doi{10.1111/j.1365-2486.2005.00976.x}.
+%Type = Article
+\bibitem[{Yang et~al.(2019)Yang, Wang, Chen, Li and Cao}]{yang2019different}
+\bibinfo{author}{Yang, X.}, \bibinfo{author}{Wang, B.}, \bibinfo{author}{Chen,
+  L.}, \bibinfo{author}{Li, P.}, \bibinfo{author}{Cao, C.},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{The different influences of drought stress at the
+  flowering stage on rice physiological traits, grain yield, and quality}.
+\newblock \bibinfo{journal}{Scientific reports} \bibinfo{volume}{9},
+  \bibinfo{pages}{3742}.
+\newblock \DOIprefix\doi{10.1038/s41598-019-40161-0}.
+%Type = Article
+\bibitem[{Ye et~al.(2013)Ye, Liang, Chen, Liu, Gu, Guo and Li}]{ye2013}
+\bibinfo{author}{Ye, Y.}, \bibinfo{author}{Liang, X.}, \bibinfo{author}{Chen,
+  Y.}, \bibinfo{author}{Liu, J.}, \bibinfo{author}{Gu, J.},
+  \bibinfo{author}{Guo, R.}, \bibinfo{author}{Li, L.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Alternate wetting and drying irrigation and
+  controlled-release nitrogen fertilizer in late-season rice. {{Effects}} on
+  dry matter accumulation, yield, water and nitrogen use}.
+\newblock \bibinfo{journal}{Field Crops Research} \bibinfo{volume}{144},
+  \bibinfo{pages}{212--224}.
+\newblock \DOIprefix\doi{10.1016/j.fcr.2012.12.003}.
+%Type = Article
+\bibitem[{Zhang et~al.(2011)Zhang, Zhang, Ma, Xu and Cai}]{zhang2011}
+\bibinfo{author}{Zhang, G.}, \bibinfo{author}{Zhang, X.}, \bibinfo{author}{Ma,
+  J.}, \bibinfo{author}{Xu, H.}, \bibinfo{author}{Cai, Z.},
+  \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{Effect of drainage in the fallow season on reduction
+  of {{CH4}} production and emission from permanently flooded rice fields}.
+\newblock \bibinfo{journal}{Nutrient Cycling in Agroecosystems}
+  \bibinfo{volume}{89}, \bibinfo{pages}{81--91}.
+\newblock \DOIprefix\doi{10.1007/s10705-010-9378-0}.
+%Type = Article
+\bibitem[{Zhang et~al.(2018)Zhang, Zhang, Cheng, Jiang, Zhang, Peng, Lu, Zhang
+  and Jin}]{zhang2018effect}
+\bibinfo{author}{Zhang, J.}, \bibinfo{author}{Zhang, S.},
+  \bibinfo{author}{Cheng, M.}, \bibinfo{author}{Jiang, H.},
+  \bibinfo{author}{Zhang, X.}, \bibinfo{author}{Peng, C.}, \bibinfo{author}{Lu,
+  X.}, \bibinfo{author}{Zhang, M.}, \bibinfo{author}{Jin, J.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Effect of drought on agronomic traits of rice and
+  wheat: {{A}} meta-analysis}.
+\newblock \bibinfo{journal}{International journal of environmental research and
+  public health} \bibinfo{volume}{15}, \bibinfo{pages}{839}.
+\newblock \DOIprefix\doi{10.3724/sp.j.1011.2013.30296}.
+%Type = Article
+\bibitem[{Zimmerer(2010)}]{zimmerer2010}
+\bibinfo{author}{Zimmerer, K.S.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Biological {{Diversity}} in {{Agriculture}} and
+  {{Global Change}}}.
+\newblock \bibinfo{journal}{Annual Review of Environment and Resources}
+  \bibinfo{volume}{35}, \bibinfo{pages}{137--166}.
+\newblock \DOIprefix\doi{10.1146/annurev-environ-040309-113840}.
+
+\end{thebibliography}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.22)  12 JUN 2025 13:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.22)  17 JUN 2025 15:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -356,6 +356,22 @@ Package scrbase Info: Unknown processing state.
 (scrbase)             a valid state. This will be interpreted
 (scrbase)             as \FamilyKeyStateProcessed on input line 649.
 ))
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/morewrites\morewr
+ites.sty
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/morewrites\primar
+gs.sty
+Package: primargs 2024/02/02 Parsing arguments of primitives
+)
+Package: morewrites 2024/02/02 Always room for a new write
+\g__morewrites_later_int=\count304
+\l__morewrites_user_int=\count305
+\g__morewrites_iow=\write3
+\g__morewrites_ior=\read3
+\g__morewrites_group_level_int=\count306
+\g__morewrites_shipout_box=\box68
+\l__morewrites_collect_next_int=\count307
+\g__morewrites_alloc_write_int=\count308
+)
 (C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks22
@@ -369,286 +385,15 @@ ty
 Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
 \symupright=\mathgroup4
 )
-(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex
-.sty
-Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
-
-(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptio
-ns.sty
-Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
-
-(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetke
-ys.sty
-Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-))
-(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
-Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count304
-
-(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
-File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-))
-(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
-Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
-)
-(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
-\Urlmuskip=\muskip17
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-\c@tabx@nest=\count305
-\c@listtotal=\count306
-\c@listcount=\count307
-\c@liststart=\count308
-\c@liststop=\count309
-\c@citecount=\count310
-\c@citetotal=\count311
-\c@multicitecount=\count312
-\c@multicitetotal=\count313
-\c@instcount=\count314
-\c@maxnames=\count315
-\c@minnames=\count316
-\c@maxitems=\count317
-\c@minitems=\count318
-\c@citecounter=\count319
-\c@maxcitecounter=\count320
-\c@savedcitecounter=\count321
-\c@uniquelist=\count322
-\c@uniquename=\count323
-\c@refsection=\count324
-\c@refsegment=\count325
-\c@maxextratitle=\count326
-\c@maxextratitleyear=\count327
-\c@maxextraname=\count328
-\c@maxextradate=\count329
-\c@maxextraalpha=\count330
-\c@abbrvpenalty=\count331
-\c@highnamepenalty=\count332
-\c@lownamepenalty=\count333
-\c@maxparens=\count334
-\c@parenlevel=\count335
-\blx@tempcnta=\count336
-\blx@tempcntb=\count337
-\blx@tempcntc=\count338
-\c@blx@maxsection=\count339
-\blx@maxsegment@0=\count340
-\blx@notetype=\count341
-\blx@parenlevel@text=\count342
-\blx@parenlevel@foot=\count343
-\blx@sectionciteorder@0=\count344
-\blx@sectionciteorderinternal@0=\count345
-\blx@entrysetcounter=\count346
-\blx@biblioinstance=\count347
-\labelnumberwidth=\skip58
-\labelalphawidth=\skip59
-\biblabelsep=\skip60
-\bibitemsep=\skip61
-\bibnamesep=\skip62
-\bibinitsep=\skip63
-\bibparsep=\skip64
-\bibhang=\skip65
-\blx@bcfin=\read3
-\blx@bcfout=\write3
-\blx@langwohyphens=\language80
-\c@mincomprange=\count348
-\c@maxcomprange=\count349
-\c@mincompwidth=\count350
-Package biblatex Info: Trying to load biblatex default data model...
-Package biblatex Info: ... file 'blx-dm.def' found.
-
-(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.d
-ef
-File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
-)
-Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'authoryear.dbx' not found.
-Package biblatex Info: Trying to load biblatex custom data model...
-Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count351
-\c@savedafterword=\count352
-\c@annotator=\count353
-\c@savedannotator=\count354
-\c@author=\count355
-\c@savedauthor=\count356
-\c@bookauthor=\count357
-\c@savedbookauthor=\count358
-\c@commentator=\count359
-\c@savedcommentator=\count360
-\c@editor=\count361
-\c@savededitor=\count362
-\c@editora=\count363
-\c@savededitora=\count364
-\c@editorb=\count365
-\c@savededitorb=\count366
-\c@editorc=\count367
-\c@savededitorc=\count368
-\c@foreword=\count369
-\c@savedforeword=\count370
-\c@holder=\count371
-\c@savedholder=\count372
-\c@introduction=\count373
-\c@savedintroduction=\count374
-\c@namea=\count375
-\c@savednamea=\count376
-\c@nameb=\count377
-\c@savednameb=\count378
-\c@namec=\count379
-\c@savednamec=\count380
-\c@translator=\count381
-\c@savedtranslator=\count382
-\c@shortauthor=\count383
-\c@savedshortauthor=\count384
-\c@shorteditor=\count385
-\c@savedshorteditor=\count386
-\c@labelname=\count387
-\c@savedlabelname=\count388
-\c@institution=\count389
-\c@savedinstitution=\count390
-\c@lista=\count391
-\c@savedlista=\count392
-\c@listb=\count393
-\c@savedlistb=\count394
-\c@listc=\count395
-\c@savedlistc=\count396
-\c@listd=\count397
-\c@savedlistd=\count398
-\c@liste=\count399
-\c@savedliste=\count400
-\c@listf=\count401
-\c@savedlistf=\count402
-\c@location=\count403
-\c@savedlocation=\count404
-\c@organization=\count405
-\c@savedorganization=\count406
-\c@origlocation=\count407
-\c@savedoriglocation=\count408
-\c@origpublisher=\count409
-\c@savedorigpublisher=\count410
-\c@publisher=\count411
-\c@savedpublisher=\count412
-\c@language=\count413
-\c@savedlanguage=\count414
-\c@origlanguage=\count415
-\c@savedoriglanguage=\count416
-\c@pageref=\count417
-\c@savedpageref=\count418
-\shorthandwidth=\skip66
-\shortjournalwidth=\skip67
-\shortserieswidth=\skip68
-\shorttitlewidth=\skip69
-\shortauthorwidth=\skip70
-\shorteditorwidth=\skip71
-\locallabelnumberwidth=\skip72
-\locallabelalphawidth=\skip73
-\localshorthandwidth=\skip74
-\localshortjournalwidth=\skip75
-\localshortserieswidth=\skip76
-\localshorttitlewidth=\skip77
-\localshortauthorwidth=\skip78
-\localshorteditorwidth=\skip79
-Package biblatex Info: Trying to load compatibility code...
-Package biblatex Info: ... file 'blx-compat.def' found.
-
-(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-comp
-at.def
-File: blx-compat.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
-)
-Package biblatex Info: Trying to load BibTeX backend compatibility...
-Package biblatex Info: ... file 'blx-bibtex.def' found.
-
-(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-bibt
-ex.def
-File: blx-bibtex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
-
-
-Package biblatex Warning: Using fall-back bibtex backend:
-(biblatex)                functionality may be reduced/unavailable.
-
-)
-Package biblatex Info: Trying to load generic definitions...
-Package biblatex Info: ... file 'biblatex.def' found.
-
-(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex
-.def
-File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
-\c@textcitecount=\count419
-\c@textcitetotal=\count420
-\c@textcitemaxnames=\count421
-\c@biburlbigbreakpenalty=\count422
-\c@biburlbreakpenalty=\count423
-\c@biburlnumpenalty=\count424
-\c@biburlucpenalty=\count425
-\c@biburllcpenalty=\count426
-\biburlbigskip=\muskip18
-\biburlnumskip=\muskip19
-\biburlucskip=\muskip20
-\biburllcskip=\muskip21
-\c@smartand=\count427
-)
-Package biblatex Info: Trying to load natbib compatibility...
-Package biblatex Info: ... file 'blx-natbib.def' found.
-
-(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-natb
-ib.def
-File: blx-natbib.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
-Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
- overwriting.
-)
-Package biblatex Info: Trying to load bibliography style 'authoryear'...
-Package biblatex Info: ... file 'authoryear.bbx' found.
-
-(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\auth
-oryear.bbx
-File: authoryear.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
-Package biblatex Info: Trying to load bibliography style 'standard'...
-Package biblatex Info: ... file 'standard.bbx' found.
-
-(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\stan
-dard.bbx
-File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count428
-\c@bbx:relatedtotal=\count429
-))
-Package biblatex Info: Trying to load citation style 'authoryear'...
-Package biblatex Info: ... file 'authoryear.cbx' found.
-
-(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\auth
-oryear.cbx
-File: authoryear.cbx 2024/03/21 v3.20 biblatex citation style (PK/MW)
-Package biblatex Info: Redefining '\cite'.
-Package biblatex Info: Redefining '\parencite'.
-Package biblatex Info: Redefining '\footcite'.
-Package biblatex Info: Redefining '\footcitetext'.
-Package biblatex Info: Redefining '\smartcite'.
-Package biblatex Info: Redefining '\textcite'.
-Package biblatex Info: Redefining '\textcites'.
-)
-Package biblatex Info: Trying to load configuration file...
-Package biblatex Info: ... file 'biblatex.cfg' found.
-
-(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex
-.cfg
-File: biblatex.cfg 
-)
-Package biblatex Info: Input encoding 'utf8' detected.
-Package biblatex Info: Document encoding is UTF8 ....
-Package biblatex Info: ... and expl3
-(biblatex)             2025-03-26 L3 programming layer (loader) 
-(biblatex)             is new enough (at least 2020/04/06),
-(biblatex)             setting 'casechanger=expl3'.
-
-(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case
--expl3.sty
-Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
-))
 (C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes
 .sty
 Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
-\csq@reset=\count430
-\csq@gtype=\count431
-\csq@glevel=\count432
-\csq@qlevel=\count433
-\csq@maxlvl=\count434
-\csq@tshold=\count435
+\csq@reset=\count309
+\csq@gtype=\count310
+\csq@glevel=\count311
+\csq@qlevel=\count312
+\csq@maxlvl=\count313
+\csq@tshold=\count314
 \csq@ltx@everypar=\toks24
 
 (C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes
@@ -664,17 +409,1121 @@ File: csquotes.cfg
 )
 Package csquotes Info: Enabling multilingual quotes.
 )
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip58
+\bibsep=\skip59
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count315
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.
+sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts
+.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow
+.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip60
+\multirow@cntb=\count316
+\multirow@dima=\skip61
+\bigstrutjot=\dimen188
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.st
+y
+Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
+\c@tracingmulticols=\count317
+\mult@box=\box69
+\multicol@leftmargin=\dimen189
+\c@unbalance=\count318
+\c@collectmore=\count319
+\doublecol@number=\count320
+\multicoltolerance=\count321
+\multicolpretolerance=\count322
+\full@width=\dimen190
+\page@free=\dimen191
+\premulticols=\dimen192
+\postmulticols=\dimen193
+\multicolsep=\skip62
+\multicolbaselineskip=\skip63
+\partial@page=\box70
+\last@line=\box71
+\mc@boxedresult=\box72
+\maxbalancingoverflow=\dimen194
+\mult@rightbox=\box73
+\mult@grightbox=\box74
+\mult@firstbox=\box75
+\mult@gfirstbox=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\c@minrows=\count323
+\c@columnbadness=\count324
+\c@finalcolumnbadness=\count325
+\last@try=\dimen195
+\multicolovershoot=\dimen196
+\multicolundershoot=\dimen197
+\mult@nat@firstbox=\box113
+\colbreak@box=\box114
+\mc@col@check@num=\count326
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst
+.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaptio
+n.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count327
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count328
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustb
+ox.sty
+Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.s
+ty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval
+.tex
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutil
+s.tex
+\XKV@toks=\toks25
+\XKV@tempa@toks=\toks26
+)
+\XKV@depth=\count329
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc
+.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimcli
+p.sty
+Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collec
+tbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box115
+)
+\tc@llx=\dimen198
+\tc@lly=\dimen199
+\tc@urx=\dimen256
+\tc@ury=\dimen257
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdft
+ex.def
+File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen258
+\adjbox@Height=\dimen259
+\adjbox@Depth=\dimen260
+\adjbox@Totalheight=\dimen261
+\adjbox@pwidth=\dimen262
+\adjbox@pheight=\dimen263
+\adjbox@pdepth=\dimen264
+\adjbox@ptotalheight=\dimen265
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpa
+ge.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count330
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth
+.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box116
+\sift@deathcycles=\count331
+\@vwid@loff=\dimen266
+\@vwid@roff=\dimen267
+))
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/changes\changes.s
+ty
+Package: changes 2021/07/15 v4.2.1 changes package
+
+*** changes package 2021/07/15 v4.2.1 ***
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.s
+ty
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring
+.tex
+\xs_counta=\count332
+\xs_countb=\count333
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+)
+ulem-option 'normalem,normalbf', passed to package ulem
+truncate-option 'breakall,fit', passed to package truncate
+changes-option 'final'
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/ulem\ulem.sty
+\UL@box=\box117
+\UL@hyphenbox=\box118
+\UL@skip=\skip64
+\UL@hook=\toks27
+\UL@height=\dimen268
+\UL@pe=\count334
+\UL@pixel=\dimen269
+\ULC@box=\box119
+Package: ulem 2019/11/18
+\ULdepth=\dimen270
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/todonotes\todonot
+es.sty
+Package: todonotes 2024/01/05 v1.1.7 Todonotes source and documentation.
+Package: todonotes 2024/01/05
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer
+\tikz.sty
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pg
+f.sty
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgf
+rcs.sty
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\p
+gfutil-common.tex
+\pgfutil@everybye=\toks28
+\pgfutil@tempdima=\dimen271
+\pgfutil@tempdimb=\dimen272
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\p
+gfutil-latex.def
+\pgfutil@abb=\box120
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\p
+gfrcs.code.tex
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revisio
+n.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pg
+fcore.sty
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\p
+gfsys.sty
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer
+\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\p
+gfkeys.code.tex
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\p
+gfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks31
+))
+\pgf@x=\dimen273
+\pgf@y=\dimen274
+\pgf@xa=\dimen275
+\pgf@ya=\dimen276
+\pgf@xb=\dimen277
+\pgf@yb=\dimen278
+\pgf@xc=\dimen279
+\pgf@yc=\dimen280
+\pgf@xd=\dimen281
+\pgf@yd=\dimen282
+\w@pgf@writea=\write129
+\r@pgf@reada=\read4
+\c@pgf@counta=\count335
+\c@pgf@countb=\count336
+\c@pgf@countc=\count337
+\c@pgf@countd=\count338
+\t@pgf@toka=\toks32
+\t@pgf@tokb=\toks33
+\t@pgf@tokc=\toks34
+\pgf@sys@id@count=\count339
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer
+\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer
+\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer
+\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer
+\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count340
+\pgfsyssoftpath@bigbuffer@items=\count341
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer
+\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+h.code.tex
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hutil.code.tex)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hparser.code.tex
+\pgfmath@dimen=\dimen283
+\pgfmath@count=\count342
+\pgfmath@box=\box121
+\pgfmath@toks=\toks35
+\pgfmath@stack@operand=\toks36
+\pgfmath@stack@operation=\toks37
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hfunctions.code.tex)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hfunctions.basic.code.tex)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hfunctions.trigonometric.code.tex)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hfunctions.random.code.tex)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hfunctions.comparison.code.tex)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hfunctions.base.code.tex)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hfunctions.round.code.tex)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hfunctions.misc.code.tex)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hfunctions.integerarithmetics.code.tex)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hcalc.code.tex)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count343
+))
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint
+.code.tex)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen284
+\pgf@picmaxx=\dimen285
+\pgf@picminy=\dimen286
+\pgf@picmaxy=\dimen287
+\pgf@pathminx=\dimen288
+\pgf@pathmaxx=\dimen289
+\pgf@pathminy=\dimen290
+\pgf@pathmaxy=\dimen291
+\pgf@xx=\dimen292
+\pgf@xy=\dimen293
+\pgf@yx=\dimen294
+\pgf@yy=\dimen295
+\pgf@zx=\dimen296
+\pgf@zy=\dimen297
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen298
+\pgf@path@lasty=\dimen299
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen300
+\pgf@shorten@start@additional=\dimen301
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box122
+\pgf@hbox=\box123
+\pgf@layerbox@main=\box124
+\pgf@picture@serial@count=\count344
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen302
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen303
+\pgf@pt@y=\dimen304
+\pgf@pt@temp=\dimen305
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen306
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen307
+\pgf@sys@shading@range@num=\count345
+\pgf@shadingcount=\count346
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box125
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgf
+moduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box126
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgf
+moduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility
+\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen308
+\pgf@nodesepend=\dimen309
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility
+\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgf
+for.sty
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgf
+keys.sty
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\p
+gfkeys.code.tex))
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.
+sty
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+h.code.tex))
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\p
+gffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen310
+\pgffor@skip=\dimen311
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
+))
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlay
+er/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\p
+gflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count347
+\pgfplotmarksize=\dimen312
+)
+\tikz@lastx=\dimen313
+\tikz@lasty=\dimen314
+\tikz@lastxsaved=\dimen315
+\tikz@lastysaved=\dimen316
+\tikz@lastmovetox=\dimen317
+\tikz@lastmovetoy=\dimen318
+\tikzleveldistance=\dimen319
+\tikzsiblingdistance=\dimen320
+\tikz@figbox=\box127
+\tikz@figbox@bg=\box128
+\tikz@tempbox=\box129
+\tikz@tempbox@bg=\box130
+\tikztreelevel=\count348
+\tikznumberofchildren=\count349
+\tikznumberofcurrentchild=\count350
+\tikz@fig@count=\count351
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgf
+modulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count352
+\pgfmatrixcurrentcolumn=\count353
+\pgf@matrix@numberofcolumns=\count354
+)
+\tikz@expandcount=\count355
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count356
+\calc@Bcount=\count357
+\calc@Adimen=\dimen321
+\calc@Bdimen=\dimen322
+\calc@Askip=\skip65
+\calc@Bskip=\skip66
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count358
+\calc@Cskip=\skip67
+)
+\c@@todonotes@numberoftodonotes=\count359
+)
+\c@Changes@AuthorCount=\count360
+\c@Changes@Author=\count361
+\c@Changes@addedCount=\count362
+\c@Changes@deletedCount=\count363
+\c@Changes@replacedCount=\count364
+\c@Changes@highlightCount=\count365
+\c@Changes@commentCount=\count366
+\c@authorcommentcount=\count367
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/truncate\truncate
+.sty
+Package: truncate 2001/08/20  ver 3.6
+\@Trunc@RestHyph=\toks40
+)
+\Changestruncatewidth=\skip68
+\Changes@summary@width=\skip69
+)
+\c@Changes@addedCountSE=\count368
+\c@Changes@deletedCountSE=\count369
+\c@Changes@replacedCountSE=\count370
+\c@Changes@highlightCountSE=\count371
+\c@Changes@commentCountSE=\count372
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.s
+ty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/lscapeenhanced\ls
+capeenhanced.sty
+Package: lscapeenhanced 2024-04-16 v1.0 improved lscape package
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+)
+Package lscapeenhanced Info: \landscape patched to make \textheight change opti
+onal on input line 72.
+\@lscapeenhanced@textheight=\skip70
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating
+.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count373
+\rotFPtop=\skip71
+\rotFPbot=\skip72
+\rot@float@box=\box131
+\rot@mess@toks=\toks41
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorb
+ox.sty
+Package: tcolorbox 2024/10/22 version 6.4.1 text color boxes
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.st
+y
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks42
+\verbatim@line=\toks43
+\verbatim@in@stream=\read5
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.s
+ty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimsp
+aces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks44
+)
+\tcb@titlebox=\box132
+\tcb@upperbox=\box133
+\tcb@lowerbox=\box134
+\tcb@phantombox=\box135
+\c@tcbbreakpart=\count374
+\c@tcblayer=\count375
+\c@tcolorbox@number=\count376
+\l__tcobox_tmpa_box=\box136
+\l__tcobox_tmpa_dim=\dimen323
+\tcb@temp=\box137
+\tcb@temp=\box138
+\tcb@temp=\box139
+\tcb@temp=\box140
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbrast
+er.code.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '6.4.1'
+\c@tcbrastercolumn=\count377
+\c@tcbrasterrow=\count378
+\c@tcbrasternum=\count379
+\c@tcbraster=\count380
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskin
+s.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.4.1'
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill
+.image.sty
+Package: tikzfill.image 2023/08/08 v1.0.1 Image filling library for TikZ
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill
+-common.sty
+Package: tikzfill-common 2023/08/08 v1.0.1 Auxiliary code for tikzfill
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzlibr
+aryfill.image.code.tex
+File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
+\l__tikzfill_img_box=\box141
+))
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskin
+sjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.4.1'
+))
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbbrea
+kable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.4.1'
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/pdfcol\pdfcol.sty
+Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
+)
+Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
+\tcb@testbox=\box142
+\tcb@totalupperbox=\box143
+\tcb@totallowerbox=\box144
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbhook
+s.code.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '6.4.1'
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbtheo
+rems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '6.4.1'
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.s
+ty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip73
+
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.st
+y
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen324
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.st
+y
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count381
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count382
+\leftroot@=\count383
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count384
+\DOTSCASE@=\count385
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box145
+\strutbox@=\box146
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen325
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count386
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count387
+\dotsspace@=\muskip17
+\c@parentequation=\count388
+\dspbrk@lvl=\count389
+\tag@help=\toks45
+\row@=\count390
+\column@=\count391
+\maxfields@=\count392
+\andhelp@=\toks46
+\eqnshift@=\dimen326
+\alignsep@=\dimen327
+\tagshift@=\dimen328
+\tagwidth@=\dimen329
+\totwidth@=\dimen330
+\lineht@=\dimen331
+\@envbody=\toks47
+\multlinegap=\skip74
+\multlinetaggap=\skip75
+\mathdisplay@stack=\toks48
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+))
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbfitt
+ing.code.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '6.4.1'
+\tcbfitdim=\dimen332
+\tcb@lowerfitdim=\dimen333
+\tcb@upperfitdim=\dimen334
+\tcb@cur@hbadness=\count393
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblist
+ingsutf8.code.tex
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.4.1'
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblist
+ings.code.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '6.4.1'
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings
+.sty
+\lst@mode=\count394
+\lst@gtempboxa=\box147
+\lst@token=\toks49
+\lst@length=\count395
+\lst@currlwidth=\dimen335
+\lst@column=\count396
+\lst@pos=\count397
+\lst@lostspace=\dimen336
+\lst@width=\dimen337
+\lst@newlines=\count398
+\lst@lineno=\count399
+\lst@maxwidth=\dimen338
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch
+.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.
+sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count400
+\lst@skipnumbers=\count401
+\lst@framebox=\box148
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings
+.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
+))
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblist
+ingscore.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.4.1'
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbproc
+essing.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.4.1'
+)
+\c@tcblisting=\count402
+))
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/listingsutf8\list
+ingsutf8.sty
+Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\strin
+genc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfes
+cape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+))))
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbexte
+rnal.code.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '6.4.1'
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbmaga
+zine.code.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '6.4.1'
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbvign
+ette.code.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '6.4.1'
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\p
+gflibraryfadings.code.tex
+File: pgflibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbpost
+er.code.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '6.4.1'
+))
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/gensymb\gensymb.s
+ty
+Package: gensymb 2022/10/17 v1.0.2 (KJH)
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.st
+y
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen339
+\TX@old@table=\dimen340
+\TX@old@col=\dimen341
+\TX@target=\dimen342
+\TX@delta=\dimen343
+\TX@cols=\count403
+\TX@ftn=\toks50
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/reledmac\reledmac
+.sty
+Package: reledmac 2025/04/13 v2.40.4 typesetting critical editions
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/xargs\xargs.sty
+Package: xargs 2008/03/22 v1.1  extended macro definitions  (mpg)
+\xargs@max=\count404
+\xargs@toksa=\toks51
+\xargs@toksb=\toks52
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/bigfoot\suffix.st
+y
+Package: suffix 2006/07/15 1.5a Variant command support
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.
+sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e
+.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip76
+\RaggedLeftLeftskip=\skip77
+\RaggedRightLeftskip=\skip78
+\CenteringRightskip=\skip79
+\RaggedLeftRightskip=\skip80
+\RaggedRightRightskip=\skip81
+\CenteringParfillskip=\skip82
+\RaggedLeftParfillskip=\skip83
+\RaggedRightParfillskip=\skip84
+\JustifyingParfillskip=\skip85
+\CenteringParindent=\skip86
+\RaggedLeftParindent=\skip87
+\RaggedRightParindent=\skip88
+\JustifyingParindent=\skip89
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.s
+ty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+\@l@dtempcnta=\count405
+\@l@dtempcntb=\count406
+\l@dnumpstartsL=\count407
+\section@num=\count408
+\pausenumbering@page@num=\count409
+\led@toksa=\toks53
+\led@toksb=\toks54
+\line@margin=\count410
+\line@margin@columns=\count411
+\c@firstlinenum=\count412
+\c@linenumincrement=\count413
+\c@firstsublinenum=\count414
+\c@sublinenumincrement=\count415
+\lock@disp=\count416
+\sublock@disp=\count417
+\linenumsep=\skip90
+\line@num=\count418
+\subline@num=\count419
+\absline@num=\count420
+\@lock=\count421
+\sub@lock=\count422
+\page@num=\count423
+\endpage@num=\count424
+\endline@num=\count425
+\endsubline@num=\count426
+\this@section@page@num=\count427
+\@inputcheck=\read6
+\last@page@num=\count428
+\this@section@last@page@num=\count429
+\insert@count=\count430
+\linenum@out=\write130
+\@this@c@page=\count431
+\@edtext@level=\count432
+\c@edtext=\count433
+\edtext@notes=\count434
+\edtext@notes@start=\count435
+\raw@text=\box149
+\num@lines=\count436
+\one@line=\box150
+\par@line=\count437
+\pstarts@typeset@L=\count438
+\pstarts@read@L=\count439
+\c@pstart=\count440
+\ballast@count=\count441
+\c@ballast=\count442
+\@k=\count443
+\@h=\dimen344
+\printlines@count=\count444
+\old@hsize=\dimen345
+\Afootins=\insert252
+\mpAfootins=\insert251
+\Aprevpage@num=\count445
+\Aprevpage@numR=\count446
+\footinsA=\insert250
+\mpfootinsA=\insert249
+\c@footnoteA=\count447
+\footnoteA@reading=\count448
+\footnoteA@series=\count449
+\prevpageA@num=\count450
+\prevpageA@numR=\count451
+\footnoteA@parafootsepX=\count452
+\l@d@Aend=\write131
+\Aend@bysection=\count453
+\Bfootins=\insert248
+\mpBfootins=\insert247
+\Bprevpage@num=\count454
+\Bprevpage@numR=\count455
+\footinsB=\insert246
+\mpfootinsB=\insert245
+\c@footnoteB=\count456
+\footnoteB@reading=\count457
+\footnoteB@series=\count458
+\prevpageB@num=\count459
+\prevpageB@numR=\count460
+\footnoteB@parafootsepX=\count461
+\l@d@Bend=\write132
+\Bend@bysection=\count462
+\Cfootins=\insert244
+\mpCfootins=\insert243
+\Cprevpage@num=\count463
+\Cprevpage@numR=\count464
+\footinsC=\insert242
+\mpfootinsC=\insert241
+\c@footnoteC=\count465
+\footnoteC@reading=\count466
+\footnoteC@series=\count467
+\prevpageC@num=\count468
+\prevpageC@numR=\count469
+\footnoteC@parafootsepX=\count470
+\l@d@Cend=\write133
+\Cend@bysection=\count471
+\Dfootins=\insert240
+\mpDfootins=\insert239
+\Dprevpage@num=\count472
+\Dprevpage@numR=\count473
+\footinsD=\insert238
+\mpfootinsD=\insert237
+\c@footnoteD=\count474
+\footnoteD@reading=\count475
+\footnoteD@series=\count476
+\prevpageD@num=\count477
+\prevpageD@numR=\count478
+\footnoteD@parafootsepX=\count479
+\l@d@Dend=\write134
+\Dend@bysection=\count480
+\Efootins=\insert236
+\mpEfootins=\insert235
+\Eprevpage@num=\count481
+\Eprevpage@numR=\count482
+\footinsE=\insert234
+\mpfootinsE=\insert233
+\c@footnoteE=\count483
+\footnoteE@reading=\count484
+\footnoteE@series=\count485
+\prevpageE@num=\count486
+\prevpageE@numR=\count487
+\footnoteE@parafootsepX=\count488
+\l@d@Eend=\write135
+\Eend@bysection=\count489
+\c@par@page=\count490
+\c@line=\count491
+\c@subline=\count492
+\c@absline=\count493
+\sidenote@margin=\count494
+\l@dlp@rbox=\box151
+\l@drp@rbox=\box152
+\ledlsnotewidth=\dimen346
+\ledrsnotewidth=\dimen347
+\ledlsnotesep=\dimen348
+\ledrsnotesep=\dimen349
+\c@labidx=\count495
+\c@pageline=\count496
+\@edindex@fornote@=\count497
+\stanza@count=\count498
+\stanzaindentbase=\skip91
+\c@stanzaindentsrepetition=\count499
+\c@startstanzaindentsrepetition=\count500
+\stanza@modulo=\count501
+\c@stanza=\count502
+\stanza@lock@RTL@count=\count503
+\@emptytoks=\toks55
+\l@denvbody=\toks56
+\l@dampcount=\count504
+\l@dcolcount=\count505
+\hilfsbox=\box153
+\hilfsskip=\skip92
+\Hilfsbox=\box154
+\hilfscount=\count506
+\dcoli=\dimen350
+\dcolii=\dimen351
+\dcoliii=\dimen352
+\dcoliv=\dimen353
+\dcolv=\dimen354
+\dcolvi=\dimen355
+\dcolvii=\dimen356
+\dcolviii=\dimen357
+\dcolix=\dimen358
+\dcolx=\dimen359
+\dcolxi=\dimen360
+\dcolxii=\dimen361
+\dcolxiii=\dimen362
+\dcolxiv=\dimen363
+\dcolxv=\dimen364
+\dcolxvi=\dimen365
+\dcolxvii=\dimen366
+\dcolxviii=\dimen367
+\dcolxix=\dimen368
+\dcolxx=\dimen369
+\dcolxxi=\dimen370
+\dcolxxii=\dimen371
+\dcolxxiii=\dimen372
+\dcolxxiv=\dimen373
+\dcolxxv=\dimen374
+\dcolxxvi=\dimen375
+\dcolxxvii=\dimen376
+\dcolxxviii=\dimen377
+\dcolxxix=\dimen378
+\dcolxxx=\dimen379
+\dcolerr=\dimen380
+\edtabcolsep=\skip93
+\edfilldimen=\dimen381
+\c@addcolcount=\count507
+\HILFSskip=\skip94
+\Hilfsskip=\skip95
+\tabhilfbox=\box155
+\tabHilfbox=\box156
+\eled@sectioning@out=\write136
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul-ori.s
+ty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks57
+\SOUL@lasttoken=\toks58
+\SOUL@syllable=\toks59
+\SOUL@cmds=\toks60
+\SOUL@buffer=\toks61
+\SOUL@token=\toks62
+\SOUL@syllgoal=\dimen382
+\SOUL@syllwidth=\dimen383
+\SOUL@charkern=\dimen384
+\SOUL@hyphkern=\dimen385
+\SOUL@dimen=\dimen386
+\SOUL@dimeni=\dimen387
+\SOUL@minus=\count508
+\SOUL@comma=\count509
+\SOUL@apo=\count510
+\SOUL@grave=\count511
+\SOUL@spaceskip=\skip96
+\SOUL@ttwidth=\dimen388
+\SOUL@uldp=\dimen389
+\SOUL@ulht=\dimen390
+)
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcm
+ds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))
 (C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref
 .sty
 Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
 
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetke
+ys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
 (C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kv
 definekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfes
-cape.sty
-Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 )
 (C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.s
 ty
@@ -691,17 +1540,16 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\
 gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptio
+ns.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count512
 )
-\c@section@level=\count436
-)
-(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\strin
-genc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
-)
-)
-\@linkdim=\dimen188
-\Hy@linkcounter=\count437
-\Hy@pagecounter=\count438
+\@linkdim=\dimen391
+\Hy@linkcounter=\count513
+\Hy@pagecounter=\count514
 
 (C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.d
 ef
@@ -713,7 +1561,7 @@ Now handling font encoding PD1 ...
 .sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count439
+\Hy@SavedSpaceFactor=\count515
 
 (C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.de
 f
@@ -728,9 +1576,13 @@ Package hyperref Info: Plain pages OFF on input line 4172.
 Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count440
+\c@Hy@tempcnt=\count516
+ (C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
 LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen189
+\XeTeXLinkMargin=\dimen392
 
 (C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.s
 ty
@@ -741,9 +1593,9 @@ ntcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count441
-\Field@Width=\dimen190
-\Fld@charsize=\dimen191
+\Fld@menulength=\count517
+\Field@Width=\dimen393
+\Fld@charsize=\dimen394
 Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
@@ -757,9 +1609,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count442
-\c@Item=\count443
-\c@Hfootnote=\count444
+\Hy@abspage=\count518
+\c@Item=\count519
+\c@Hfootnote=\count520
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -773,8 +1625,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count445
-\c@bookmark@seq@number=\count446
+\Fld@listcount=\count521
+\c@bookmark@seq@number=\count522
 
 (C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\re
 runfilecheck.sty
@@ -787,42 +1639,83 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip80
+\Hy@SectionHShift=\skip97
 )
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 91.
-Package hyperref Info: Option `hypertexnames' set `false' on input line 91.
-Package hyperref Info: Option `colorlinks' set `true' on input line 91.
-Package hyperref Info: Option `unicode' set `true' on input line 91.
-Package hyperref Info: Option `breaklinks' set `true' on input line 91.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 152.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 152.
+Package hyperref Info: Option `colorlinks' set `true' on input line 152.
+Package hyperref Info: Option `unicode' set `true' on input line 152.
+Package hyperref Info: Option `breaklinks' set `true' on input line 152.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
-LaTeX Font Info:    Trying to load font information for T1+ppl on input line 91
-.
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 15
+2.
 
 (C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
-(PhD_Thesis_txt.aux (Chapters/Chapter1.aux) (Appendices/AppendixA.aux))
+(PhD_Thesis_txt.aux (Chapters/Introduction.aux) (Chapters/Paper_1_2ndrev.aux)
+(Chapters/Paper_2.aux
+
+LaTeX Warning: Label `sec:intro' multiply defined.
+
+
+LaTeX Warning: Label `sec:meth' multiply defined.
+
+
+LaTeX Warning: Label `sec:meth_Site' multiply defined.
+
+
+LaTeX Warning: Label `sec:meth_Exp' multiply defined.
+
+
+LaTeX Warning: Label `field_mgmt' multiply defined.
+
+
+LaTeX Warning: Label `sec:meth_GHG' multiply defined.
+
+
+LaTeX Warning: Label `sec:meth_BIO' multiply defined.
+
+
+LaTeX Warning: Label `sec:meth_Stat' multiply defined.
+
+
+LaTeX Warning: Label `sec:results' multiply defined.
+
+
+LaTeX Warning: Label `sec:discussion' multiply defined.
+
+
+LaTeX Warning: Label `sec:conc' multiply defined.
+
+
+LaTeX Warning: Label `sec:ackn' multiply defined.
+
+
+LaTeX Warning: Label `sec:interests' multiply defined.
+
+))
 \openout1 = `PhD_Thesis_txt.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
 
 (C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/translations/dict
 s\translations-basic-dictionary-english.trsl
@@ -830,22 +1723,22 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 91.
+or `english'. on input line 152.
 
 (C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-
 pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count447
-\scratchdimen=\dimen192
-\scratchbox=\box68
-\nofMPsegments=\count448
-\nofMParguments=\count449
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count450
-\MPscratchDim=\dimen193
-\MPnumerator=\count451
-\makeMPintoPDFobject=\count452
-\everyMPtoPDFconversion=\toks26
+\scratchcounter=\count523
+\scratchdimen=\dimen395
+\scratchbox=\box157
+\nofMPsegments=\count524
+\nofMParguments=\count525
+\everyMPshowfont=\toks63
+\MPscratchCnt=\count526
+\MPscratchDim=\dimen396
+\MPnumerator=\count527
+\makeMPintoPDFobject=\count528
+\everyMPtoPDFconversion=\toks64
 )
 (C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epst
 opdf-base.sty
@@ -859,6 +1752,8 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 *geometry* driver: auto-detecting
@@ -896,41 +1791,34 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package scrbase Info: activating english \abbrevname on input line 91.
-Package scrbase Info: activating english \byname on input line 91.
-Package scrbase Info: activating english \acknowledgementname on input line 91.
-
-Package scrbase Info: activating english \authorshipname on input line 91.
-Package scrbase Info: activating english \constantsname on input line 91.
-Package scrbase Info: activating english \symbolsname on input line 91.
-\big@size=\dimen194
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
-
-(C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\engl
-ish.lbx
-File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
-)
-Package biblatex Info: Input encoding 'utf8' detected.
-Package biblatex Info: Automatic encoding selection.
-(biblatex)             Assuming data encoding 'utf8'.
-Package biblatex Info: Input encoding 'utf8' detected.
-Package biblatex Info: Data encoding 'utf8' specified.
-(biblatex)             No need to reencode data.
-\openout3 = `PhD_Thesis_txt-blx.bib'.
-
-Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'PhD_Thesis_txt.bbl' not found.
-
-No file PhD_Thesis_txt.bbl.
-Package biblatex Info: Reference section=0 on input line 91.
-Package biblatex Info: Reference segment=0 on input line 91.
-Package hyperref Info: Link coloring ON on input line 91.
+Package scrbase Info: activating english \abbrevname on input line 152.
+Package scrbase Info: activating english \byname on input line 152.
+Package scrbase Info: activating english \acknowledgementname on input line 152
+.
+Package scrbase Info: activating english \authorshipname on input line 152.
+Package scrbase Info: activating english \constantsname on input line 152.
+Package scrbase Info: activating english \symbolsname on input line 152.
+\c@lstlisting=\count529
+\symgns@font=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/ppl/m/n --> TS1/ppl/b/n on input line 152.
+Package gensymb Info: Math companion symbols declared on input line 152.
+LaTeX Info: Redefining \degree on input line 152.
+LaTeX Info: Redefining \celsius on input line 152.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
+erthousand on input line 152.
+LaTeX Info: Redefining \ohm on input line 152.
+Package gensymb Info: Using \textohm for \ohm on input line 152.
+LaTeX Info: Redefining \micro on input line 152.
+Package gensymb Info: Using \textmu for \micro on input line 152.
+Package hyperref Info: Link coloring ON on input line 152.
 (PhD_Thesis_txt.out) (PhD_Thesis_txt.out)
-\@outlinefile=\write4
-\openout4 = `PhD_Thesis_txt.out'.
+\@outlinefile=\write137
+\openout3 = `PhD_Thesis_txt.out'.
 
 
+
+\openout3 = `PhD_Thesis_txt.mw'.
 
 [1
 
@@ -938,194 +1826,1813 @@ Package hyperref Info: Link coloring ON on input line 91.
 
 {C:/Users/SECHEVERRIA/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/User
 s/SECHEVERRIA/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
+(PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
 
 [2
 
-]
+] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
 --------------------
  Declaration of Authorship
 --------------------
-LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 1
-49.
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 2
+10.
 (C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 154--155
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
 
  []
 
 
 
-LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
-64.
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 2
+25.
 (C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-164.
+225.
 
 (C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-164.
+225.
 
 (C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-164.
+225.
 
 (C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-164.
+225.
 
 (C:\Users\SECHEVERRIA\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-) [3]
+)
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 11.40997pt on input line 225.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 225.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 225.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 11.40997pt on input line 225.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 225.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 225.
+\openout3 = `PhD_Thesis_txt.mw'.
+
+ [3] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
 
 [4
 
-]
+] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
 
-[5]
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[5] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
 
 [6
 
-]
+] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
 --------------------
  Abstract
 --------------------
 
 
-[7]
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[7] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
 
 [8
 
-]
+] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
 --------------------
  Acknowledgements
 --------------------
 
 
-[9]
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[9] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
 
 [10
 
-] (PhD_Thesis_txt.toc)
-\tf@toc=\write5
-\openout5 = `PhD_Thesis_txt.toc'.
+] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+ (PhD_Thesis_txt.toc
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[11] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+)
+\tf@toc=\write138
+\openout3 = `PhD_Thesis_txt.toc'.
 
 
 
-[11]
+\openout3 = `PhD_Thesis_txt.mw'.
 
-[12
+[12] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
 
-] (PhD_Thesis_txt.lof)
-\tf@lof=\write6
-\openout6 = `PhD_Thesis_txt.lof'.
+ (PhD_Thesis_txt.lof)
+\tf@lof=\write139
+\openout3 = `PhD_Thesis_txt.lof'.
 
 
 
-[13]
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[13
+
+] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
 
 [14
 
-] (PhD_Thesis_txt.lot)
-\tf@lot=\write7
-\openout7 = `PhD_Thesis_txt.lot'.
+] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+ (PhD_Thesis_txt.lot
+Overfull \hbox (2.8028pt too wide) in paragraph at lines 7--7
+ [][] [][][]\T1/ppl/m/n/10.95 Model re-sults, anal-y-sis of de-viance ta-ble (T
+ype II Wald chisquare tests). 
+ []
+
+
+Overfull \hbox (0.4599pt too wide) in paragraph at lines 7--7
+ \T1/ppl/m/n/10.95 con-sid-er-ing all sam-plings; Sp_2nd = Species rich-ness co
+n-sid-er-ing only 
+ []
+
+
+Overfull \hbox (8.13553pt too wide) in paragraph at lines 10--10
+ [][] [][][]\T1/ppl/m/n/10.95 Crop treat-ments, ex-per-i-men-tal setup and ir-r
+i-ga-tion man-age-ment sched- 
+ []
+
+)
+\tf@lot=\write140
+\openout3 = `PhD_Thesis_txt.lot'.
 
 
 
-[15]
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[15] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
 
 [16
 
-]
+] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
 
-[17]
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[17] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
 
 [18
 
-]
-pdfTeX warning (ext4): destination with the same identifier (name{table.0.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.226 \end{constants}
-                     
+] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
 
-[19]
 
-[20
-
-]
-pdfTeX warning (ext4): destination with the same identifier (name{table.0.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.242 \end{symbols}
-                   
-
-[21]
-
-[22
-
-]
 --------------------
  Dedicatory
 --------------------
 
 
-[23]
+\openout3 = `PhD_Thesis_txt.mw'.
 
-[24
-
-]
-\openout2 = `Chapters/Chapter1.aux'.
+[19] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
 
 
-No file Chapters/Chapter1.tex.
-\openout2 = `Appendices/AppendixA.aux'.
 
-No file Appendices/AppendixA.tex.
+\openout3 = `PhD_Thesis_txt.mw'.
 
-LaTeX Warning: Empty bibliography on input line 284.
+[20
 
-(PhD_Thesis_txt.aux (Chapters/Chapter1.aux) (Appendices/AppendixA.aux))
+] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout2 = `Chapters/Introduction.aux'.
+
+ (Chapters/Introduction.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[1
+
+
+] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+)
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[2] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout2 = `Chapters/Paper_1_2ndrev.aux'.
+
+ (Chapters/Paper_1_2ndrev.tex
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[3
+
+
+
+
+] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+
+
+
+Package scrlayer-scrpage Warning: \headheight to low.
+(scrlayer-scrpage)                At least 27.2pt needed,
+(scrlayer-scrpage)                but only 18.85364pt found.
+(scrlayer-scrpage)                I'll enlarge \headheight, for further
+(scrlayer-scrpage)                processing, but you should do this yourself,
+(scrlayer-scrpage)                e.g., setting geometry's option
+(scrlayer-scrpage)                `head=27.2pt'.
+(scrlayer-scrpage)                I'll also decrease \topmargin on input line 9
+0.
+
+
+Overfull \vbox (8.34636pt too high) has occurred while \output is active []
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+[4] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[5] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+<Figures/Chapter_1/CERESTRES_Treatments.pdf, id=705, 1445.4pt x 813.0375pt>
+File: Figures/Chapter_1/CERESTRES_Treatments.pdf Graphic file (type pdf)
+<use Figures/Chapter_1/CERESTRES_Treatments.pdf>
+Package pdftex.def Info: Figures/Chapter_1/CERESTRES_Treatments.pdf  used on in
+put line 109.
+(pdftex.def)             Requested size: 433.62335pt x 243.91313pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[6] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[7 <./Figures/Chapter_1/CERESTRES_Treatments.pdf>] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 121.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 121.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 121.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 121.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 121.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 121.
+
+Overfull \hbox (5.44186pt too wide) in paragraph at lines 147--148
+\T1/ppl/m/n/10.95 from [][]Martínez-Eixarch et al.[][] ([][]2018[][]) on a week
+ly ba-sis from mid-May to late-September
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[8] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Overfull \hbox (12.27388pt too wide) in paragraph at lines 152--153
+\T1/ppl/m/n/10.95 abun-dance in be-tween strate-gies across the com-plete as-se
+ssed pe-riod. Ben-thic macroin-
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[9] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Overfull \hbox (1.24216pt too wide) in paragraph at lines 162--163
+[]\T1/ppl/m/n/10.95 The ef-fect of water-saving strate-gies on CH$[]$ emis-sion
+ rates was an-a-lyzed through
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[10] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[11] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+<Figures/Chapter_1/CH4_flux_water_acc.pdf, id=808, 722.7pt x 361.35pt>
+File: Figures/Chapter_1/CH4_flux_water_acc.pdf Graphic file (type pdf)
+<use Figures/Chapter_1/CH4_flux_water_acc.pdf>
+Package pdftex.def Info: Figures/Chapter_1/CH4_flux_water_acc.pdf  used on inpu
+t line 180.
+(pdftex.def)             Requested size: 469.74944pt x 234.87471pt.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 181.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 181.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 181.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 181.
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
+
+ []
+
+
+
+pdfTeX warning: pdflatex (file ./Figures/Chapter_1/Abu.div_2022_avg_plots.9.pdf
+): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<Figures/Chapter_1/Abu.div_2022_avg_plots.9.pdf, id=814, 578.16pt x 722.7pt>
+File: Figures/Chapter_1/Abu.div_2022_avg_plots.9.pdf Graphic file (type pdf)
+<use Figures/Chapter_1/Abu.div_2022_avg_plots.9.pdf>
+Package pdftex.def Info: Figures/Chapter_1/Abu.div_2022_avg_plots.9.pdf  used o
+n input line 193.
+(pdftex.def)             Requested size: 231.2599pt x 289.07487pt.
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[12 <./Figures/Chapter_1/CH4_flux_water_acc.pdf>] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Overfull \hbox (0.8638pt too wide) in paragraph at lines 199--200
+\T1/ppl/m/n/10.95 served for the in-ter-ac-tion be-tween strate-gies and the sq
+uared sam-pling dates ($\OML/zplm/m/it/10.95 ^^_[]$\T1/ppl/m/n/10.95 =6.3,
+ []
+
+
+Overfull \hbox (3.73329pt too wide) in paragraph at lines 199--200
+\T1/ppl/m/it/10.95 p\T1/ppl/m/n/10.95 =0.043). Co-vari-ates with sig-nif-i-cant
+ ef-fect were the squared sam-pling dates ($\OML/zplm/m/it/10.95 ^^_[]$\T1/ppl/
+m/n/10.95 =10.0,
+ []
+
+
+Overfull \hbox (5.74765pt too wide) in paragraph at lines 199--200
+\T1/ppl/m/n/10.95 strate-gies was stud-ied for each in-de-pen-dent sam-pling da
+te, fit-ting in-di-vid-ual GLMMs
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[13 <./Figures/Chapter_1/Abu.div_2022_avg_plots.9.pdf>] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+<Figures/Chapter_1/Arr.q0_ind.samp.pdf, id=1428, 1445.4pt x 722.7pt>
+File: Figures/Chapter_1/Arr.q0_ind.samp.pdf Graphic file (type pdf)
+<use Figures/Chapter_1/Arr.q0_ind.samp.pdf>
+Package pdftex.def Info: Figures/Chapter_1/Arr.q0_ind.samp.pdf  used on input l
+ine 204.
+(pdftex.def)             Requested size: 476.98347pt x 238.49173pt.
+
+Overfull \hbox (16.53865pt too wide) in paragraph at lines 210--211
+[]\T1/ppl/m/n/10.95 Shannon di-ver-sity var-ied sig-nif-i-cantly among dif-fer-
+ent ir-ri-ga-tion strate-gies ($\OML/zplm/m/it/10.95 ^^_[]$\T1/ppl/m/n/10.95 =1
+3.3,
+ []
+
+<Figures/Chapter_1/Shannon_indiv2.pdf, id=1430, 722.7pt x 722.7pt>
+File: Figures/Chapter_1/Shannon_indiv2.pdf Graphic file (type pdf)
+<use Figures/Chapter_1/Shannon_indiv2.pdf>
+Package pdftex.def Info: Figures/Chapter_1/Shannon_indiv2.pdf  used on input li
+ne 215.
+(pdftex.def)             Requested size: 238.49173pt x 238.49173pt.
+<Figures/Chapter_1/Prod_2022_plot2.pdf, id=1432, 722.7pt x 722.7pt>
+File: Figures/Chapter_1/Prod_2022_plot2.pdf Graphic file (type pdf)
+<use Figures/Chapter_1/Prod_2022_plot2.pdf>
+Package pdftex.def Info: Figures/Chapter_1/Prod_2022_plot2.pdf  used on input l
+ine 228.
+(pdftex.def)             Requested size: 238.49173pt x 238.49173pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[14 <./Figures/Chapter_1/Arr.q0_ind.samp.pdf>] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[15 <./Figures/Chapter_1/Shannon_indiv2.pdf>] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[16 <./Figures/Chapter_1/Prod_2022_plot2.pdf>] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[17] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[18] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[19] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[20] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+<Figures/Chapter_1/CERESTRES_layout.pdf, id=1643, 1445.4pt x 813.0375pt>
+File: Figures/Chapter_1/CERESTRES_layout.pdf Graphic file (type pdf)
+<use Figures/Chapter_1/CERESTRES_layout.pdf>
+Package pdftex.def Info: Figures/Chapter_1/CERESTRES_layout.pdf  used on input 
+line 292.
+(pdftex.def)             Requested size: 578.14977pt x 325.20924pt.
+<Figures/Chapter_1/mod_exp.png, id=1644, 409.53pt x 404.10976pt>
+File: Figures/Chapter_1/mod_exp.png Graphic file (type png)
+<use Figures/Chapter_1/mod_exp.png>
+Package pdftex.def Info: Figures/Chapter_1/mod_exp.png  used on input line 303.
+
+(pdftex.def)             Requested size: 327.62444pt x 323.28824pt.
+<Figures/Chapter_1/Corr_plot_nooutliers.pdf, id=1646, 794.97pt x 505.89pt>
+File: Figures/Chapter_1/Corr_plot_nooutliers.pdf Graphic file (type pdf)
+<use Figures/Chapter_1/Corr_plot_nooutliers.pdf>
+Package pdftex.def Info: Figures/Chapter_1/Corr_plot_nooutliers.pdf  used on in
+put line 314.
+(pdftex.def)             Requested size: 317.98236pt x 202.3524pt.
+<Figures/Chapter_1/Cluster_variables_pearson_5_nooutliers2.pdf, id=1647, 505.89
+pt x 289.08pt>
+File: Figures/Chapter_1/Cluster_variables_pearson_5_nooutliers2.pdf Graphic fil
+e (type pdf)
+<use Figures/Chapter_1/Cluster_variables_pearson_5_nooutliers2.pdf>
+Package pdftex.def Info: Figures/Chapter_1/Cluster_variables_pearson_5_nooutlie
+rs2.pdf  used on input line 325.
+(pdftex.def)             Requested size: 303.53633pt x 173.44933pt.
+<Figures/Chapter_1/Ind_vars_Treat_inter.pdf, id=1648, 722.7pt x 722.7pt>
+File: Figures/Chapter_1/Ind_vars_Treat_inter.pdf Graphic file (type pdf)
+<use Figures/Chapter_1/Ind_vars_Treat_inter.pdf>
+Package pdftex.def Info: Figures/Chapter_1/Ind_vars_Treat_inter.pdf  used on in
+put line 336.
+(pdftex.def)             Requested size: 433.62334pt x 433.62334pt.
+
+Overfull \hbox (41.37077pt too wide) in paragraph at lines 348--377
+ [][] 
+ []
+
+<Figures/Chapter_1/Abu.div_2022_avg_plots.perDate.pdf, id=1649, 722.7pt x 722.7
+pt>
+File: Figures/Chapter_1/Abu.div_2022_avg_plots.perDate.pdf Graphic file (type p
+df)
+<use Figures/Chapter_1/Abu.div_2022_avg_plots.perDate.pdf>
+Package pdftex.def Info: Figures/Chapter_1/Abu.div_2022_avg_plots.perDate.pdf  
+used on input line 519.
+(pdftex.def)             Requested size: 433.62334pt x 433.62334pt.
+)
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[21 <./Figures/Chapter_1/CERESTRES_layout.pdf>] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[22 <./Figures/Chapter_1/mod_exp.png>] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[23 <./Figures/Chapter_1/Corr_plot_nooutliers.pdf> <./Figures/Chapter_1/Cluster
+_variables_pearson_5_nooutliers2.pdf>] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[24 <./Figures/Chapter_1/Ind_vars_Treat_inter.pdf>] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[25] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[26] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[27 <./Figures/Chapter_1/Abu.div_2022_avg_plots.perDate.pdf>]
+(PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[28] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout2 = `Chapters/Paper_2.aux'.
+
+ (Chapters/Paper_2.tex
+Chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[29
+
+
+
+
+] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+
+ []
+
+
+Overfull \hbox (12.93033pt too wide) in paragraph at lines 148--149
+\T1/ppl/m/n/10.95 search ef-forts to de-velop adap-ta-tion and mit-i-ga-tion st
+rate-gies in its pro-duc-tion ([][]Alexan-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[30] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[31] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[32] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+<Figures/Chapter_2/CERESTRES_Layout_2023_GSFS.pdf, id=2017, 1445.4pt x 813.0375
+pt>
+File: Figures/Chapter_2/CERESTRES_Layout_2023_GSFS.pdf Graphic file (type pdf)
+<use Figures/Chapter_2/CERESTRES_Layout_2023_GSFS.pdf>
+Package pdftex.def Info: Figures/Chapter_2/CERESTRES_Layout_2023_GSFS.pdf  used
+ on input line 174.
+(pdftex.def)             Requested size: 433.62335pt x 243.91313pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[33 <./Figures/Chapter_2/CERESTRES_Layout_2023_GSFS.pdf>] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Overfull \hbox (25.83406pt too wide) in paragraph at lines 185--207
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--217
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[34] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--223
+
+ []
+
+
+Overfull \hbox (22.70222pt too wide) in paragraph at lines 224--226
+[]\T1/ppl/m/n/10.95 Total DNA was ex-tracted from 250 mg of soil sub-samples us
+-ing DNeasy$[]$ PowerSoil$[]$
+ []
+
+
+Overfull \hbox (12.15317pt too wide) in paragraph at lines 224--226
+\T1/ppl/m/n/10.95 pop-u-la-tion (16Sr-RNA F341/R518) and methanogenic ar-chaea 
+(mcrA gene ME1F_qPCR
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[35] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+
+ []
+
+
+Overfull \hbox (2.49574pt too wide) in paragraph at lines 254--257
+\T1/ppl/m/n/10.95 rRNA-metabarcoding as-sess-ment of bac-te-ria and ar-chaea th
+rough R pack-age \T1/ppl/m/it/10.95 DADA2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--257
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[36] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+<Figures/Chapter_2/CH4_flux_water_acc.pdf, id=2114, 1445.4pt x 722.7pt>
+File: Figures/Chapter_2/CH4_flux_water_acc.pdf Graphic file (type pdf)
+<use Figures/Chapter_2/CH4_flux_water_acc.pdf>
+Package pdftex.def Info: Figures/Chapter_2/CH4_flux_water_acc.pdf  used on inpu
+t line 267.
+(pdftex.def)             Requested size: 476.98347pt x 238.49173pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--276
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[37 <./Figures/Chapter_2/CH4_flux_water_acc.pdf>] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+<Figures/Chapter_2/Yield_GWP_GWPY_arr.pdf, id=2133, 722.7pt x 722.7pt>
+File: Figures/Chapter_2/Yield_GWP_GWPY_arr.pdf Graphic file (type pdf)
+<use Figures/Chapter_2/Yield_GWP_GWPY_arr.pdf>
+Package pdftex.def Info: Figures/Chapter_2/Yield_GWP_GWPY_arr.pdf  used on inpu
+t line 280.
+(pdftex.def)             Requested size: 325.21199pt x 325.21199pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+
+ []
+
+<Figures/Chapter_2/PCoA_stages_treatGSFS.pdf, id=2136, 867.24pt x 578.16pt>
+File: Figures/Chapter_2/PCoA_stages_treatGSFS.pdf Graphic file (type pdf)
+<use Figures/Chapter_2/PCoA_stages_treatGSFS.pdf>
+Package pdftex.def Info: Figures/Chapter_2/PCoA_stages_treatGSFS.pdf  used on i
+nput line 295.
+(pdftex.def)             Requested size: 346.88986pt x 231.2599pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[38] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+pdfTeX warning: pdflatex (file ./Figures/Chapter_2/FuncGroups_plot_arr3_annot.p
+df): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<Figures/Chapter_2/FuncGroups_plot_arr3_annot.pdf, id=2142, 1300.86pt x 650.43p
+t>
+File: Figures/Chapter_2/FuncGroups_plot_arr3_annot.pdf Graphic file (type pdf)
+<use Figures/Chapter_2/FuncGroups_plot_arr3_annot.pdf>
+Package pdftex.def Info: Figures/Chapter_2/FuncGroups_plot_arr3_annot.pdf  used
+ on input line 306.
+(pdftex.def)             Requested size: 481.31067pt x 240.65532pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[39 <./Figures/Chapter_2/Yield_GWP_GWPY_arr.pdf>] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--319
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[40 <./Figures/Chapter_2/PCoA_stages_treatGSFS.pdf>] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[41 <./Figures/Chapter_2/FuncGroups_plot_arr3_annot.pdf>] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--322
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[42] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Overfull \hbox (3.7271pt too wide) in paragraph at lines 330--331
+[]\T1/ppl/m/n/10.95 Soil CH$[]$ con-cen-tra-tion is one of the con-trol-ling fa
+c-tors for methan-otrophic growth
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--336
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[43] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Overfull \hbox (0.88068pt too wide) in paragraph at lines 338--339
+[]\T1/ppl/m/n/10.95 The se-vere drought con-di-tions un-der which this ex-per-i
+-ment was con-ducted high-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--347
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[44] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[45] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+<Figures/Chapter_2/CH4_flux_water.pdf, id=2330, 1445.4pt x 722.7pt>
+File: Figures/Chapter_2/CH4_flux_water.pdf Graphic file (type pdf)
+<use Figures/Chapter_2/CH4_flux_water.pdf>
+Package pdftex.def Info: Figures/Chapter_2/CH4_flux_water.pdf  used on input li
+ne 390.
+(pdftex.def)             Requested size: 505.89758pt x 252.94878pt.
+<Figures/Chapter_2/N2O_flux_acc_water.pdf, id=2331, 1445.4pt x 722.7pt>
+File: Figures/Chapter_2/N2O_flux_acc_water.pdf Graphic file (type pdf)
+<use Figures/Chapter_2/N2O_flux_acc_water.pdf>
+Package pdftex.def Info: Figures/Chapter_2/N2O_flux_acc_water.pdf  used on inpu
+t line 400.
+(pdftex.def)             Requested size: 505.89758pt x 252.94878pt.
+<Figures/Chapter_2/CERESTRES_meso_2023.pdf, id=2332, 1445.4pt x 813.0375pt>
+File: Figures/Chapter_2/CERESTRES_meso_2023.pdf Graphic file (type pdf)
+<use Figures/Chapter_2/CERESTRES_meso_2023.pdf>
+Package pdftex.def Info: Figures/Chapter_2/CERESTRES_meso_2023.pdf  used on inp
+ut line 459.
+(pdftex.def)             Requested size: 433.62335pt x 243.91313pt.
+<Figures/Chapter_2/Meteocat_temp.pdf, id=2333, 505.89pt x 361.35pt>
+File: Figures/Chapter_2/Meteocat_temp.pdf Graphic file (type pdf)
+<use Figures/Chapter_2/Meteocat_temp.pdf>
+Package pdftex.def Info: Figures/Chapter_2/Meteocat_temp.pdf  used on input lin
+e 470.
+(pdftex.def)             Requested size: 404.71254pt x 289.0804pt.
+<Figures/Chapter_2/Meso_vs_Field_Plot.pdf, id=2334, 1011.78pt x 722.7pt>
+File: Figures/Chapter_2/Meso_vs_Field_Plot.pdf Graphic file (type pdf)
+<use Figures/Chapter_2/Meso_vs_Field_Plot.pdf>
+Package pdftex.def Info: Figures/Chapter_2/Meso_vs_Field_Plot.pdf  used on inpu
+t line 481.
+(pdftex.def)             Requested size: 475.53667pt x 339.66904pt.
+)
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[46 <./Figures/Chapter_2/CH4_flux_water.pdf>] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[47 <./Figures/Chapter_2/N2O_flux_acc_water.pdf>] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[48 <./Figures/Chapter_2/CERESTRES_meso_2023.pdf>] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[49 <./Figures/Chapter_2/Meteocat_temp.pdf>] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[50 <./Figures/Chapter_2/Meso_vs_Field_Plot.pdf>] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+(PhD_Thesis_txt.bbl
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[51
+
+
+
+] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[52] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[53] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[54] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 593--598
+[]\T1/ppl/m/n/10.95 Hartig, F., 2018.  DHARMa: Resid-ual di-ag-nos-tics for hi-
+er-ar-chi-cal (multi-
+ []
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 599--606
+[]\T1/ppl/m/n/10.95 Hartig, F., 2020.  DHARMa: Resid-ual di-ag-nos-tics for hi-
+er-ar-chi-cal (multi-
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[55] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[56] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[57] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[58] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[59] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[60] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[61] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[62] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 1677--1686
+[]\T1/ppl/m/n/10.95 Swift, M.S., Van-der-meer, J., Ra-makr-ish-nan, P.S., An-de
+r-son, J.M., Ong, C.K.,
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[63] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[64] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 2014--2020
+\T1/ppl/m/n/10.95 An-nual Re-view of En-vi-ron-ment and Re-sources 35, 137--166
+.  doi:[][]$\T1/cmtt/m/n/10.95 10 . 1146 /
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[65] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+)
+\Changes@OutFile=\write141
+\openout3 = `PhD_Thesis_txt.soc'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.soc'.
+
+\tf@loc=\write142
+\openout3 = `PhD_Thesis_txt.loc'.
+
+
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+[66] (PhD_Thesis_txt.mw)
+\openout3 = `PhD_Thesis_txt.mw'.
+
+ (PhD_Thesis_txt.aux
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+ (Chapters/Introduction.aux
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+)
+(Chapters/Paper_1_2ndrev.aux
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+) (Chapters/Paper_2.aux
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt.mw'.
+
+))
  ***********
 LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2025-03-26>
+L3 programming layer <2020/03/25>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+\openout3 = `PhD_Thesis_txt.out'.
+
 Package rerunfilecheck Info: File `PhD_Thesis_txt.out' has not changed.
-(rerunfilecheck)             Checksum: 49B7E75D682AFCF8788CE382EF235531;383.
-Package logreq Info: Writing requests to 'PhD_Thesis_txt.run.xml'.
-\openout1 = `PhD_Thesis_txt.run.xml'.
+(rerunfilecheck)             Checksum: 2FC8A948B87B3581638050CAA712E311;6179.
+\openout3 = `PhD_Thesis_txt.toc'.
+
+\openout3 = `PhD_Thesis_txt.lof'.
+
+\openout3 = `PhD_Thesis_txt.lot'.
+
+\openout3 = `PhD_Thesis_txt.loc'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28681 strings out of 469958
- 637160 string characters out of 5466909
- 1217368 words of memory out of 5000000
- 55113 multiletter control sequences out of 15000+600000
- 664479 words of font info for 98 fonts, out of 8000000 for 9000
+ 48430 strings out of 469958
+ 1077479 string characters out of 5466909
+ 1526321 words of memory out of 5000000
+ 73307 multiletter control sequences out of 15000+600000
+ 706711 words of font info for 194 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 96i,21n,94p,1862b,1829s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/SECHEVERRIA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb><C:/Users/SECHEVERRIA/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmsy10.pfb><C:/Users/SECHEVERRIA/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/mathpazo/fplmri.pfb><C:/Users/SECHEVERRIA/AppData/Local/
-Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/SECHEVERRIA/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/SECHEVER
-RIA/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users
-/SECHEVERRIA/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb
->
-Output written on PhD_Thesis_txt.pdf (24 pages, 113928 bytes).
+ 118i,20n,120p,3990b,1607s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\SECHEVERRIA\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ectt1095.pk><C:/Users/SECHEVERRIA/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi10.pfb><C:/Users/SECHEVERRIA/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/SECHEVERRIA/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/SECHEVERRIA
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/mathpazo/fplmr.pfb><C:/Users/
+SECHEVERRIA/AppData/Local/Programs/MiKTeX/fonts/type1/public/mathpazo/fplmri.pf
+b><C:/Users/SECHEVERRIA/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/
+uplb8a.pfb><C:/Users/SECHEVERRIA/AppData/Local/Programs/MiKTeX/fonts/type1/urw/
+palatino/uplr8a.pfb><C:/Users/SECHEVERRIA/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/urw/palatino/uplr8a.pfb><C:/Users/SECHEVERRIA/AppData/Local/Programs/MiKTe
+X/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on PhD_Thesis_txt.pdf (86 pages, 5835974 bytes).
 PDF statistics:
- 184 PDF objects out of 1000 (max. 8388607)
- 36 named destinations out of 1000 (max. 500000)
- 25 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2868 PDF objects out of 2984 (max. 8388607)
+ 358 named destinations out of 1000 (max. 500000)
+ 555 words of extra memory for PDF output out of 10000 (max. 10000000)
 

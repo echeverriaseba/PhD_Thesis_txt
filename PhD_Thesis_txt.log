@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.22)  17 JUN 2025 15:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.22)  8 JUL 2025 10:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1818,7 +1818,11 @@ Package hyperref Info: Link coloring ON on input line 152.
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+
+Package morewrites Warning: File 'PhD_Thesis_txt.mw' exists, using
+(morewrites)                'PhD_Thesis_txt1.mw' instead.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 [1
 
@@ -1826,17 +1830,17 @@ Package hyperref Info: Link coloring ON on input line 152.
 
 {C:/Users/SECHEVERRIA/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/User
 s/SECHEVERRIA/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
-(PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+(PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 [2
 
-] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
 --------------------
@@ -1894,39 +1898,39 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 8.33606pt on input line 225.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 225.
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
- [3] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+ [3] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 [4
 
-] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[5] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[5] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 [6
 
-] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
 --------------------
@@ -1934,23 +1938,23 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 --------------------
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[7] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[7] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 [8
 
-] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
 --------------------
@@ -1958,30 +1962,30 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 --------------------
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[9] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[9] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 [10
 
-] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
  (PhD_Thesis_txt.toc
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[11] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[11] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 )
 \tf@toc=\write138
@@ -1989,10 +1993,10 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[12] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[12] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
  (PhD_Thesis_txt.lof)
 \tf@lof=\write139
@@ -2000,21 +2004,21 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 [13
 
-] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 [14
 
-] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
  (PhD_Thesis_txt.lot
 Overfull \hbox (2.8028pt too wide) in paragraph at lines 7--7
@@ -2040,35 +2044,35 @@ i-ga-tion man-age-ment sched-
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[15] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[15] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 [16
 
-] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[17] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[17] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 [18
 
-] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
 --------------------
@@ -2076,19 +2080,19 @@ i-ga-tion man-age-ment sched-
 --------------------
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[19] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[19] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 [20
 
-] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 \openout2 = `Chapters/Introduction.aux'.
 
@@ -2103,63 +2107,215 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
- []
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 [1
 
 
-] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[2] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[3] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[4] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+<Figures/rice_map.png, id=751, 867.24pt x 433.62pt>
+File: Figures/rice_map.png Graphic file (type png)
+<use Figures/rice_map.png>
+Package pdftex.def Info: Figures/rice_map.png  used on input line 63.
+(pdftex.def)             Requested size: 407.60286pt x 203.80142pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[5] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[6 <./Figures/rice_map.png>] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Overfull \hbox (1.60995pt too wide) in paragraph at lines 104--105
+\T1/ppl/m/n/10.95 isms (i.e., fish, am-phib-ians, de-capoda, coleoptera, hemipt
+era and odonata)
+ []
+
+
+Overfull \hbox (5.40909pt too wide) in paragraph at lines 114--115
+\T1/ppl/m/n/10.95 ing and fal-low sea-sons, for con-ven-tional and water-saving
+ ir-ri-ga-tion strate-
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[7] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Overfull \hbox (9.96346pt too wide) in paragraph at lines 126--127
+\T1/ppl/m/n/10.95 cosys-tem ser-vices (i.e., bio-di-ver-sity con-ser-va-tion an
+d supporting-regulating
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+<Figures/Ebro_Delta_map.pdf, id=882, 1445.4pt x 813.0375pt>
+File: Figures/Ebro_Delta_map.pdf Graphic file (type pdf)
+<use Figures/Ebro_Delta_map.pdf>
+Package pdftex.def Info: Figures/Ebro_Delta_map.pdf  used on input line 146.
+(pdftex.def)             Requested size: 404.70924pt x 227.64894pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[8] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 )
+Underfull \hbox (badness 10000) in paragraph at lines 155--339
 
-\openout3 = `PhD_Thesis_txt.mw'.
+ []
 
-[2] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[9 <./Figures/Ebro_Delta_map.pdf>] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 \openout2 = `Chapters/Paper_1_2ndrev.aux'.
 
- (Chapters/Paper_1_2ndrev.tex
+
+(Chapters/Paper_1_2ndrev.tex
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[10
+
+
+
+
+] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
 Chapter 1.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 30.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 30.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 30.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 30.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 30.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 30.
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
-
- []
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[3
-
-
-
-
-] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[11] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
 
  []
 
@@ -2173,40 +2329,77 @@ Package scrlayer-scrpage Warning: \headheight to low.
 (scrlayer-scrpage)                processing, but you should do this yourself,
 (scrlayer-scrpage)                e.g., setting geometry's option
 (scrlayer-scrpage)                `head=27.2pt'.
-(scrlayer-scrpage)                I'll also decrease \topmargin on input line 9
-0.
+(scrlayer-scrpage)                I'll also decrease \topmargin on input line 5
+8.
 
 
 Overfull \vbox (8.34636pt too high) has occurred while \output is active []
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
-[4] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[12] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[5] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[13] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-<Figures/Chapter_1/CERESTRES_Treatments.pdf, id=705, 1445.4pt x 813.0375pt>
+<Figures/Chapter_1/CERESTRES_Treatments.pdf, id=1128, 1445.4pt x 813.0375pt>
 File: Figures/Chapter_1/CERESTRES_Treatments.pdf Graphic file (type pdf)
 <use Figures/Chapter_1/CERESTRES_Treatments.pdf>
 Package pdftex.def Info: Figures/Chapter_1/CERESTRES_Treatments.pdf  used on in
-put line 109.
+put line 77.
 (pdftex.def)             Requested size: 433.62335pt x 243.91313pt.
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[14] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[15 <./Figures/Chapter_1/CERESTRES_Treatments.pdf>] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Overfull \hbox (5.44186pt too wide) in paragraph at lines 115--116
+\T1/ppl/m/n/10.95 from [][]Martínez-Eixarch et al.[][] ([][]2018[][]) on a week
+ly ba-sis from mid-May to late-September
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
@@ -2214,507 +2407,102 @@ Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[6] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[16] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[7 <./Figures/Chapter_1/CERESTRES_Treatments.pdf>] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 121.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 121.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 121.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 121.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 121.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 121.
-
-Overfull \hbox (5.44186pt too wide) in paragraph at lines 147--148
-\T1/ppl/m/n/10.95 from [][]Martínez-Eixarch et al.[][] ([][]2018[][]) on a week
-ly ba-sis from mid-May to late-September
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 147--148
-
- []
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[8] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-Overfull \hbox (12.27388pt too wide) in paragraph at lines 152--153
+Overfull \hbox (12.27388pt too wide) in paragraph at lines 120--121
 \T1/ppl/m/n/10.95 abun-dance in be-tween strate-gies across the com-plete as-se
 ssed pe-riod. Ben-thic macroin-
  []
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[9] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[17] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
-Overfull \hbox (1.24216pt too wide) in paragraph at lines 162--163
+Overfull \hbox (1.24216pt too wide) in paragraph at lines 130--131
 []\T1/ppl/m/n/10.95 The ef-fect of water-saving strate-gies on CH$[]$ emis-sion
  rates was an-a-lyzed through
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--163
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--165
-
- []
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[10] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--167
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--176
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
 
  []
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[11] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[18] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-<Figures/Chapter_1/CH4_flux_water_acc.pdf, id=808, 722.7pt x 361.35pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[19] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+<Figures/Chapter_1/CH4_flux_water_acc.pdf, id=1227, 722.7pt x 361.35pt>
 File: Figures/Chapter_1/CH4_flux_water_acc.pdf Graphic file (type pdf)
 <use Figures/Chapter_1/CH4_flux_water_acc.pdf>
 Package pdftex.def Info: Figures/Chapter_1/CH4_flux_water_acc.pdf  used on inpu
-t line 180.
+t line 148.
 (pdftex.def)             Requested size: 469.74944pt x 234.87471pt.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 181.
+(Font)              scaled to size 10.42007pt on input line 149.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 181.
+(Font)              scaled to size 7.91925pt on input line 149.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 181.
+(Font)              scaled to size 10.42007pt on input line 149.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 181.
-
-Underfull \hbox (badness 10000) in paragraph at lines 188--189
-
- []
-
-
-
-pdfTeX warning: pdflatex (file ./Figures/Chapter_1/Abu.div_2022_avg_plots.9.pdf
-): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Figures/Chapter_1/Abu.div_2022_avg_plots.9.pdf, id=814, 578.16pt x 722.7pt>
-File: Figures/Chapter_1/Abu.div_2022_avg_plots.9.pdf Graphic file (type pdf)
-<use Figures/Chapter_1/Abu.div_2022_avg_plots.9.pdf>
-Package pdftex.def Info: Figures/Chapter_1/Abu.div_2022_avg_plots.9.pdf  used o
-n input line 193.
-(pdftex.def)             Requested size: 231.2599pt x 289.07487pt.
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[12 <./Figures/Chapter_1/CH4_flux_water_acc.pdf>] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-Overfull \hbox (0.8638pt too wide) in paragraph at lines 199--200
-\T1/ppl/m/n/10.95 served for the in-ter-ac-tion be-tween strate-gies and the sq
-uared sam-pling dates ($\OML/zplm/m/it/10.95 ^^_[]$\T1/ppl/m/n/10.95 =6.3,
- []
-
-
-Overfull \hbox (3.73329pt too wide) in paragraph at lines 199--200
-\T1/ppl/m/it/10.95 p\T1/ppl/m/n/10.95 =0.043). Co-vari-ates with sig-nif-i-cant
- ef-fect were the squared sam-pling dates ($\OML/zplm/m/it/10.95 ^^_[]$\T1/ppl/
-m/n/10.95 =10.0,
- []
-
-
-Overfull \hbox (5.74765pt too wide) in paragraph at lines 199--200
-\T1/ppl/m/n/10.95 strate-gies was stud-ied for each in-de-pen-dent sam-pling da
-te, fit-ting in-di-vid-ual GLMMs
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 199--200
-
- []
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[13 <./Figures/Chapter_1/Abu.div_2022_avg_plots.9.pdf>] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-<Figures/Chapter_1/Arr.q0_ind.samp.pdf, id=1428, 1445.4pt x 722.7pt>
-File: Figures/Chapter_1/Arr.q0_ind.samp.pdf Graphic file (type pdf)
-<use Figures/Chapter_1/Arr.q0_ind.samp.pdf>
-Package pdftex.def Info: Figures/Chapter_1/Arr.q0_ind.samp.pdf  used on input l
-ine 204.
-(pdftex.def)             Requested size: 476.98347pt x 238.49173pt.
-
-Overfull \hbox (16.53865pt too wide) in paragraph at lines 210--211
-[]\T1/ppl/m/n/10.95 Shannon di-ver-sity var-ied sig-nif-i-cantly among dif-fer-
-ent ir-ri-ga-tion strate-gies ($\OML/zplm/m/it/10.95 ^^_[]$\T1/ppl/m/n/10.95 =1
-3.3,
- []
-
-<Figures/Chapter_1/Shannon_indiv2.pdf, id=1430, 722.7pt x 722.7pt>
-File: Figures/Chapter_1/Shannon_indiv2.pdf Graphic file (type pdf)
-<use Figures/Chapter_1/Shannon_indiv2.pdf>
-Package pdftex.def Info: Figures/Chapter_1/Shannon_indiv2.pdf  used on input li
-ne 215.
-(pdftex.def)             Requested size: 238.49173pt x 238.49173pt.
-<Figures/Chapter_1/Prod_2022_plot2.pdf, id=1432, 722.7pt x 722.7pt>
-File: Figures/Chapter_1/Prod_2022_plot2.pdf Graphic file (type pdf)
-<use Figures/Chapter_1/Prod_2022_plot2.pdf>
-Package pdftex.def Info: Figures/Chapter_1/Prod_2022_plot2.pdf  used on input l
-ine 228.
-(pdftex.def)             Requested size: 238.49173pt x 238.49173pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 237--238
-
- []
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[14 <./Figures/Chapter_1/Arr.q0_ind.samp.pdf>] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 239--240
-
- []
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[15 <./Figures/Chapter_1/Shannon_indiv2.pdf>] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 241--242
-
- []
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[16 <./Figures/Chapter_1/Prod_2022_plot2.pdf>] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 243--244
-
- []
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[17] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 245--246
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 250--251
-
- []
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[18] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 252--253
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 254--255
-
- []
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[19] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[20] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-<Figures/Chapter_1/CERESTRES_layout.pdf, id=1643, 1445.4pt x 813.0375pt>
-File: Figures/Chapter_1/CERESTRES_layout.pdf Graphic file (type pdf)
-<use Figures/Chapter_1/CERESTRES_layout.pdf>
-Package pdftex.def Info: Figures/Chapter_1/CERESTRES_layout.pdf  used on input 
-line 292.
-(pdftex.def)             Requested size: 578.14977pt x 325.20924pt.
-<Figures/Chapter_1/mod_exp.png, id=1644, 409.53pt x 404.10976pt>
-File: Figures/Chapter_1/mod_exp.png Graphic file (type png)
-<use Figures/Chapter_1/mod_exp.png>
-Package pdftex.def Info: Figures/Chapter_1/mod_exp.png  used on input line 303.
-
-(pdftex.def)             Requested size: 327.62444pt x 323.28824pt.
-<Figures/Chapter_1/Corr_plot_nooutliers.pdf, id=1646, 794.97pt x 505.89pt>
-File: Figures/Chapter_1/Corr_plot_nooutliers.pdf Graphic file (type pdf)
-<use Figures/Chapter_1/Corr_plot_nooutliers.pdf>
-Package pdftex.def Info: Figures/Chapter_1/Corr_plot_nooutliers.pdf  used on in
-put line 314.
-(pdftex.def)             Requested size: 317.98236pt x 202.3524pt.
-<Figures/Chapter_1/Cluster_variables_pearson_5_nooutliers2.pdf, id=1647, 505.89
-pt x 289.08pt>
-File: Figures/Chapter_1/Cluster_variables_pearson_5_nooutliers2.pdf Graphic fil
-e (type pdf)
-<use Figures/Chapter_1/Cluster_variables_pearson_5_nooutliers2.pdf>
-Package pdftex.def Info: Figures/Chapter_1/Cluster_variables_pearson_5_nooutlie
-rs2.pdf  used on input line 325.
-(pdftex.def)             Requested size: 303.53633pt x 173.44933pt.
-<Figures/Chapter_1/Ind_vars_Treat_inter.pdf, id=1648, 722.7pt x 722.7pt>
-File: Figures/Chapter_1/Ind_vars_Treat_inter.pdf Graphic file (type pdf)
-<use Figures/Chapter_1/Ind_vars_Treat_inter.pdf>
-Package pdftex.def Info: Figures/Chapter_1/Ind_vars_Treat_inter.pdf  used on in
-put line 336.
-(pdftex.def)             Requested size: 433.62334pt x 433.62334pt.
-
-Overfull \hbox (41.37077pt too wide) in paragraph at lines 348--377
- [][] 
- []
-
-<Figures/Chapter_1/Abu.div_2022_avg_plots.perDate.pdf, id=1649, 722.7pt x 722.7
-pt>
-File: Figures/Chapter_1/Abu.div_2022_avg_plots.perDate.pdf Graphic file (type p
-df)
-<use Figures/Chapter_1/Abu.div_2022_avg_plots.perDate.pdf>
-Package pdftex.def Info: Figures/Chapter_1/Abu.div_2022_avg_plots.perDate.pdf  
-used on input line 519.
-(pdftex.def)             Requested size: 433.62334pt x 433.62334pt.
-)
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[21 <./Figures/Chapter_1/CERESTRES_layout.pdf>] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[22 <./Figures/Chapter_1/mod_exp.png>] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[23 <./Figures/Chapter_1/Corr_plot_nooutliers.pdf> <./Figures/Chapter_1/Cluster
-_variables_pearson_5_nooutliers2.pdf>] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[24 <./Figures/Chapter_1/Ind_vars_Treat_inter.pdf>] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[25] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[26] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[27 <./Figures/Chapter_1/Abu.div_2022_avg_plots.perDate.pdf>]
-(PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[28] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout2 = `Chapters/Paper_2.aux'.
-
- (Chapters/Paper_2.tex
-Chapter 2.
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
-
- []
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[29
-
-
-
-
-] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 144--145
-
- []
-
-
-Overfull \hbox (12.93033pt too wide) in paragraph at lines 148--149
-\T1/ppl/m/n/10.95 search ef-forts to de-velop adap-ta-tion and mit-i-ga-tion st
-rate-gies in its pro-duc-tion ([][]Alexan-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
-
- []
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[30] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 152--153
-
- []
-
+(Font)              scaled to size 7.91925pt on input line 149.
 
 Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
@@ -2722,99 +2510,623 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+pdfTeX warning: pdflatex (file ./Figures/Chapter_1/Abu.div_2022_avg_plots.9.pdf
+): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<Figures/Chapter_1/Abu.div_2022_avg_plots.9.pdf, id=1233, 578.16pt x 722.7pt>
+File: Figures/Chapter_1/Abu.div_2022_avg_plots.9.pdf Graphic file (type pdf)
+<use Figures/Chapter_1/Abu.div_2022_avg_plots.9.pdf>
+Package pdftex.def Info: Figures/Chapter_1/Abu.div_2022_avg_plots.9.pdf  used o
+n input line 161.
+(pdftex.def)             Requested size: 231.2599pt x 289.07487pt.
 
-[31] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[20 <./Figures/Chapter_1/CH4_flux_water_acc.pdf>] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 169--170
+Overfull \hbox (0.8638pt too wide) in paragraph at lines 167--168
+\T1/ppl/m/n/10.95 served for the in-ter-ac-tion be-tween strate-gies and the sq
+uared sam-pling dates ($\OML/zplm/m/it/10.95 ^^_[]$\T1/ppl/m/n/10.95 =6.3,
+ []
+
+
+Overfull \hbox (3.73329pt too wide) in paragraph at lines 167--168
+\T1/ppl/m/it/10.95 p\T1/ppl/m/n/10.95 =0.043). Co-vari-ates with sig-nif-i-cant
+ ef-fect were the squared sam-pling dates ($\OML/zplm/m/it/10.95 ^^_[]$\T1/ppl/
+m/n/10.95 =10.0,
+ []
+
+
+Overfull \hbox (5.74765pt too wide) in paragraph at lines 167--168
+\T1/ppl/m/n/10.95 strate-gies was stud-ied for each in-de-pen-dent sam-pling da
+te, fit-ting in-di-vid-ual GLMMs
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
 
  []
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[32] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[21 <./Figures/Chapter_1/Abu.div_2022_avg_plots.9.pdf>] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+<Figures/Chapter_1/Arr.q0_ind.samp.pdf, id=1847, 1445.4pt x 722.7pt>
+File: Figures/Chapter_1/Arr.q0_ind.samp.pdf Graphic file (type pdf)
+<use Figures/Chapter_1/Arr.q0_ind.samp.pdf>
+Package pdftex.def Info: Figures/Chapter_1/Arr.q0_ind.samp.pdf  used on input l
+ine 172.
+(pdftex.def)             Requested size: 476.98347pt x 238.49173pt.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+Overfull \hbox (16.53865pt too wide) in paragraph at lines 178--179
+[]\T1/ppl/m/n/10.95 Shannon di-ver-sity var-ied sig-nif-i-cantly among dif-fer-
+ent ir-ri-ga-tion strate-gies ($\OML/zplm/m/it/10.95 ^^_[]$\T1/ppl/m/n/10.95 =1
+3.3,
+ []
 
-\openout3 = `PhD_Thesis_txt.mw'.
+<Figures/Chapter_1/Shannon_indiv2.pdf, id=1849, 722.7pt x 722.7pt>
+File: Figures/Chapter_1/Shannon_indiv2.pdf Graphic file (type pdf)
+<use Figures/Chapter_1/Shannon_indiv2.pdf>
+Package pdftex.def Info: Figures/Chapter_1/Shannon_indiv2.pdf  used on input li
+ne 183.
+(pdftex.def)             Requested size: 238.49173pt x 238.49173pt.
+<Figures/Chapter_1/Prod_2022_plot2.pdf, id=1851, 722.7pt x 722.7pt>
+File: Figures/Chapter_1/Prod_2022_plot2.pdf Graphic file (type pdf)
+<use Figures/Chapter_1/Prod_2022_plot2.pdf>
+Package pdftex.def Info: Figures/Chapter_1/Prod_2022_plot2.pdf  used on input l
+ine 196.
+(pdftex.def)             Requested size: 238.49173pt x 238.49173pt.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
 
-\openout3 = `PhD_Thesis_txt.mw'.
+ []
 
-\openout3 = `PhD_Thesis_txt.mw'.
 
-<Figures/Chapter_2/CERESTRES_Layout_2023_GSFS.pdf, id=2017, 1445.4pt x 813.0375
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[22 <./Figures/Chapter_1/Arr.q0_ind.samp.pdf>] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[23 <./Figures/Chapter_1/Shannon_indiv2.pdf>] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[24 <./Figures/Chapter_1/Prod_2022_plot2.pdf>] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[25] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[26] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[27] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[28] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+<Figures/Chapter_1/CERESTRES_layout.pdf, id=2054, 1445.4pt x 813.0375pt>
+File: Figures/Chapter_1/CERESTRES_layout.pdf Graphic file (type pdf)
+<use Figures/Chapter_1/CERESTRES_layout.pdf>
+Package pdftex.def Info: Figures/Chapter_1/CERESTRES_layout.pdf  used on input 
+line 260.
+(pdftex.def)             Requested size: 578.14977pt x 325.20924pt.
+<Figures/Chapter_1/mod_exp.png, id=2055, 409.53pt x 404.10976pt>
+File: Figures/Chapter_1/mod_exp.png Graphic file (type png)
+<use Figures/Chapter_1/mod_exp.png>
+Package pdftex.def Info: Figures/Chapter_1/mod_exp.png  used on input line 271.
+
+(pdftex.def)             Requested size: 327.62444pt x 323.28824pt.
+<Figures/Chapter_1/Corr_plot_nooutliers.pdf, id=2056, 794.97pt x 505.89pt>
+File: Figures/Chapter_1/Corr_plot_nooutliers.pdf Graphic file (type pdf)
+<use Figures/Chapter_1/Corr_plot_nooutliers.pdf>
+Package pdftex.def Info: Figures/Chapter_1/Corr_plot_nooutliers.pdf  used on in
+put line 282.
+(pdftex.def)             Requested size: 317.98236pt x 202.3524pt.
+<Figures/Chapter_1/Cluster_variables_pearson_5_nooutliers2.pdf, id=2057, 505.89
+pt x 289.08pt>
+File: Figures/Chapter_1/Cluster_variables_pearson_5_nooutliers2.pdf Graphic fil
+e (type pdf)
+<use Figures/Chapter_1/Cluster_variables_pearson_5_nooutliers2.pdf>
+Package pdftex.def Info: Figures/Chapter_1/Cluster_variables_pearson_5_nooutlie
+rs2.pdf  used on input line 293.
+(pdftex.def)             Requested size: 303.53633pt x 173.44933pt.
+<Figures/Chapter_1/Ind_vars_Treat_inter.pdf, id=2058, 722.7pt x 722.7pt>
+File: Figures/Chapter_1/Ind_vars_Treat_inter.pdf Graphic file (type pdf)
+<use Figures/Chapter_1/Ind_vars_Treat_inter.pdf>
+Package pdftex.def Info: Figures/Chapter_1/Ind_vars_Treat_inter.pdf  used on in
+put line 304.
+(pdftex.def)             Requested size: 433.62334pt x 433.62334pt.
+
+Overfull \hbox (41.37077pt too wide) in paragraph at lines 316--345
+ [][] 
+ []
+
+<Figures/Chapter_1/Abu.div_2022_avg_plots.perDate.pdf, id=2059, 722.7pt x 722.7
+pt>
+File: Figures/Chapter_1/Abu.div_2022_avg_plots.perDate.pdf Graphic file (type p
+df)
+<use Figures/Chapter_1/Abu.div_2022_avg_plots.perDate.pdf>
+Package pdftex.def Info: Figures/Chapter_1/Abu.div_2022_avg_plots.perDate.pdf  
+used on input line 487.
+(pdftex.def)             Requested size: 433.62334pt x 433.62334pt.
+)
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[29 <./Figures/Chapter_1/CERESTRES_layout.pdf>] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[30 <./Figures/Chapter_1/mod_exp.png>] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[31 <./Figures/Chapter_1/Corr_plot_nooutliers.pdf> <./Figures/Chapter_1/Cluster
+_variables_pearson_5_nooutliers2.pdf>] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[32 <./Figures/Chapter_1/Ind_vars_Treat_inter.pdf>] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[33] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[34] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[35 <./Figures/Chapter_1/Abu.div_2022_avg_plots.perDate.pdf>]
+(PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[36] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout2 = `Chapters/Paper_2.aux'.
+
+ (Chapters/Paper_2.tex
+Chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[37
+
+
+
+
+] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[38] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Overfull \hbox (12.93033pt too wide) in paragraph at lines 63--64
+\T1/ppl/m/n/10.95 search ef-forts to de-velop adap-ta-tion and mit-i-ga-tion st
+rate-gies in its pro-duc-tion ([][]Alexan-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[39] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[40] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+<Figures/Chapter_2/CERESTRES_Layout_2023_GSFS.pdf, id=2421, 1445.4pt x 813.0375
 pt>
 File: Figures/Chapter_2/CERESTRES_Layout_2023_GSFS.pdf Graphic file (type pdf)
 <use Figures/Chapter_2/CERESTRES_Layout_2023_GSFS.pdf>
 Package pdftex.def Info: Figures/Chapter_2/CERESTRES_Layout_2023_GSFS.pdf  used
- on input line 174.
+ on input line 89.
 (pdftex.def)             Requested size: 433.62335pt x 243.91313pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 180--181
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[33 <./Figures/Chapter_2/CERESTRES_Layout_2023_GSFS.pdf>] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[41 <./Figures/Chapter_2/CERESTRES_Layout_2023_GSFS.pdf>] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
-Overfull \hbox (25.83406pt too wide) in paragraph at lines 185--207
+Overfull \hbox (25.83406pt too wide) in paragraph at lines 100--122
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 214--217
+Underfull \hbox (badness 10000) in paragraph at lines 129--132
 
  []
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[34] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[42] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--223
+Underfull \hbox (badness 10000) in paragraph at lines 136--138
 
  []
 
 
-Overfull \hbox (22.70222pt too wide) in paragraph at lines 224--226
+Overfull \hbox (22.70222pt too wide) in paragraph at lines 139--141
 []\T1/ppl/m/n/10.95 Total DNA was ex-tracted from 250 mg of soil sub-samples us
 -ing DNeasy$[]$ PowerSoil$[]$
  []
 
 
-Overfull \hbox (12.15317pt too wide) in paragraph at lines 224--226
+Overfull \hbox (12.15317pt too wide) in paragraph at lines 139--141
 \T1/ppl/m/n/10.95 pop-u-la-tion (16Sr-RNA F341/R518) and methanogenic ar-chaea 
 (mcrA gene ME1F_qPCR
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--226
+Underfull \hbox (badness 10000) in paragraph at lines 139--141
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 237--238
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[43] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+
+Overfull \hbox (2.49574pt too wide) in paragraph at lines 169--172
+\T1/ppl/m/n/10.95 rRNA-metabarcoding as-sess-ment of bac-te-ria and ar-chaea th
+rough R pack-age \T1/ppl/m/it/10.95 DADA2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--172
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[44] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+<Figures/Chapter_2/CH4_flux_water_acc.pdf, id=2518, 1445.4pt x 722.7pt>
+File: Figures/Chapter_2/CH4_flux_water_acc.pdf Graphic file (type pdf)
+<use Figures/Chapter_2/CH4_flux_water_acc.pdf>
+Package pdftex.def Info: Figures/Chapter_2/CH4_flux_water_acc.pdf  used on inpu
+t line 182.
+(pdftex.def)             Requested size: 476.98347pt x 238.49173pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--191
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[45 <./Figures/Chapter_2/CH4_flux_water_acc.pdf>] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+<Figures/Chapter_2/Yield_GWP_GWPY_arr.pdf, id=2540, 722.7pt x 722.7pt>
+File: Figures/Chapter_2/Yield_GWP_GWPY_arr.pdf Graphic file (type pdf)
+<use Figures/Chapter_2/Yield_GWP_GWPY_arr.pdf>
+Package pdftex.def Info: Figures/Chapter_2/Yield_GWP_GWPY_arr.pdf  used on inpu
+t line 195.
+(pdftex.def)             Requested size: 325.21199pt x 325.21199pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+
+ []
+
+<Figures/Chapter_2/PCoA_stages_treatGSFS.pdf, id=2543, 867.24pt x 578.16pt>
+File: Figures/Chapter_2/PCoA_stages_treatGSFS.pdf Graphic file (type pdf)
+<use Figures/Chapter_2/PCoA_stages_treatGSFS.pdf>
+Package pdftex.def Info: Figures/Chapter_2/PCoA_stages_treatGSFS.pdf  used on i
+nput line 210.
+(pdftex.def)             Requested size: 346.88986pt x 231.2599pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[46] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+
+pdfTeX warning: pdflatex (file ./Figures/Chapter_2/FuncGroups_plot_arr3_annot.p
+df): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<Figures/Chapter_2/FuncGroups_plot_arr3_annot.pdf, id=2549, 1300.86pt x 650.43p
+t>
+File: Figures/Chapter_2/FuncGroups_plot_arr3_annot.pdf Graphic file (type pdf)
+<use Figures/Chapter_2/FuncGroups_plot_arr3_annot.pdf>
+Package pdftex.def Info: Figures/Chapter_2/FuncGroups_plot_arr3_annot.pdf  used
+ on input line 221.
+(pdftex.def)             Requested size: 481.31067pt x 240.65532pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[47 <./Figures/Chapter_2/Yield_GWP_GWPY_arr.pdf>] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+
+ []
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[48 <./Figures/Chapter_2/PCoA_stages_treatGSFS.pdf>] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[49 <./Figures/Chapter_2/FuncGroups_plot_arr3_annot.pdf>] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
 
  []
 
@@ -2824,460 +3136,320 @@ Underfull \hbox (badness 10000) in paragraph at lines 239--240
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--244
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
 
  []
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[35] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[50] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 249--250
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 251--252
-
- []
-
-
-Overfull \hbox (2.49574pt too wide) in paragraph at lines 254--257
-\T1/ppl/m/n/10.95 rRNA-metabarcoding as-sess-ment of bac-te-ria and ar-chaea th
-rough R pack-age \T1/ppl/m/it/10.95 DADA2
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 254--257
-
- []
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[36] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-<Figures/Chapter_2/CH4_flux_water_acc.pdf, id=2114, 1445.4pt x 722.7pt>
-File: Figures/Chapter_2/CH4_flux_water_acc.pdf Graphic file (type pdf)
-<use Figures/Chapter_2/CH4_flux_water_acc.pdf>
-Package pdftex.def Info: Figures/Chapter_2/CH4_flux_water_acc.pdf  used on inpu
-t line 267.
-(pdftex.def)             Requested size: 476.98347pt x 238.49173pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 274--276
-
- []
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[37 <./Figures/Chapter_2/CH4_flux_water_acc.pdf>] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-<Figures/Chapter_2/Yield_GWP_GWPY_arr.pdf, id=2133, 722.7pt x 722.7pt>
-File: Figures/Chapter_2/Yield_GWP_GWPY_arr.pdf Graphic file (type pdf)
-<use Figures/Chapter_2/Yield_GWP_GWPY_arr.pdf>
-Package pdftex.def Info: Figures/Chapter_2/Yield_GWP_GWPY_arr.pdf  used on inpu
-t line 280.
-(pdftex.def)             Requested size: 325.21199pt x 325.21199pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 286--287
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 290--291
-
- []
-
-<Figures/Chapter_2/PCoA_stages_treatGSFS.pdf, id=2136, 867.24pt x 578.16pt>
-File: Figures/Chapter_2/PCoA_stages_treatGSFS.pdf Graphic file (type pdf)
-<use Figures/Chapter_2/PCoA_stages_treatGSFS.pdf>
-Package pdftex.def Info: Figures/Chapter_2/PCoA_stages_treatGSFS.pdf  used on i
-nput line 295.
-(pdftex.def)             Requested size: 346.88986pt x 231.2599pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 301--302
-
- []
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[38] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-
-pdfTeX warning: pdflatex (file ./Figures/Chapter_2/FuncGroups_plot_arr3_annot.p
-df): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Figures/Chapter_2/FuncGroups_plot_arr3_annot.pdf, id=2142, 1300.86pt x 650.43p
-t>
-File: Figures/Chapter_2/FuncGroups_plot_arr3_annot.pdf Graphic file (type pdf)
-<use Figures/Chapter_2/FuncGroups_plot_arr3_annot.pdf>
-Package pdftex.def Info: Figures/Chapter_2/FuncGroups_plot_arr3_annot.pdf  used
- on input line 306.
-(pdftex.def)             Requested size: 481.31067pt x 240.65532pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 315--316
-
- []
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[39 <./Figures/Chapter_2/Yield_GWP_GWPY_arr.pdf>] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 318--319
-
- []
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[40 <./Figures/Chapter_2/PCoA_stages_treatGSFS.pdf>] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[41 <./Figures/Chapter_2/FuncGroups_plot_arr3_annot.pdf>] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 321--322
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 324--325
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 327--328
-
- []
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[42] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-Overfull \hbox (3.7271pt too wide) in paragraph at lines 330--331
+Overfull \hbox (3.7271pt too wide) in paragraph at lines 245--246
 []\T1/ppl/m/n/10.95 Soil CH$[]$ con-cen-tra-tion is one of the con-trol-ling fa
 c-tors for methan-otrophic growth
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 330--331
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 333--336
+Underfull \hbox (badness 10000) in paragraph at lines 248--251
 
  []
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[43] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[51] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
-Overfull \hbox (0.88068pt too wide) in paragraph at lines 338--339
+Overfull \hbox (0.88068pt too wide) in paragraph at lines 253--254
 []\T1/ppl/m/n/10.95 The se-vere drought con-di-tions un-der which this ex-per-i
 -ment was con-ducted high-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 338--339
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--347
+Underfull \hbox (badness 10000) in paragraph at lines 258--262
 
  []
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[44] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[52] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[45] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[53] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-<Figures/Chapter_2/CH4_flux_water.pdf, id=2330, 1445.4pt x 722.7pt>
+<Figures/Chapter_2/CH4_flux_water.pdf, id=2735, 1445.4pt x 722.7pt>
 File: Figures/Chapter_2/CH4_flux_water.pdf Graphic file (type pdf)
 <use Figures/Chapter_2/CH4_flux_water.pdf>
 Package pdftex.def Info: Figures/Chapter_2/CH4_flux_water.pdf  used on input li
-ne 390.
+ne 305.
 (pdftex.def)             Requested size: 505.89758pt x 252.94878pt.
-<Figures/Chapter_2/N2O_flux_acc_water.pdf, id=2331, 1445.4pt x 722.7pt>
+<Figures/Chapter_2/N2O_flux_acc_water.pdf, id=2736, 1445.4pt x 722.7pt>
 File: Figures/Chapter_2/N2O_flux_acc_water.pdf Graphic file (type pdf)
 <use Figures/Chapter_2/N2O_flux_acc_water.pdf>
 Package pdftex.def Info: Figures/Chapter_2/N2O_flux_acc_water.pdf  used on inpu
-t line 400.
+t line 315.
 (pdftex.def)             Requested size: 505.89758pt x 252.94878pt.
-<Figures/Chapter_2/CERESTRES_meso_2023.pdf, id=2332, 1445.4pt x 813.0375pt>
+<Figures/Chapter_2/CERESTRES_meso_2023.pdf, id=2737, 1445.4pt x 813.0375pt>
 File: Figures/Chapter_2/CERESTRES_meso_2023.pdf Graphic file (type pdf)
 <use Figures/Chapter_2/CERESTRES_meso_2023.pdf>
 Package pdftex.def Info: Figures/Chapter_2/CERESTRES_meso_2023.pdf  used on inp
-ut line 459.
+ut line 374.
 (pdftex.def)             Requested size: 433.62335pt x 243.91313pt.
-<Figures/Chapter_2/Meteocat_temp.pdf, id=2333, 505.89pt x 361.35pt>
+<Figures/Chapter_2/Meteocat_temp.pdf, id=2738, 505.89pt x 361.35pt>
 File: Figures/Chapter_2/Meteocat_temp.pdf Graphic file (type pdf)
 <use Figures/Chapter_2/Meteocat_temp.pdf>
 Package pdftex.def Info: Figures/Chapter_2/Meteocat_temp.pdf  used on input lin
-e 470.
+e 385.
 (pdftex.def)             Requested size: 404.71254pt x 289.0804pt.
-<Figures/Chapter_2/Meso_vs_Field_Plot.pdf, id=2334, 1011.78pt x 722.7pt>
+<Figures/Chapter_2/Meso_vs_Field_Plot.pdf, id=2739, 1011.78pt x 722.7pt>
 File: Figures/Chapter_2/Meso_vs_Field_Plot.pdf Graphic file (type pdf)
 <use Figures/Chapter_2/Meso_vs_Field_Plot.pdf>
 Package pdftex.def Info: Figures/Chapter_2/Meso_vs_Field_Plot.pdf  used on inpu
-t line 481.
+t line 396.
 (pdftex.def)             Requested size: 475.53667pt x 339.66904pt.
 )
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[46 <./Figures/Chapter_2/CH4_flux_water.pdf>] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[54 <./Figures/Chapter_2/CH4_flux_water.pdf>] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[47 <./Figures/Chapter_2/N2O_flux_acc_water.pdf>] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[48 <./Figures/Chapter_2/CERESTRES_meso_2023.pdf>] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[49 <./Figures/Chapter_2/Meteocat_temp.pdf>] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[55 <./Figures/Chapter_2/N2O_flux_acc_water.pdf>] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[50 <./Figures/Chapter_2/Meso_vs_Field_Plot.pdf>] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[56 <./Figures/Chapter_2/CERESTRES_meso_2023.pdf>] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[57 <./Figures/Chapter_2/Meteocat_temp.pdf>] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[58 <./Figures/Chapter_2/Meso_vs_Field_Plot.pdf>] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
 (PhD_Thesis_txt.bbl
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[51
-
-
-
-] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[59
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[52] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[53] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[54] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[60] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
-Underfull \hbox (badness 2662) in paragraph at lines 593--598
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[61] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[62] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[63] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[64] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 841--846
 []\T1/ppl/m/n/10.95 Hartig, F., 2018.  DHARMa: Resid-ual di-ag-nos-tics for hi-
 er-ar-chi-cal (multi-
  []
 
 
-Underfull \hbox (badness 2662) in paragraph at lines 599--606
+Underfull \hbox (badness 2662) in paragraph at lines 847--854
 []\T1/ppl/m/n/10.95 Hartig, F., 2020.  DHARMa: Resid-ual di-ag-nos-tics for hi-
 er-ar-chi-cal (multi-
  []
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[55] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[56] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[65] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[57] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[58] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[66] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[59] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[60] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[67] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[61] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[62] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[68] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
-Underfull \hbox (badness 1259) in paragraph at lines 1677--1686
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[69] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[70] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[71] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[72] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[73] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[74] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 2179--2188
 []\T1/ppl/m/n/10.95 Swift, M.S., Van-der-meer, J., Ra-makr-ish-nan, P.S., An-de
 r-son, J.M., Ong, C.K.,
  []
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[63] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[64] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[75] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 
-Underfull \hbox (badness 1082) in paragraph at lines 2014--2020
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[76] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+[77] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 2595--2601
 \T1/ppl/m/n/10.95 An-nual Re-view of En-vi-ron-ment and Re-sources 35, 137--166
 .  doi:[][]$\T1/cmtt/m/n/10.95 10 . 1146 /
  []
-
-
-
-\openout3 = `PhD_Thesis_txt.mw'.
-
-[65] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
 
 )
 \Changes@OutFile=\write141
 \openout3 = `PhD_Thesis_txt.soc'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 \openout3 = `PhD_Thesis_txt.soc'.
 
@@ -3286,307 +3458,315 @@ Underfull \hbox (badness 1082) in paragraph at lines 2014--2020
 
 
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-[66] (PhD_Thesis_txt.mw)
-\openout3 = `PhD_Thesis_txt.mw'.
+[78] (PhD_Thesis_txt1.mw)
+\openout3 = `PhD_Thesis_txt1.mw'.
 
  (PhD_Thesis_txt.aux
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
  (Chapters/Introduction.aux
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
+
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 )
 (Chapters/Paper_1_2ndrev.aux
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 ) (Chapters/Paper_2.aux
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
-\openout3 = `PhD_Thesis_txt.mw'.
+\openout3 = `PhD_Thesis_txt1.mw'.
 
 ))
  ***********
@@ -3600,7 +3780,7 @@ LaTeX Warning: There were multiply-defined labels.
 \openout3 = `PhD_Thesis_txt.out'.
 
 Package rerunfilecheck Info: File `PhD_Thesis_txt.out' has not changed.
-(rerunfilecheck)             Checksum: 2FC8A948B87B3581638050CAA712E311;6179.
+(rerunfilecheck)             Checksum: B07E7E34A33D9E4A21BF87EE0865B3CF;6179.
 \openout3 = `PhD_Thesis_txt.toc'.
 
 \openout3 = `PhD_Thesis_txt.lof'.
@@ -3611,28 +3791,29 @@ Package rerunfilecheck Info: File `PhD_Thesis_txt.out' has not changed.
 
  ) 
 Here is how much of TeX's memory you used:
- 48430 strings out of 469958
- 1077479 string characters out of 5466909
- 1526321 words of memory out of 5000000
- 73307 multiletter control sequences out of 15000+600000
- 706711 words of font info for 194 fonts, out of 8000000 for 9000
+ 48808 strings out of 469958
+ 1086384 string characters out of 5466909
+ 1531380 words of memory out of 5000000
+ 73521 multiletter control sequences out of 15000+600000
+ 708577 words of font info for 197 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 118i,20n,120p,3990b,1607s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 118i,20n,120p,3990b,1727s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\SECHEVERRIA\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ectt1095.pk><C:/Users/SECHEVERRIA/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmmi10.pfb><C:/Users/SECHEVERRIA/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/SECHEVERRIA/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/SECHEVERRIA
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/mathpazo/fplmr.pfb><C:/Users/
-SECHEVERRIA/AppData/Local/Programs/MiKTeX/fonts/type1/public/mathpazo/fplmri.pf
-b><C:/Users/SECHEVERRIA/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/
-uplb8a.pfb><C:/Users/SECHEVERRIA/AppData/Local/Programs/MiKTeX/fonts/type1/urw/
-palatino/uplr8a.pfb><C:/Users/SECHEVERRIA/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/urw/palatino/uplr8a.pfb><C:/Users/SECHEVERRIA/AppData/Local/Programs/MiKTe
-X/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on PhD_Thesis_txt.pdf (86 pages, 5835974 bytes).
+0\ectt1095.pk> <C:\Users\SECHEVERRIA\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ectt0900.pk><C:/Users/SECHEVERRIA/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/SECHEVERRIA/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/SECHEVERRIA/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users
+/SECHEVERRIA/AppData/Local/Programs/MiKTeX/fonts/type1/public/mathpazo/fplmr.pf
+b><C:/Users/SECHEVERRIA/AppData/Local/Programs/MiKTeX/fonts/type1/public/mathpa
+zo/fplmri.pfb><C:/Users/SECHEVERRIA/AppData/Local/Programs/MiKTeX/fonts/type1/u
+rw/palatino/uplb8a.pfb><C:/Users/SECHEVERRIA/AppData/Local/Programs/MiKTeX/font
+s/type1/urw/palatino/uplr8a.pfb><C:/Users/SECHEVERRIA/AppData/Local/Programs/Mi
+KTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/SECHEVERRIA/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on PhD_Thesis_txt.pdf (98 pages, 8009709 bytes).
 PDF statistics:
- 2868 PDF objects out of 2984 (max. 8388607)
- 358 named destinations out of 1000 (max. 500000)
- 555 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3392 PDF objects out of 3580 (max. 8388607)
+ 452 named destinations out of 1000 (max. 500000)
+ 565 words of extra memory for PDF output out of 10000 (max. 10000000)
 

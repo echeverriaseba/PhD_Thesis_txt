@@ -10,58 +10,62 @@ A level-1 auxiliary file: Chapters/Paper_1_2ndrev.aux
 Reallocating 'name_of_file' (item size: 1) to 21 items.
 A level-1 auxiliary file: Chapters/Paper_2.aux
 Reallocating 'name_of_file' (item size: 1) to 15 items.
-Reallocating 'field_info' (item size: 4) to 10365 items.
+Reallocating 'field_info' (item size: 4) to 12192 items.
 Database file #1: PhD_Thesis_bib.bib
-Repeated entry---line 3985 of file PhD_Thesis_bib.bib
+Repeated entry---line 4361 of file PhD_Thesis_bib.bib
  : @article{IPCC2007
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 4866 of file PhD_Thesis_bib.bib
+Repeated entry---line 5268 of file PhD_Thesis_bib.bib
  : @article{lenth2019emmeans
  :                          ,
 I'm skipping whatever remains of this entry
+Reallocating 'str_pool' (item size: 1) to 130000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
+Warning--empty pages in cop102008enhancing
 Warning--empty pages in nicholls1998
+Warning--empty journal in okada2011
+Warning--empty journal in sandhu1981irrigation
 Warning--can't use both author and editor fields in Swift1996-qx
-You've used 185 entries,
+You've used 248 entries,
             2990 wiz_defined-function locations,
-            1808 strings with 55403 characters,
-and the built_in function-call counts, 150660 in all, are:
-= -- 10619
-> -- 8328
-< -- 65
-+ -- 3199
-- -- 2980
-* -- 18331
-:= -- 22120
-add.period$ -- 690
-call.type$ -- 185
-change.case$ -- 1909
-chr.to.int$ -- 177
-cite$ -- 187
-duplicate$ -- 10209
-empty$ -- 9600
-format.name$ -- 3506
-if$ -- 27169
-int.to.chr$ -- 9
+            2138 strings with 68577 characters,
+and the built_in function-call counts, 195245 in all, are:
+= -- 13885
+> -- 10364
+< -- 102
++ -- 3992
+- -- 3695
+* -- 23353
+:= -- 28641
+add.period$ -- 898
+call.type$ -- 248
+change.case$ -- 2458
+chr.to.int$ -- 237
+cite$ -- 253
+duplicate$ -- 13476
+empty$ -- 12743
+format.name$ -- 4386
+if$ -- 35390
+int.to.chr$ -- 12
 int.to.str$ -- 1
-missing$ -- 2252
-newline$ -- 1075
-num.names$ -- 750
-pop$ -- 3553
+missing$ -- 2905
+newline$ -- 1409
+num.names$ -- 1006
+pop$ -- 4739
 preamble$ -- 1
-purify$ -- 1723
+purify$ -- 2209
 quote$ -- 0
-skip$ -- 2707
+skip$ -- 3663
 stack$ -- 0
-substring$ -- 5420
-swap$ -- 8543
-text.length$ -- 12
+substring$ -- 7092
+swap$ -- 10974
+text.length$ -- 21
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1635
-warning$ -- 2
-while$ -- 829
+type$ -- 2190
+warning$ -- 5
+while$ -- 1102
 width$ -- 0
-write$ -- 2874
+write$ -- 3795
 (There were 2 error messages)

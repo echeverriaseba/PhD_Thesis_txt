@@ -9,14 +9,22 @@ Reallocating 'name_of_file' (item size: 1) to 28 items.
 A level-1 auxiliary file: Chapters/Paper_1_2ndrev.aux
 Reallocating 'name_of_file' (item size: 1) to 21 items.
 A level-1 auxiliary file: Chapters/Paper_2.aux
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+A level-1 auxiliary file: Chapters/Discussion.aux
+Reallocating 'name_of_file' (item size: 1) to 25 items.
+A level-1 auxiliary file: Chapters/Conclusions.aux
 Reallocating 'name_of_file' (item size: 1) to 15 items.
-Reallocating 'field_info' (item size: 4) to 12192 items.
+Reallocating 'field_info' (item size: 4) to 12859 items.
 Database file #1: PhD_Thesis_bib.bib
-Repeated entry---line 4361 of file PhD_Thesis_bib.bib
+Repeated entry---line 3353 of file PhD_Thesis_bib.bib
+ : @article{gao2024effects
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4590 of file PhD_Thesis_bib.bib
  : @article{IPCC2007
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5268 of file PhD_Thesis_bib.bib
+Repeated entry---line 5496 of file PhD_Thesis_bib.bib
  : @article{lenth2019emmeans
  :                          ,
 I'm skipping whatever remains of this entry
@@ -25,47 +33,49 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Warning--empty pages in cop102008enhancing
 Warning--empty pages in nicholls1998
 Warning--empty journal in okada2011
+Warning--empty note in perez-mendez2025a
 Warning--empty journal in sandhu1981irrigation
 Warning--can't use both author and editor fields in Swift1996-qx
-You've used 248 entries,
+Warning--empty journal in tivet2017climate
+You've used 271 entries,
             2990 wiz_defined-function locations,
-            2138 strings with 68577 characters,
-and the built_in function-call counts, 195245 in all, are:
-= -- 13885
-> -- 10364
-< -- 102
-+ -- 3992
-- -- 3695
-* -- 23353
-:= -- 28641
-add.period$ -- 898
-call.type$ -- 248
-change.case$ -- 2458
-chr.to.int$ -- 237
-cite$ -- 253
-duplicate$ -- 13476
-empty$ -- 12743
-format.name$ -- 4386
-if$ -- 35390
-int.to.chr$ -- 12
+            2277 strings with 74870 characters,
+and the built_in function-call counts, 213362 in all, are:
+= -- 15200
+> -- 11282
+< -- 111
++ -- 4348
+- -- 4022
+* -- 25499
+:= -- 31275
+add.period$ -- 979
+call.type$ -- 271
+change.case$ -- 2682
+chr.to.int$ -- 262
+cite$ -- 278
+duplicate$ -- 14729
+empty$ -- 13947
+format.name$ -- 4784
+if$ -- 38702
+int.to.chr$ -- 10
 int.to.str$ -- 1
-missing$ -- 2905
-newline$ -- 1409
-num.names$ -- 1006
-pop$ -- 4739
+missing$ -- 3167
+newline$ -- 1536
+num.names$ -- 1098
+pop$ -- 5171
 preamble$ -- 1
-purify$ -- 2209
+purify$ -- 2410
 quote$ -- 0
-skip$ -- 3663
+skip$ -- 4015
 stack$ -- 0
-substring$ -- 7092
-swap$ -- 10974
-text.length$ -- 21
+substring$ -- 7822
+swap$ -- 11985
+text.length$ -- 23
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 2190
-warning$ -- 5
-while$ -- 1102
+type$ -- 2397
+warning$ -- 7
+while$ -- 1205
 width$ -- 0
-write$ -- 3795
-(There were 2 error messages)
+write$ -- 4143
+(There were 3 error messages)

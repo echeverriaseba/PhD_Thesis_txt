@@ -213,7 +213,9 @@
  \def\ttitle{#2}%
 }
 \DeclareDocumentCommand{\author}{m}{\newcommand{\authorname}{#1}\renewcommand{\@author}{#1}}
-\NewDocumentCommand{\supervisor}{m}{\newcommand{\supname}{#1}}
+\NewDocumentCommand{\supervisor}{m}{\newcommand{\supname}{#1}} 
+%\NewDocumentCommand{\supervisor1}{m}{\newcommand{\supname1}{#1}} % added by Seba
+%\NewDocumentCommand{\supervisor2}{m}{\newcommand{\supname2}{#2}}% added by Seba
 \NewDocumentCommand{\examiner}{m}{\newcommand{\examname}{#1}}
 %\NewDocumentCommand{\degree}{m}{\newcommand{\degreename}{#1}} - Seba: noted out
 \NewDocumentCommand{\addresses}{m}{\newcommand{\addressname}{#1}}
@@ -363,7 +365,7 @@ KOMA-script documentation for details.}]{fancyhdr}
 			\bigskip
 			{\huge\textit{\abstractname} \par}
 			\bigskip
-			{\normalsize \facname \par}% Faculty name
+			%{\normalsize \facname \par}% Faculty name - Seba commented out
 			{\normalsize \deptname \par}% Department name
 %			\bigskip
 %			{\normalsize \degreename\par}% Degree name - Seba: noted out

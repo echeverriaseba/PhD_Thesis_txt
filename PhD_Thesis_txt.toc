@@ -19,7 +19,6 @@
 \contentsline {section}{\numberline {1.4}Discussion}{23}{section.56}%
 \contentsline {section}{\numberline {1.5}Conclusions}{26}{section.57}%
 \contentsline {section}{\numberline {1.6}Appendix to Chapter 1}{29}{section.60}%
-\contentsline {chapter}{Appendix to Chapter 1}{29}{section.60}%
 \contentsline {chapter}{\numberline {2}Climate change mitigation through irrigation strategies during rice growing season is off-set in fallow season}{37}{chapter.72}%
 \contentsline {section}{\numberline {2.1}Introduction}{38}{section.74}%
 \contentsline {section}{\numberline {2.2}Materials and methods}{40}{section.75}%
@@ -34,4 +33,5 @@
 \contentsline {section}{\numberline {2.4}Discussion}{48}{section.93}%
 \contentsline {section}{\numberline {2.5}Conclusions}{53}{section.94}%
 \contentsline {section}{\numberline {2.6}Appendix to Chapter 2}{54}{section.97}%
-\contentsline {chapter}{Appendix to Chapter 2}{54}{section.97}%
+\contentsline {chapter}{Synthesis and general discussion}{59}{chapter*.104}%
+\contentsline {chapter}{Conclusions}{65}{chapter*.106}%

@@ -1,11 +1,11 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: Paper_1_2ndrev.aux
-I found no \bibdata command---while reading file Paper_1_2ndrev.aux
-I found no \bibstyle command---while reading file Paper_1_2ndrev.aux
-You've used 99 entries,
+The top-level auxiliary file: Discussion.aux
+I found no \bibdata command---while reading file Discussion.aux
+I found no \bibstyle command---while reading file Discussion.aux
+You've used 44 entries,
             0 wiz_defined-function locations,
-            183 strings with 1639 characters,
+            127 strings with 1051 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0
